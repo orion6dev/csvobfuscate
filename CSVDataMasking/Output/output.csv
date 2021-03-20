@@ -1,0 +1,999 @@
+Transaction_date,Product,Price,Payment_Type,Name,City,State,Country,Account_Created,Last_Login,Latitude,Longitude,US Zip
+Transaction_date # 0,Product # 0,Price # 0,Visa,Name # 0,Parkville,MO,United States,Account_Created # 0,Last_Login # 0,Latitude # 0,-94.68194,64152
+Transaction_date # 1,Product # 1,Price # 1,Mastercard,Name # 1,Astoria,OR,United States,Account_Created # 1,Last_Login # 1,Latitude # 1,-123.83,97103
+Transaction_date # 2,Product # 2,Price # 2,Visa,Name # 2,Cahaba Heights,AL,United States,Account_Created # 2,Last_Login # 2,Latitude # 2,-86.8025,35243
+Transaction_date # 3,Product # 3,Price # 3,Visa,Name # 3,Mickleton,NJ,United States,Account_Created # 3,Last_Login # 3,Latitude # 3,-75.23806,08056
+Transaction_date # 4,Product # 4,Price # 4,Mastercard,Name # 4,Peoria,IL,United States,Account_Created # 4,Last_Login # 4,Latitude # 4,-89.58889,61601
+Transaction_date # 5,Product # 5,Price # 5,Mastercard,Name # 5,Martin,TN,United States,Account_Created # 5,Last_Login # 5,Latitude # 5,-88.85028,38237
+Transaction_date # 6,Product # 6,Price # 6,Diners,Name # 6,New York,NY,United States,Account_Created # 6,Last_Login # 6,Latitude # 6,-74.00639,10002
+Transaction_date # 7,Product # 7,Price # 7,Mastercard,Name # 7,Shavano Park,TX,United States,Account_Created # 7,Last_Login # 7,Latitude # 7,-98.49333,78230
+Transaction_date # 8,Product # 8,Price # 8,Visa,Name # 8,Eagle,ID,United States,Account_Created # 8,Last_Login # 8,Latitude # 8,-116.35306,83616
+Transaction_date # 9,Product # 9,Price # 9,Visa,Name # 9,Riverside,NJ,United States,Account_Created # 9,Last_Login # 9,Latitude # 9,-74.95778,08075
+Transaction_date # 10,Product # 10,Price # 10,Diners,Name # 10,Salt Lake City,UT,United States,Account_Created # 10,Last_Login # 10,Latitude # 10,-111.89028,84111
+Transaction_date # 11,Product # 11,Price # 11,Visa,Name # 11,Chula Vista,CA,United States,Account_Created # 11,Last_Login # 11,Latitude # 11,-117.08333,91910
+Transaction_date # 12,Product # 12,Price # 12,Visa,Name # 12,Sugar Land,TX,United States,Account_Created # 12,Last_Login # 12,Latitude # 12,-95.63472,77478
+Transaction_date # 13,Product # 13,Price # 13,Diners,Name # 13,New York,NY,United States,Account_Created # 13,Last_Login # 13,Latitude # 13,-74.00639,10007
+Transaction_date # 14,Product # 14,Price # 14,Visa,Name # 14,Morton,IL,United States,Account_Created # 14,Last_Login # 14,Latitude # 14,-89.45917,61550
+Transaction_date # 15,Product # 15,Price # 15,Visa,Name # 15,Los Gatos,CA,United States,Account_Created # 15,Last_Login # 15,Latitude # 15,-121.97361,95032
+Transaction_date # 16,Product # 16,Price # 16,Mastercard,Name # 16,New York,NY,United States,Account_Created # 16,Last_Login # 16,Latitude # 16,-74.00639,10007
+Transaction_date # 17,Product # 17,Price # 17,Mastercard,Name # 17,Miami,FL,United States,Account_Created # 17,Last_Login # 17,Latitude # 17,-80.19389,33130
+Transaction_date # 18,Product # 18,Price # 18,Diners,Name # 18,Brooklyn,NY,United States,Account_Created # 18,Last_Login # 18,Latitude # 18,-73.95,11226
+Transaction_date # 19,Product # 19,Price # 19,Amex,Name # 19,Reston,VA,United States,Account_Created # 19,Last_Login # 19,Latitude # 19,-77.34139,20190
+Transaction_date # 20,Product # 20,Price # 20,Visa,Name # 20,Phoenix,AZ,United States,Account_Created # 20,Last_Login # 20,Latitude # 20,-112.07333,85004
+Transaction_date # 21,Product # 21,Price # 21,Mastercard,Name # 21,Houston,TX,United States,Account_Created # 21,Last_Login # 21,Latitude # 21,-95.36306,77002
+Transaction_date # 22,Product # 22,Price # 22,Amex,Name # 22,Pittsfield,VT,United States,Account_Created # 22,Last_Login # 22,Latitude # 22,-72.81333,05762
+Transaction_date # 23,Product # 23,Price # 23,Amex,Name # 23,Pittsfield,VT,United States,Account_Created # 23,Last_Login # 23,Latitude # 23,-72.81333,05762
+Transaction_date # 24,Product # 24,Price # 24,Mastercard,Name # 24,Ball Ground,GA,United States,Account_Created # 24,Last_Login # 24,Latitude # 24,-84.37667,30107
+Transaction_date # 25,Product # 25,Price # 25,Visa,Name # 25,Flossmoor,IL,United States,Account_Created # 25,Last_Login # 25,Latitude # 25,-87.68472,60422
+Transaction_date # 26,Product # 26,Price # 26,Amex,Name # 26,Houston,TX,United States,Account_Created # 26,Last_Login # 26,Latitude # 26,-95.36306,77002
+Transaction_date # 27,Product # 27,Price # 27,Visa,Name # 27,Delray Beach,FL,United States,Account_Created # 27,Last_Login # 27,Latitude # 27,-80.07306,33444
+Transaction_date # 28,Product # 28,Price # 28,Amex,Name # 28,Sandy Springs,GA,United States,Account_Created # 28,Last_Login # 28,Latitude # 28,-84.37861,30328
+Transaction_date # 29,Product # 29,Price # 29,Visa,Name # 29,Fort Lauderdale,FL,United States,Account_Created # 29,Last_Login # 29,Latitude # 29,-80.14361,33301
+Transaction_date # 30,Product # 30,Price # 30,Visa,Name # 30,Ankeny,IA,United States,Account_Created # 30,Last_Login # 30,Latitude # 30,-93.60556,50023
+Transaction_date # 31,Product # 31,Price # 31,Visa,Name # 31,Pittsboro,NC,United States,Account_Created # 31,Last_Login # 31,Latitude # 31,-79.1775,27312
+Transaction_date # 32,Product # 32,Price # 32,Mastercard,Name # 32,New Rochelle,NY,United States,Account_Created # 32,Last_Login # 32,Latitude # 32,-73.78278,10801
+Transaction_date # 33,Product # 33,Price # 33,Mastercard,Name # 33,Beachwood,OH,United States,Account_Created # 33,Last_Login # 33,Latitude # 33,-81.50889,44122
+Transaction_date # 34,Product # 34,Price # 34,Mastercard,Name # 34,W Lebanon,NH,United States,Account_Created # 34,Last_Login # 34,Latitude # 34,-72.31083,03784
+Transaction_date # 35,Product # 35,Price # 35,Visa,Name # 35,Woodsboro,MD,United States,Account_Created # 35,Last_Login # 35,Latitude # 35,-77.315,21798
+Transaction_date # 36,Product # 36,Price # 36,Diners,Name # 36,Memphis,TN,United States,Account_Created # 36,Last_Login # 36,Latitude # 36,-90.04889,38103
+Transaction_date # 37,Product # 37,Price # 37,Visa,Name # 37,Cincinnati,OH,United States,Account_Created # 37,Last_Login # 37,Latitude # 37,-84.45694,45212
+Transaction_date # 38,Product # 38,Price # 38,Visa,Name # 38,Staten Island,NY,United States,Account_Created # 38,Last_Login # 38,Latitude # 38,-74.15917,10303
+Transaction_date # 39,Product # 39,Price # 39,Visa,Name # 39,Farmington,MI,United States,Account_Created # 39,Last_Login # 39,Latitude # 39,-83.37639,48336
+Transaction_date # 40,Product # 40,Price # 40,Diners,Name # 40,Santa Monica,CA,United States,Account_Created # 40,Last_Login # 40,Latitude # 40,-118.49028,90401
+Transaction_date # 41,Product # 41,Price # 41,Mastercard,Name # 41,Irvine,CA,United States,Account_Created # 41,Last_Login # 41,Latitude # 41,-117.82222,92614
+Transaction_date # 42,Product # 42,Price # 42,Visa,Name # 42,Keller,VA,United States,Account_Created # 42,Last_Login # 42,Latitude # 42,-75.76417,23401
+Transaction_date # 43,Product # 43,Price # 43,Mastercard,Name # 43,Honolulu,HI,United States,Account_Created # 43,Last_Login # 43,Latitude # 43,-157.85833,96813
+Transaction_date # 44,Product # 44,Price # 44,Visa,Name # 44,Amelia Island,FL,United States,Account_Created # 44,Last_Login # 44,Latitude # 44,-81.46278,32034
+Transaction_date # 45,Product # 45,Price # 45,Mastercard,Name # 45,Coral Gables,FL,United States,Account_Created # 45,Last_Login # 45,Latitude # 45,-80.26861,33146
+Transaction_date # 46,Product # 46,Price # 46,Visa,Name # 46,Miami,FL,United States,Account_Created # 46,Last_Login # 46,Latitude # 46,-80.19389,33130
+Transaction_date # 47,Product # 47,Price # 47,Visa,Name # 47,Englewood,CO,United States,Account_Created # 47,Last_Login # 47,Latitude # 47,-104.98722,80113
+Transaction_date # 48,Product # 48,Price # 48,Mastercard,Name # 48,Genoa,IL,United States,Account_Created # 48,Last_Login # 48,Latitude # 48,-88.69278,60135
+Transaction_date # 49,Product # 49,Price # 49,Visa,Name # 49,Parkland,FL,United States,Account_Created # 49,Last_Login # 49,Latitude # 49,-80.2375,33067
+Transaction_date # 50,Product # 50,Price # 50,Amex,Name # 50,San Francisco,CA,United States,Account_Created # 50,Last_Login # 50,Latitude # 50,-122.41833,94103
+Transaction_date # 51,Product # 51,Price # 51,Mastercard,Name # 51,Keller,VA,United States,Account_Created # 51,Last_Login # 51,Latitude # 51,-75.76417,23401
+Transaction_date # 52,Product # 52,Price # 52,Mastercard,Name # 52,Clinton,NJ,United States,Account_Created # 52,Last_Login # 52,Latitude # 52,-74.91028,08809
+Transaction_date # 53,Product # 53,Price # 53,Mastercard,Name # 53,Owensboro,KY,United States,Account_Created # 53,Last_Login # 53,Latitude # 53,-87.11333,42303
+Transaction_date # 54,Product # 54,Price # 54,Visa,Name # 54,Lakewood Village,TX,United States,Account_Created # 54,Last_Login # 54,Latitude # 54,-96.96917,75068
+Transaction_date # 55,Product # 55,Price # 55,Visa,Name # 55,College Park,MD,United States,Account_Created # 55,Last_Login # 55,Latitude # 55,-76.93722,20740
+Transaction_date # 56,Product # 56,Price # 56,Visa,Name # 56,Kailua Kona,HI,United States,Account_Created # 56,Last_Login # 56,Latitude # 56,-155.9003,96740
+Transaction_date # 57,Product # 57,Price # 57,Amex,Name # 57,Redondo Beach,CA,United States,Account_Created # 57,Last_Login # 57,Latitude # 57,-118.3875,90277
+Transaction_date # 58,Product # 58,Price # 58,Amex,Name # 58,Fountain Hls,AZ,United States,Account_Created # 58,Last_Login # 58,Latitude # 58,-111.71667,85268
+Transaction_date # 59,Product # 59,Price # 59,Mastercard,Name # 59,Mahopac,NY,United States,Account_Created # 59,Last_Login # 59,Latitude # 59,-73.73389,10541
+Transaction_date # 60,Product # 60,Price # 60,Visa,Name # 60,Chicago,IL,United States,Account_Created # 60,Last_Login # 60,Latitude # 60,-87.65,60608
+Transaction_date # 61,Product # 61,Price # 61,Visa,Name # 61,Rayford,TX,United States,Account_Created # 61,Last_Login # 61,Latitude # 61,-95.41694,77373
+Transaction_date # 62,Product # 62,Price # 62,Visa,Name # 62,Escondido,CA,United States,Account_Created # 62,Last_Login # 62,Latitude # 62,-117.08556,92025
+Transaction_date # 63,Product # 63,Price # 63,Visa,Name # 63,Ashburn,VA,United States,Account_Created # 63,Last_Login # 63,Latitude # 63,-77.48778,20147
+Transaction_date # 64,Product # 64,Price # 64,Amex,Name # 64,Los Angeles,CA,United States,Account_Created # 64,Last_Login # 64,Latitude # 64,-118.24278,90012
+Transaction_date # 65,Product # 65,Price # 65,Visa,Name # 65,Edgewood,WA,United States,Account_Created # 65,Last_Login # 65,Latitude # 65,-122.2925,98372
+Transaction_date # 66,Product # 66,Price # 66,Visa,Name # 66,New York,NY,United States,Account_Created # 66,Last_Login # 66,Latitude # 66,-74.00639,10007
+Transaction_date # 67,Product # 67,Price # 67,Visa,Name # 67,Marietta,GA,United States,Account_Created # 67,Last_Login # 67,Latitude # 67,-84.55,30060
+Transaction_date # 68,Product # 68,Price # 68,Mastercard,Name # 68,Houston,TX,United States,Account_Created # 68,Last_Login # 68,Latitude # 68,-95.36306,77002
+Transaction_date # 69,Product # 69,Price # 69,Visa,Name # 69,West Orange,NJ,United States,Account_Created # 69,Last_Login # 69,Latitude # 69,-74.23944,07052
+Transaction_date # 70,Product # 70,Price # 70,Visa,Name # 70,Downey,CA,United States,Account_Created # 70,Last_Login # 70,Latitude # 70,-118.13167,90241
+Transaction_date # 71,Product # 71,Price # 71,Mastercard,Name # 71,Lafayette,CA,United States,Account_Created # 71,Last_Login # 71,Latitude # 71,-122.11694,94549
+Transaction_date # 72,Product # 72,Price # 72,Visa,Name # 72,Nashville,AR,United States,Account_Created # 72,Last_Login # 72,Latitude # 72,-93.84694,71852
+Transaction_date # 73,Product # 73,Price # 73,Visa,Name # 73,Joppa,MD,United States,Account_Created # 73,Last_Login # 73,Latitude # 73,-76.35806,21085
+Transaction_date # 74,Product # 74,Price # 74,Visa,Name # 74,Joppa,MD,United States,Account_Created # 74,Last_Login # 74,Latitude # 74,-76.35806,21085
+Transaction_date # 75,Product # 75,Price # 75,Diners,Name # 75,Hampton,NJ,United States,Account_Created # 75,Last_Login # 75,Latitude # 75,-74.95639,08827
+Transaction_date # 76,Product # 76,Price # 76,Mastercard,Name # 76,Louisville,KY,United States,Account_Created # 76,Last_Login # 76,Latitude # 76,-85.75944,40202
+Transaction_date # 77,Product # 77,Price # 77,Visa,Name # 77,Broadlands,VA,United States,Account_Created # 77,Last_Login # 77,Latitude # 77,-77.48778,20147
+Transaction_date # 78,Product # 78,Price # 78,Visa,Name # 78,Los Angeles,CA,United States,Account_Created # 78,Last_Login # 78,Latitude # 78,-118.24278,90012
+Transaction_date # 79,Product # 79,Price # 79,Visa,Name # 79,New York,NY,United States,Account_Created # 79,Last_Login # 79,Latitude # 79,-74.00639,10007
+Transaction_date # 80,Product # 80,Price # 80,Visa,Name # 80,Saint Paul,MN,United States,Account_Created # 80,Last_Login # 80,Latitude # 80,-93.09306,55101
+Transaction_date # 81,Product # 81,Price # 81,Visa,Name # 81,New York,NY,United States,Account_Created # 81,Last_Login # 81,Latitude # 81,-74.00639,10007
+Transaction_date # 82,Product # 82,Price # 82,Visa,Name # 82,Spring Lake Park,MN,United States,Account_Created # 82,Last_Login # 82,Latitude # 82,-93.23778,55432
+Transaction_date # 83,Product # 83,Price # 83,Visa,Name # 83,Seattle,WA,United States,Account_Created # 83,Last_Login # 83,Latitude # 83,-122.33083,98104
+Transaction_date # 84,Product # 84,Price # 84,Mastercard,Name # 84,Deptford,NJ,United States,Account_Created # 84,Last_Login # 84,Latitude # 84,-75.15306,08096
+Transaction_date # 85,Product # 85,Price # 85,Visa,Name # 85,Alpharetta,GA,United States,Account_Created # 85,Last_Login # 85,Latitude # 85,-84.29417,30009
+Transaction_date # 86,Product # 86,Price # 86,Visa,Name # 86,Washington,DC,United States,Account_Created # 86,Last_Login # 86,Latitude # 86,-77.03667,20004
+Transaction_date # 87,Product # 87,Price # 87,Amex,Name # 87,Washington,DC,United States,Account_Created # 87,Last_Login # 87,Latitude # 87,-77.03667,20004
+Transaction_date # 88,Product # 88,Price # 88,Visa,Name # 88,Athens,GA,United States,Account_Created # 88,Last_Login # 88,Latitude # 88,-83.37806,30601
+Transaction_date # 89,Product # 89,Price # 89,Diners,Name # 89,Hoschton,GA,United States,Account_Created # 89,Last_Login # 89,Latitude # 89,-83.76139,30548
+Transaction_date # 90,Product # 90,Price # 90,Visa,Name # 90,Royal Oak,MI,United States,Account_Created # 90,Last_Login # 90,Latitude # 90,-83.14472,48067
+Transaction_date # 91,Product # 91,Price # 91,Visa,Name # 91,Royal Oak,MI,United States,Account_Created # 91,Last_Login # 91,Latitude # 91,-83.14472,48067
+Transaction_date # 92,Product # 92,Price # 92,Mastercard,Name # 92,Belmont,MA,United States,Account_Created # 92,Last_Login # 92,Latitude # 92,-71.17917,02478
+Transaction_date # 93,Product # 93,Price # 93,Mastercard,Name # 93,Old Greenwich,CT,United States,Account_Created # 93,Last_Login # 93,Latitude # 93,-73.56528,06870
+Transaction_date # 94,Product # 94,Price # 94,Mastercard,Name # 94,Coconut Grove,FL,United States,Account_Created # 94,Last_Login # 94,Latitude # 94,-80.25722,33133
+Transaction_date # 95,Product # 95,Price # 95,Visa,Name # 95,Vienna,VA,United States,Account_Created # 95,Last_Login # 95,Latitude # 95,-77.26556,22180
+Transaction_date # 96,Product # 96,Price # 96,Visa,Name # 96,San Ramon,CA,United States,Account_Created # 96,Last_Login # 96,Latitude # 96,-121.97694,94526
+Transaction_date # 97,Product # 97,Price # 97,Visa,Name # 97,Norfolk,VA,United States,Account_Created # 97,Last_Login # 97,Latitude # 97,-76.28556,23510
+Transaction_date # 98,Product # 98,Price # 98,Mastercard,Name # 98,Norfolk,VA,United States,Account_Created # 98,Last_Login # 98,Latitude # 98,-76.28556,23510
+Transaction_date # 99,Product # 99,Price # 99,Visa,Name # 99,Rockville,MD,United States,Account_Created # 99,Last_Login # 99,Latitude # 99,-77.20889,20854
+Transaction_date # 100,Product # 100,Price # 100,Mastercard,Name # 100,Shreveport,LA,United States,Account_Created # 100,Last_Login # 100,Latitude # 100,-93.75,71107
+Transaction_date # 101,Product # 101,Price # 101,Mastercard,Name # 101,Shreveport,LA,United States,Account_Created # 101,Last_Login # 101,Latitude # 101,-93.75,71107
+Transaction_date # 102,Product # 102,Price # 102,Amex,Name # 102,Little Silver,NJ,United States,Account_Created # 102,Last_Login # 102,Latitude # 102,-74.0475,07739
+Transaction_date # 103,Product # 103,Price # 103,Amex,Name # 103,Mid City West,PA,United States,Account_Created # 103,Last_Login # 103,Latitude # 103,-75.16417,19107
+Transaction_date # 104,Product # 104,Price # 104,Visa,Name # 104,Atlanta,GA,United States,Account_Created # 104,Last_Login # 104,Latitude # 104,-84.38806,30334
+Transaction_date # 105,Product # 105,Price # 105,Mastercard,Name # 105,NYC,NY,United States,Account_Created # 105,Last_Login # 105,Latitude # 105,-74.00639,10007
+Transaction_date # 106,Product # 106,Price # 106,Visa,Name # 106,Brookline,MA,United States,Account_Created # 106,Last_Login # 106,Latitude # 106,-71.12167,02445
+Transaction_date # 107,Product # 107,Price # 107,Mastercard,Name # 107,Irving,TX,United States,Account_Created # 107,Last_Login # 107,Latitude # 107,-96.94861,75060
+Transaction_date # 108,Product # 108,Price # 108,Amex,Name # 108,Ottawa Hills,OH,United States,Account_Created # 108,Last_Login # 108,Latitude # 108,-83.64333,43606
+Transaction_date # 109,Product # 109,Price # 109,Mastercard,Name # 109,Portola Valley,CA,United States,Account_Created # 109,Last_Login # 109,Latitude # 109,-122.23417,94028
+Transaction_date # 110,Product # 110,Price # 110,Visa,Name # 110,Kearns,UT,United States,Account_Created # 110,Last_Login # 110,Latitude # 110,-111.99556,84118
+Transaction_date # 111,Product # 111,Price # 111,Amex,Name # 111,Brooklyn,NY,United States,Account_Created # 111,Last_Login # 111,Latitude # 111,-73.95,11226
+Transaction_date # 112,Product # 112,Price # 112,Amex,Name # 112,Penngrove,CA,United States,Account_Created # 112,Last_Login # 112,Latitude # 112,-122.66556,94951
+Transaction_date # 113,Product # 113,Price # 113,Visa,Name # 113,Lemont,IL,United States,Account_Created # 113,Last_Login # 113,Latitude # 113,-88.00167,60439
+Transaction_date # 114,Product # 114,Price # 114,Mastercard,Name # 114,San Carlos,CA,United States,Account_Created # 114,Last_Login # 114,Latitude # 114,-122.25944,94070
+Transaction_date # 115,Product # 115,Price # 115,Mastercard,Name # 115,Chicago,IL,United States,Account_Created # 115,Last_Login # 115,Latitude # 115,-87.65,60608
+Transaction_date # 116,Product # 116,Price # 116,Visa,Name # 116,Wantagh,NY,United States,Account_Created # 116,Last_Login # 116,Latitude # 116,-73.51056,11793
+Transaction_date # 117,Product # 117,Price # 117,Diners,Name # 117,Fort Oglethorpe,GA,United States,Account_Created # 117,Last_Login # 117,Latitude # 117,-85.25694,30742
+Transaction_date # 118,Product # 118,Price # 118,Mastercard,Name # 118,Corbin City,NJ,United States,Account_Created # 118,Last_Login # 118,Latitude # 118,-74.81556,08270
+Transaction_date # 119,Product # 119,Price # 119,Mastercard,Name # 119,Lakeside,CA,United States,Account_Created # 119,Last_Login # 119,Latitude # 119,-116.92139,92040
+Transaction_date # 120,Product # 120,Price # 120,Visa,Name # 120,Margate,FL,United States,Account_Created # 120,Last_Login # 120,Latitude # 120,-80.2375,33067
+Transaction_date # 121,Product # 121,Price # 121,Amex,Name # 121,South Palm Beach,FL,United States,Account_Created # 121,Last_Login # 121,Latitude # 121,-80.03667,33480
+Transaction_date # 122,Product # 122,Price # 122,Diners,Name # 122,New York,NY,United States,Account_Created # 122,Last_Login # 122,Latitude # 122,-74.00639,10007
+Transaction_date # 123,Product # 123,Price # 123,Mastercard,Name # 123,Anchorage,AK,United States,Account_Created # 123,Last_Login # 123,Latitude # 123,-149.90028,99501
+Transaction_date # 124,Product # 124,Price # 124,Visa,Name # 124,North Brunswick,NJ,United States,Account_Created # 124,Last_Login # 124,Latitude # 124,-74.482,08902
+Transaction_date # 125,Product # 125,Price # 125,Visa,Name # 125,Jacksonville,FL,United States,Account_Created # 125,Last_Login # 125,Latitude # 125,-81.65583,32202
+Transaction_date # 126,Product # 126,Price # 126,Visa,Name # 126,Baytown,TX,United States,Account_Created # 126,Last_Login # 126,Latitude # 126,-94.97722,77520
+Transaction_date # 127,Product # 127,Price # 127,Mastercard,Name # 127,Winter Haven,FL,United States,Account_Created # 127,Last_Login # 127,Latitude # 127,-81.73306,33880
+Transaction_date # 128,Product # 128,Price # 128,Visa,Name # 128,Gonzaga Univ,WA,United States,Account_Created # 128,Last_Login # 128,Latitude # 128,-117.425,99201
+Transaction_date # 129,Product # 129,Price # 129,Visa,Name # 129,Winchester,MA,United States,Account_Created # 129,Last_Login # 129,Latitude # 129,-71.1375,01890
+Transaction_date # 130,Product # 130,Price # 130,Visa,Name # 130,Dallas,TX,United States,Account_Created # 130,Last_Login # 130,Latitude # 130,-96.8,75201
+Transaction_date # 131,Product # 131,Price # 131,Mastercard,Name # 131,Saint Paul,MN,United States,Account_Created # 131,Last_Login # 131,Latitude # 131,-93.09306,55101
+Transaction_date # 132,Product # 132,Price # 132,Amex,Name # 132,Ely,NV,United States,Account_Created # 132,Last_Login # 132,Latitude # 132,-114.88778,89301
+Transaction_date # 133,Product # 133,Price # 133,Amex,Name # 133,Norfolk,VA,United States,Account_Created # 133,Last_Login # 133,Latitude # 133,-76.28556,23510
+Transaction_date # 134,Product # 134,Price # 134,Visa,Name # 134,Houston,TX,United States,Account_Created # 134,Last_Login # 134,Latitude # 134,-95.36306,77002
+Transaction_date # 135,Product # 135,Price # 135,Mastercard,Name # 135,Buffalo Grove,IL,United States,Account_Created # 135,Last_Login # 135,Latitude # 135,-89.595,61064
+Transaction_date # 136,Product # 136,Price # 136,Visa,Name # 136,Mechanics Grove,PA,United States,Account_Created # 136,Last_Login # 136,Latitude # 136,-76.16389,17566
+Transaction_date # 137,Product # 137,Price # 137,Amex,Name # 137,Miami,FL,United States,Account_Created # 137,Last_Login # 137,Latitude # 137,-80.19389,33130
+Transaction_date # 138,Product # 138,Price # 138,Visa,Name # 138,Silver Spring,MD,United States,Account_Created # 138,Last_Login # 138,Latitude # 138,-77.02639,20910
+Transaction_date # 139,Product # 139,Price # 139,Visa,Name # 139,Portland,OR,United States,Account_Created # 139,Last_Login # 139,Latitude # 139,-122.675,97209
+Transaction_date # 140,Product # 140,Price # 140,Diners,Name # 140,Staten Island,NY,United States,Account_Created # 140,Last_Login # 140,Latitude # 140,-74.1275,10306
+Transaction_date # 141,Product # 141,Price # 141,Mastercard,Name # 141,San Antonio,TX,United States,Account_Created # 141,Last_Login # 141,Latitude # 141,-98.49333,78205
+Transaction_date # 142,Product # 142,Price # 142,Mastercard,Name # 142,Englewood,CO,United States,Account_Created # 142,Last_Login # 142,Latitude # 142,-104.98722,80113
+Transaction_date # 143,Product # 143,Price # 143,Visa,Name # 143,San Antonio,TX,United States,Account_Created # 143,Last_Login # 143,Latitude # 143,-98.49333,78205
+Transaction_date # 144,Product # 144,Price # 144,Visa,Name # 144,Princeville,HI,United States,Account_Created # 144,Last_Login # 144,Latitude # 144,-159.48528,96722
+Transaction_date # 145,Product # 145,Price # 145,Mastercard,Name # 145,Lafayette,CA,United States,Account_Created # 145,Last_Login # 145,Latitude # 145,-122.11694,94549
+Transaction_date # 146,Product # 146,Price # 146,Visa,Name # 146,N Java,NY,United States,Account_Created # 146,Last_Login # 146,Latitude # 146,-78.33806,14113
+Transaction_date # 147,Product # 147,Price # 147,Visa,Name # 147,Austin,TX,United States,Account_Created # 147,Last_Login # 147,Latitude # 147,-97.74278,78701
+Transaction_date # 148,Product # 148,Price # 148,Mastercard,Name # 148,Midland Park,NJ,United States,Account_Created # 148,Last_Login # 148,Latitude # 148,-74.14111,07432
+Transaction_date # 149,Product # 149,Price # 149,Amex,Name # 149,Centerport,NY,United States,Account_Created # 149,Last_Login # 149,Latitude # 149,-73.37667,11721
+Transaction_date # 150,Product # 150,Price # 150,Diners,Name # 150,Shorewood,MN,United States,Account_Created # 150,Last_Login # 150,Latitude # 150,-93.56611,55331
+Transaction_date # 151,Product # 151,Price # 151,Visa,Name # 151,Southlake,TX,United States,Account_Created # 151,Last_Login # 151,Latitude # 151,-97.13389,76092
+Transaction_date # 152,Product # 152,Price # 152,Mastercard,Name # 152,Huntington,NY,United States,Account_Created # 152,Last_Login # 152,Latitude # 152,-73.42611,11743
+Transaction_date # 153,Product # 153,Price # 153,Mastercard,Name # 153,The Woodlands,TX,United States,Account_Created # 153,Last_Login # 153,Latitude # 153,-95.48917,77381
+Transaction_date # 154,Product # 154,Price # 154,Mastercard,Name # 154,White House,TN,United States,Account_Created # 154,Last_Login # 154,Latitude # 154,-86.65139,37188
+Transaction_date # 155,Product # 155,Price # 155,Mastercard,Name # 155,Lake Mahopac,NY,United States,Account_Created # 155,Last_Login # 155,Latitude # 155,-73.73389,10541
+Transaction_date # 156,Product # 156,Price # 156,Visa,Name # 156,Plantation,FL,United States,Account_Created # 156,Last_Login # 156,Latitude # 156,-80.14361,33301
+Transaction_date # 157,Product # 157,Price # 157,Amex,Name # 157,Arlington,VA,United States,Account_Created # 157,Last_Login # 157,Latitude # 157,-77.08444,22201
+Transaction_date # 158,Product # 158,Price # 158,Visa,Name # 158,Great Falls,Virginia,United States,Account_Created # 158,Last_Login # 158,Latitude # 158,-77.28861,22066
+Transaction_date # 159,Product # 159,Price # 159,Visa,Name # 159,Dickerson,MD,United States,Account_Created # 159,Last_Login # 159,Latitude # 159,-77.42444,20842
+Transaction_date # 160,Product # 160,Price # 160,Mastercard,Name # 160,Princeton,NJ,United States,Account_Created # 160,Last_Login # 160,Latitude # 160,-74.65944,08542
+Transaction_date # 161,Product # 161,Price # 161,Visa,Name # 161,North Tustin,CA,United States,Account_Created # 161,Last_Login # 161,Latitude # 161,-117.79306,92705
+Transaction_date # 162,Product # 162,Price # 162,Visa,Name # 162,Gladwyne,PA,United States,Account_Created # 162,Last_Login # 162,Latitude # 162,-75.27944,19035
+Transaction_date # 163,Product # 163,Price # 163,Mastercard,Name # 163,Houston,TX,United States,Account_Created # 163,Last_Login # 163,Latitude # 163,-95.36306,77002
+Transaction_date # 164,Product # 164,Price # 164,Visa,Name # 164,Downingtown,PA,United States,Account_Created # 164,Last_Login # 164,Latitude # 164,-75.70361,19335
+Transaction_date # 165,Product # 165,Price # 165,Diners,Name # 165,MT Pleasant,TX,United States,Account_Created # 165,Last_Login # 165,Latitude # 165,-94.96806,75455
+Transaction_date # 166,Product # 166,Price # 166,Visa,Name # 166,Katy,TX,United States,Account_Created # 166,Last_Login # 166,Latitude # 166,-95.82417,77494
+Transaction_date # 167,Product # 167,Price # 167,Visa,Name # 167,Belgrade,MT,United States,Account_Created # 167,Last_Login # 167,Latitude # 167,-111.17611,59714
+Transaction_date # 168,Product # 168,Price # 168,Visa,Name # 168,Corrales,NM,United States,Account_Created # 168,Last_Login # 168,Latitude # 168,-106.60611,87048
+Transaction_date # 169,Product # 169,Price # 169,Diners,Name # 169,Tenafly,NJ,United States,Account_Created # 169,Last_Login # 169,Latitude # 169,-73.96333,07670
+Transaction_date # 170,Product # 170,Price # 170,Visa,Name # 170,Leesburg,VA,United States,Account_Created # 170,Last_Login # 170,Latitude # 170,-77.56389,20176
+Transaction_date # 171,Product # 171,Price # 171,Mastercard,Name # 171,Bryceville,FL,United States,Account_Created # 171,Last_Login # 171,Latitude # 171,-81.93889,32009
+Transaction_date # 172,Product # 172,Price # 172,Visa,Name # 172,Dryden,VA,United States,Account_Created # 172,Last_Login # 172,Latitude # 172,-82.94167,24243
+Transaction_date # 173,Product # 173,Price # 173,Visa,Name # 173,Fayetteville,NC,United States,Account_Created # 173,Last_Login # 173,Latitude # 173,-78.87861,28301
+Transaction_date # 174,Product # 174,Price # 174,Visa,Name # 174,Overland,KS,United States,Account_Created # 174,Last_Login # 174,Latitude # 174,-94.67056,66204
+Transaction_date # 175,Product # 175,Price # 175,Visa,Name # 175,Senatobia,MS,United States,Account_Created # 175,Last_Login # 175,Latitude # 175,-89.96861,38668
+Transaction_date # 176,Product # 176,Price # 176,Mastercard,Name # 176,Waldorf,MD,United States,Account_Created # 176,Last_Login # 176,Latitude # 176,-76.93944,20603
+Transaction_date # 177,Product # 177,Price # 177,Diners,Name # 177,Brooklyn,NY,United States,Account_Created # 177,Last_Login # 177,Latitude # 177,-73.95,11226
+Transaction_date # 178,Product # 178,Price # 178,Mastercard,Name # 178,Lakeville,MN,United States,Account_Created # 178,Last_Login # 178,Latitude # 178,-93.2425,55044
+Transaction_date # 179,Product # 179,Price # 179,Amex,Name # 179,Stamford,CT,United States,Account_Created # 179,Last_Login # 179,Latitude # 179,-73.53917,06901
+Transaction_date # 180,Product # 180,Price # 180,Mastercard,Name # 180,Howell,MI,United States,Account_Created # 180,Last_Login # 180,Latitude # 180,-83.92944,48843
+Transaction_date # 181,Product # 181,Price # 181,Amex,Name # 181,Encinitas,CA,United States,Account_Created # 181,Last_Login # 181,Latitude # 181,-117.29111,92024
+Transaction_date # 182,Product # 182,Price # 182,Visa,Name # 182,Atchison,KS,United States,Account_Created # 182,Last_Login # 182,Latitude # 182,-95.12139,66002
+Transaction_date # 183,Product # 183,Price # 183,Amex,Name # 183,Mililani,HI,United States,Account_Created # 183,Last_Login # 183,Latitude # 183,-157.96083,96782
+Transaction_date # 184,Product # 184,Price # 184,Diners,Name # 184,Victor,NY,United States,Account_Created # 184,Last_Login # 184,Latitude # 184,-77.40917,14564
+Transaction_date # 185,Product # 185,Price # 185,Visa,Name # 185,Fairbanks,AK,United States,Account_Created # 185,Last_Login # 185,Latitude # 185,-147.71639,99701
+Transaction_date # 186,Product # 186,Price # 186,Amex,Name # 186,Accokeek,MD,United States,Account_Created # 186,Last_Login # 186,Latitude # 186,-77.02861,20607
+Transaction_date # 187,Product # 187,Price # 187,Visa,Name # 187,Sunnyvale,CA,United States,Account_Created # 187,Last_Login # 187,Latitude # 187,-122.03528,94086
+Transaction_date # 188,Product # 188,Price # 188,Diners,Name # 188,Ithaca,NY,United States,Account_Created # 188,Last_Login # 188,Latitude # 188,-76.49694,14850
+Transaction_date # 189,Product # 189,Price # 189,Amex,Name # 189,Houston,TX,United States,Account_Created # 189,Last_Login # 189,Latitude # 189,-95.36306,77002
+Transaction_date # 190,Product # 190,Price # 190,Mastercard,Name # 190,Farmingtn Hls,MI,United States,Account_Created # 190,Last_Login # 190,Latitude # 190,-83.37639,48336
+Transaction_date # 191,Product # 191,Price # 191,Mastercard,Name # 191,Brooklyn,NY,United States,Account_Created # 191,Last_Login # 191,Latitude # 191,-73.95,11226
+Transaction_date # 192,Product # 192,Price # 192,Mastercard,Name # 192,Great Falls,VA,United States,Account_Created # 192,Last_Login # 192,Latitude # 192,-77.28861,22066
+Transaction_date # 193,Product # 193,Price # 193,Mastercard,Name # 193,Scottsdale,AZ,United States,Account_Created # 193,Last_Login # 193,Latitude # 193,-111.89833,85251
+Transaction_date # 194,Product # 194,Price # 194,Visa,Name # 194,Sunnyvale,CA,United States,Account_Created # 194,Last_Login # 194,Latitude # 194,-122.03528,94086
+Transaction_date # 195,Product # 195,Price # 195,Mastercard,Name # 195,Clyde Hill,WA,United States,Account_Created # 195,Last_Login # 195,Latitude # 195,-122.19944,98004
+Transaction_date # 196,Product # 196,Price # 196,Visa,Name # 196,Minneapolis,MN,United States,Account_Created # 196,Last_Login # 196,Latitude # 196,-93.26361,55401
+Transaction_date # 197,Product # 197,Price # 197,Visa,Name # 197,Chicago,IL,United States,Account_Created # 197,Last_Login # 197,Latitude # 197,-87.65,60608
+Transaction_date # 198,Product # 198,Price # 198,Mastercard,Name # 198,Queen Creek,AZ,United States,Account_Created # 198,Last_Login # 198,Latitude # 198,-111.63361,85142
+Transaction_date # 199,Product # 199,Price # 199,Mastercard,Name # 199,Queen Creek,AZ,United States,Account_Created # 199,Last_Login # 199,Latitude # 199,-111.63361,85142
+Transaction_date # 200,Product # 200,Price # 200,Visa,Name # 200,Durham,NC,United States,Account_Created # 200,Last_Login # 200,Latitude # 200,-78.89889,27701
+Transaction_date # 201,Product # 201,Price # 201,Mastercard,Name # 201,Austin,TX,United States,Account_Created # 201,Last_Login # 201,Latitude # 201,-97.74278,78701
+Transaction_date # 202,Product # 202,Price # 202,Mastercard,Name # 202,Glenn Dale,MD,United States,Account_Created # 202,Last_Login # 202,Latitude # 202,-76.82083,20706
+Transaction_date # 203,Product # 203,Price # 203,Visa,Name # 203,Edinburg,TX,United States,Account_Created # 203,Last_Login # 203,Latitude # 203,-98.16306,78539
+Transaction_date # 204,Product # 204,Price # 204,Visa,Name # 204,Weston,CT,United States,Account_Created # 204,Last_Login # 204,Latitude # 204,-73.38111,06883
+Transaction_date # 205,Product # 205,Price # 205,Mastercard,Name # 205,Coconut Grove,FL,United States,Account_Created # 205,Last_Login # 205,Latitude # 205,-80.25722,33133
+Transaction_date # 206,Product # 206,Price # 206,Visa,Name # 206,San Francisco,CA,United States,Account_Created # 206,Last_Login # 206,Latitude # 206,-122.41833,94103
+Transaction_date # 207,Product # 207,Price # 207,Mastercard,Name # 207,Scottsdale,AZ,United States,Account_Created # 207,Last_Login # 207,Latitude # 207,-111.89833,85251
+Transaction_date # 208,Product # 208,Price # 208,Amex,Name # 208,Potomac Falls,VA,United States,Account_Created # 208,Last_Login # 208,Latitude # 208,-77.40111,20165
+Transaction_date # 209,Product # 209,Price # 209,Mastercard,Name # 209,Superior,CO,United States,Account_Created # 209,Last_Login # 209,Latitude # 209,-105.13139,80027
+Transaction_date # 210,Product # 210,Price # 210,Mastercard,Name # 210,Engleside,VA,United States,Account_Created # 210,Last_Login # 210,Latitude # 210,-77.04722,22314
+Transaction_date # 211,Product # 211,Price # 211,Mastercard,Name # 211,Roanoke,VA,United States,Account_Created # 211,Last_Login # 211,Latitude # 211,-80.03778,24018
+Transaction_date # 212,Product # 212,Price # 212,Visa,Name # 212,Norcross,GA,United States,Account_Created # 212,Last_Login # 212,Latitude # 212,-84.21361,30071
+Transaction_date # 213,Product # 213,Price # 213,Amex,Name # 213,Sandy Plains,GA,United States,Account_Created # 213,Last_Login # 213,Latitude # 213,-84.36167,30075
+Transaction_date # 214,Product # 214,Price # 214,Visa,Name # 214,Gainesville,VA,United States,Account_Created # 214,Last_Login # 214,Latitude # 214,-77.61417,20155
+Transaction_date # 215,Product # 215,Price # 215,Visa,Name # 215,Arlington,MA,United States,Account_Created # 215,Last_Login # 215,Latitude # 215,-71.15694,02476
+Transaction_date # 216,Product # 216,Price # 216,Diners,Name # 216,West Hills,CA,United States,Account_Created # 216,Last_Login # 216,Latitude # 216,-118.59722,91303
+Transaction_date # 217,Product # 217,Price # 217,Mastercard,Name # 217,San Jose,CA,United States,Account_Created # 217,Last_Login # 217,Latitude # 217,-121.89389,95113
+Transaction_date # 218,Product # 218,Price # 218,Visa,Name # 218,Oak Park,MI,United States,Account_Created # 218,Last_Login # 218,Latitude # 218,-83.18278,48237
+Transaction_date # 219,Product # 219,Price # 219,Visa,Name # 219,Terrell Hills,TX,United States,Account_Created # 219,Last_Login # 219,Latitude # 219,-98.49333,78205
+Transaction_date # 220,Product # 220,Price # 220,Visa,Name # 220,Falmouth,VA,United States,Account_Created # 220,Last_Login # 220,Latitude # 220,-77.46861,22405
+Transaction_date # 221,Product # 221,Price # 221,Visa,Name # 221,Richmond,TX,United States,Account_Created # 221,Last_Login # 221,Latitude # 221,-95.76056,77469
+Transaction_date # 222,Product # 222,Price # 222,Diners,Name # 222,Ooltewah,TN,United States,Account_Created # 222,Last_Login # 222,Latitude # 222,-85.06222,37363
+Transaction_date # 223,Product # 223,Price # 223,Mastercard,Name # 223,Pacific Beach,CA,United States,Account_Created # 223,Last_Login # 223,Latitude # 223,-117.23944,92109
+Transaction_date # 224,Product # 224,Price # 224,Visa,Name # 224,Austin,TX,United States,Account_Created # 224,Last_Login # 224,Latitude # 224,-97.74278,78701
+Transaction_date # 225,Product # 225,Price # 225,Visa,Name # 225,Seattle,WA,United States,Account_Created # 225,Last_Login # 225,Latitude # 225,-122.33083,98104
+Transaction_date # 226,Product # 226,Price # 226,Visa,Name # 226,Seattle,WA,United States,Account_Created # 226,Last_Login # 226,Latitude # 226,-122.33083,98104
+Transaction_date # 227,Product # 227,Price # 227,Visa,Name # 227,Vienna,VA,United States,Account_Created # 227,Last_Login # 227,Latitude # 227,-77.26556,22180
+Transaction_date # 228,Product # 228,Price # 228,Visa,Name # 228,Fremont,CA,United States,Account_Created # 228,Last_Login # 228,Latitude # 228,-121.9875,94538
+Transaction_date # 229,Product # 229,Price # 229,Amex,Name # 229,Holmdel,NJ,United States,Account_Created # 229,Last_Login # 229,Latitude # 229,-74.18444,07733
+Transaction_date # 230,Product # 230,Price # 230,Visa,Name # 230,Baltimore,MD,United States,Account_Created # 230,Last_Login # 230,Latitude # 230,-76.53167,21224
+Transaction_date # 231,Product # 231,Price # 231,Mastercard,Name # 231,Andover,MA,United States,Account_Created # 231,Last_Login # 231,Latitude # 231,-71.1375,01810
+Transaction_date # 232,Product # 232,Price # 232,Mastercard,Name # 232,La Crescenta,CA,United States,Account_Created # 232,Last_Login # 232,Latitude # 232,-118.23917,91214
+Transaction_date # 233,Product # 233,Price # 233,Mastercard,Name # 233,Suwanee,GA,United States,Account_Created # 233,Last_Login # 233,Latitude # 233,-84.07139,30024
+Transaction_date # 234,Product # 234,Price # 234,Visa,Name # 234,Seattle,WA,United States,Account_Created # 234,Last_Login # 234,Latitude # 234,-122.33083,98104
+Transaction_date # 235,Product # 235,Price # 235,Amex,Name # 235,Arlington,VA,United States,Account_Created # 235,Last_Login # 235,Latitude # 235,-77.08444,22201
+Transaction_date # 236,Product # 236,Price # 236,Visa,Name # 236,Kenmore,WA,United States,Account_Created # 236,Last_Login # 236,Latitude # 236,-122.24278,98028
+Transaction_date # 237,Product # 237,Price # 237,Visa,Name # 237,Fresno,CA,United States,Account_Created # 237,Last_Login # 237,Latitude # 237,-119.77139,93702
+Transaction_date # 238,Product # 238,Price # 238,Amex,Name # 238,Atascadero,CA,United States,Account_Created # 238,Last_Login # 238,Latitude # 238,-120.66972,93422
+Transaction_date # 239,Product # 239,Price # 239,Mastercard,Name # 239,New York,NY,United States,Account_Created # 239,Last_Login # 239,Latitude # 239,-74.00639,10007
+Transaction_date # 240,Product # 240,Price # 240,Mastercard,Name # 240,Fairfield,IA,United States,Account_Created # 240,Last_Login # 240,Latitude # 240,-91.9625,52556
+Transaction_date # 241,Product # 241,Price # 241,Visa,Name # 241,Marietta,GA,United States,Account_Created # 241,Last_Login # 241,Latitude # 241,-84.55,30060
+Transaction_date # 242,Product # 242,Price # 242,Amex,Name # 242,Danville,PA,United States,Account_Created # 242,Last_Login # 242,Latitude # 242,-76.61306,17821
+Transaction_date # 243,Product # 243,Price # 243,Amex,Name # 243,Anthem,AZ,United States,Account_Created # 243,Last_Login # 243,Latitude # 243,-112.14611,85086
+Transaction_date # 244,Product # 244,Price # 244,Visa,Name # 244,Arlington,VA,United States,Account_Created # 244,Last_Login # 244,Latitude # 244,-77.08444,22201
+Transaction_date # 245,Product # 245,Price # 245,Amex,Name # 245,Orlando,FL,United States,Account_Created # 245,Last_Login # 245,Latitude # 245,-81.37944,32801
+Transaction_date # 246,Product # 246,Price # 246,Mastercard,Name # 246,Walnut Creek,CA,United States,Account_Created # 246,Last_Login # 246,Latitude # 246,-122.06389,94596
+Transaction_date # 247,Product # 247,Price # 247,Mastercard,Name # 247,Centennial,CO,United States,Account_Created # 247,Last_Login # 247,Latitude # 247,-104.87639,80112
+Transaction_date # 248,Product # 248,Price # 248,Visa,Name # 248,Newtown,CT,United States,Account_Created # 248,Last_Login # 248,Latitude # 248,-73.30389,06470
+Transaction_date # 249,Product # 249,Price # 249,Visa,Name # 249,Saddle Brook,NJ,United States,Account_Created # 249,Last_Login # 249,Latitude # 249,-74.09306,07663
+Transaction_date # 250,Product # 250,Price # 250,Amex,Name # 250,San Diego,CA,United States,Account_Created # 250,Last_Login # 250,Latitude # 250,-117.15639,92101
+Transaction_date # 251,Product # 251,Price # 251,Visa,Name # 251,Issaquah,WA,United States,Account_Created # 251,Last_Login # 251,Latitude # 251,-122.03139,98027
+Transaction_date # 252,Product # 252,Price # 252,Visa,Name # 252,Lexington,MA,United States,Account_Created # 252,Last_Login # 252,Latitude # 252,-71.225,02420
+Transaction_date # 253,Product # 253,Price # 253,Visa,Name # 253,Altadena,CA,United States,Account_Created # 253,Last_Login # 253,Latitude # 253,-118.13028,91001
+Transaction_date # 254,Product # 254,Price # 254,Visa,Name # 254,Altadena,CA,United States,Account_Created # 254,Last_Login # 254,Latitude # 254,-118.13028,91001
+Transaction_date # 255,Product # 255,Price # 255,Visa,Name # 255,Davis,CA,United States,Account_Created # 255,Last_Login # 255,Latitude # 255,-121.73944,95616
+Transaction_date # 256,Product # 256,Price # 256,Mastercard,Name # 256,Pasadena,CA,United States,Account_Created # 256,Last_Login # 256,Latitude # 256,-118.14361,91101
+Transaction_date # 257,Product # 257,Price # 257,Mastercard,Name # 257,Buffalo Grove,IL,United States,Account_Created # 257,Last_Login # 257,Latitude # 257,-89.595,61064
+Transaction_date # 258,Product # 258,Price # 258,Amex,Name # 258,Norwalk,CT,United States,Account_Created # 258,Last_Login # 258,Latitude # 258,-73.40833,06851
+Transaction_date # 259,Product # 259,Price # 259,Mastercard,Name # 259,Floyds Knobs,IN,United States,Account_Created # 259,Last_Login # 259,Latitude # 259,-85.87361,47119
+Transaction_date # 260,Product # 260,Price # 260,Amex,Name # 260,Marietta,GA,United States,Account_Created # 260,Last_Login # 260,Latitude # 260,-84.55,30060
+Transaction_date # 261,Product # 261,Price # 261,Amex,Name # 261,Marietta,GA,United States,Account_Created # 261,Last_Login # 261,Latitude # 261,-84.55,30060
+Transaction_date # 262,Product # 262,Price # 262,Amex,Name # 262,Hon,HI,United States,Account_Created # 262,Last_Login # 262,Latitude # 262,-157.85833,96813
+Transaction_date # 263,Product # 263,Price # 263,Visa,Name # 263,Knoxville,TN,United States,Account_Created # 263,Last_Login # 263,Latitude # 263,-83.92083,37902
+Transaction_date # 264,Product # 264,Price # 264,Visa,Name # 264,Knoxville,TN,United States,Account_Created # 264,Last_Login # 264,Latitude # 264,-83.92083,37902
+Transaction_date # 265,Product # 265,Price # 265,Visa,Name # 265,Humble,TX,United States,Account_Created # 265,Last_Login # 265,Latitude # 265,-95.26194,77338
+Transaction_date # 266,Product # 266,Price # 266,Visa,Name # 266,Mashpee,MA,United States,Account_Created # 266,Last_Login # 266,Latitude # 266,-70.48167,02649
+Transaction_date # 267,Product # 267,Price # 267,Visa,Name # 267,Birmingham,MI,United States,Account_Created # 267,Last_Login # 267,Latitude # 267,-83.21139,48009
+Transaction_date # 268,Product # 268,Price # 268,Visa,Name # 268,St Augustine,FL,United States,Account_Created # 268,Last_Login # 268,Latitude # 268,-81.31472,32084
+Transaction_date # 269,Product # 269,Price # 269,Visa,Name # 269,Salt Lake City,UT,United States,Account_Created # 269,Last_Login # 269,Latitude # 269,-111.89028,84111
+Transaction_date # 270,Product # 270,Price # 270,Amex,Name # 270,Seattle,WA,United States,Account_Created # 270,Last_Login # 270,Latitude # 270,-122.33083,98104
+Transaction_date # 271,Product # 271,Price # 271,Visa,Name # 271,Rogers,AR,United States,Account_Created # 271,Last_Login # 271,Latitude # 271,-94.11833,72756
+Transaction_date # 272,Product # 272,Price # 272,Visa,Name # 272,Rogers,AR,United States,Account_Created # 272,Last_Login # 272,Latitude # 272,-94.11833,72756
+Transaction_date # 273,Product # 273,Price # 273,Diners,Name # 273,Alpine,NJ,United States,Account_Created # 273,Last_Login # 273,Latitude # 273,-73.93167,07620
+Transaction_date # 274,Product # 274,Price # 274,Mastercard,Name # 274,Pacific Palisades,CA,United States,Account_Created # 274,Last_Login # 274,Latitude # 274,-118.52556,90272
+Transaction_date # 275,Product # 275,Price # 275,Visa,Name # 275,Trumansburg,NY,United States,Account_Created # 275,Last_Login # 275,Latitude # 275,-76.66639,14886
+Transaction_date # 276,Product # 276,Price # 276,Visa,Name # 276,Kennett Square,PA,United States,Account_Created # 276,Last_Login # 276,Latitude # 276,-75.71194,19348
+Transaction_date # 277,Product # 277,Price # 277,Visa,Name # 277,San Jose,CA,United States,Account_Created # 277,Last_Login # 277,Latitude # 277,-121.89389,95113
+Transaction_date # 278,Product # 278,Price # 278,Visa,Name # 278,Morro Bay,CA,United States,Account_Created # 278,Last_Login # 278,Latitude # 278,-120.84889,93442
+Transaction_date # 279,Product # 279,Price # 279,Visa,Name # 279,Las Vegas,NV,United States,Account_Created # 279,Last_Login # 279,Latitude # 279,-115.13639,89101
+Transaction_date # 280,Product # 280,Price # 280,Amex,Name # 280,San Anselmo,CA,United States,Account_Created # 280,Last_Login # 280,Latitude # 280,-122.56056,94960
+Transaction_date # 281,Product # 281,Price # 281,Diners,Name # 281,N Woodmere,NY,United States,Account_Created # 281,Last_Login # 281,Latitude # 281,-73.70889,11580
+Transaction_date # 282,Product # 282,Price # 282,Visa,Name # 282,Fairfax,CA,United States,Account_Created # 282,Last_Login # 282,Latitude # 282,-122.58778,94930
+Transaction_date # 283,Product # 283,Price # 283,Visa,Name # 283,Chandler,AZ,United States,Account_Created # 283,Last_Login # 283,Latitude # 283,-111.84056,85225
+Transaction_date # 284,Product # 284,Price # 284,Visa,Name # 284,Dammeron Valley,UT,United States,Account_Created # 284,Last_Login # 284,Latitude # 284,-113.6492,84765
+Transaction_date # 285,Product # 285,Price # 285,Mastercard,Name # 285,Buffalo,NY,United States,Account_Created # 285,Last_Login # 285,Latitude # 285,-78.87861,14202
+Transaction_date # 286,Product # 286,Price # 286,Visa,Name # 286,Olive Branch,MS,United States,Account_Created # 286,Last_Login # 286,Latitude # 286,-89.82944,38654
+Transaction_date # 287,Product # 287,Price # 287,Amex,Name # 287,Warwick,NY,United States,Account_Created # 287,Last_Login # 287,Latitude # 287,-74.36028,10990
+Transaction_date # 288,Product # 288,Price # 288,Amex,Name # 288,San Mateo,CA,United States,Account_Created # 288,Last_Login # 288,Latitude # 288,-122.32444,94401
+Transaction_date # 289,Product # 289,Price # 289,Visa,Name # 289,Aloma,FL,United States,Account_Created # 289,Last_Login # 289,Latitude # 289,-81.30667,32792
+Transaction_date # 290,Product # 290,Price # 290,Diners,Name # 290,Chandler,AZ,United States,Account_Created # 290,Last_Login # 290,Latitude # 290,-111.84056,85225
+Transaction_date # 291,Product # 291,Price # 291,Amex,Name # 291,Cumming,GA,United States,Account_Created # 291,Last_Login # 291,Latitude # 291,-84.14028,30040
+Transaction_date # 292,Product # 292,Price # 292,Visa,Name # 292,Little Compton,RI,United States,Account_Created # 292,Last_Login # 292,Latitude # 292,-71.17167,02837
+Transaction_date # 293,Product # 293,Price # 293,Visa,Name # 293,Centennial,CO,United States,Account_Created # 293,Last_Login # 293,Latitude # 293,-104.87639,80112
+Transaction_date # 294,Product # 294,Price # 294,Visa,Name # 294,Centennial,CO,United States,Account_Created # 294,Last_Login # 294,Latitude # 294,-104.87639,80112
+Transaction_date # 295,Product # 295,Price # 295,Amex,Name # 295,Herndon,VA,United States,Account_Created # 295,Last_Login # 295,Latitude # 295,-77.38639,20170
+Transaction_date # 296,Product # 296,Price # 296,Visa,Name # 296,Vista,CA,United States,Account_Created # 296,Last_Login # 296,Latitude # 296,-117.24167,92084
+Transaction_date # 297,Product # 297,Price # 297,Visa,Name # 297,Oostburg,WI,United States,Account_Created # 297,Last_Login # 297,Latitude # 297,-87.79444,53070
+Transaction_date # 298,Product # 298,Price # 298,Visa,Name # 298,Ann Arbor,MI,United States,Account_Created # 298,Last_Login # 298,Latitude # 298,-83.72639,48104
+Transaction_date # 299,Product # 299,Price # 299,Visa,Name # 299,South Jordan,UT,United States,Account_Created # 299,Last_Login # 299,Latitude # 299,-111.92889,84095
+Transaction_date # 300,Product # 300,Price # 300,Mastercard,Name # 300,Lincoln,NE,United States,Account_Created # 300,Last_Login # 300,Latitude # 300,-96.66667,68510
+Transaction_date # 301,Product # 301,Price # 301,Mastercard,Name # 301,Burr Oak,IA,United States,Account_Created # 301,Last_Login # 301,Latitude # 301,-91.86528,52101
+Transaction_date # 302,Product # 302,Price # 302,Visa,Name # 302,Wheaton,IL,United States,Account_Created # 302,Last_Login # 302,Latitude # 302,-88.10694,60187
+Transaction_date # 303,Product # 303,Price # 303,Mastercard,Name # 303,Killeen,TX,United States,Account_Created # 303,Last_Login # 303,Latitude # 303,-97.7275,76541
+Transaction_date # 304,Product # 304,Price # 304,Visa,Name # 304,Manhattan,NY,United States,Account_Created # 304,Last_Login # 304,Latitude # 304,-74.00639,10007
+Transaction_date # 305,Product # 305,Price # 305,Visa,Name # 305,Jamestown,RI,United States,Account_Created # 305,Last_Login # 305,Latitude # 305,-71.36778,02835
+Transaction_date # 306,Product # 306,Price # 306,Visa,Name # 306,Owings Mills,MD,United States,Account_Created # 306,Last_Login # 306,Latitude # 306,-76.78056,21117
+Transaction_date # 307,Product # 307,Price # 307,Amex,Name # 307,Anchorage,AK,United States,Account_Created # 307,Last_Login # 307,Latitude # 307,-149.90028,99501
+Transaction_date # 308,Product # 308,Price # 308,Mastercard,Name # 308,Fullerton,CA,United States,Account_Created # 308,Last_Login # 308,Latitude # 308,-117.92444,92832
+Transaction_date # 309,Product # 309,Price # 309,Amex,Name # 309,Atlanta,GA,United States,Account_Created # 309,Last_Login # 309,Latitude # 309,-84.38806,30334
+Transaction_date # 310,Product # 310,Price # 310,Amex,Name # 310,Las Vegas,NV,United States,Account_Created # 310,Last_Login # 310,Latitude # 310,-115.13639,89101
+Transaction_date # 311,Product # 311,Price # 311,Visa,Name # 311,Rochester Hills,MI,United States,Account_Created # 311,Last_Login # 311,Latitude # 311,-83.13389,48307
+Transaction_date # 312,Product # 312,Price # 312,Diners,Name # 312,Wisconsin Rapids,WI,United States,Account_Created # 312,Last_Login # 312,Latitude # 312,-89.81722,54494
+Transaction_date # 313,Product # 313,Price # 313,Visa,Name # 313,Austin,TX,United States,Account_Created # 313,Last_Login # 313,Latitude # 313,-97.74278,78701
+Transaction_date # 314,Product # 314,Price # 314,Visa,Name # 314,Chicago,IL,United States,Account_Created # 314,Last_Login # 314,Latitude # 314,-87.65,60608
+Transaction_date # 315,Product # 315,Price # 315,Diners,Name # 315,Las Vegas,NV,United States,Account_Created # 315,Last_Login # 315,Latitude # 315,-115.13639,89101
+Transaction_date # 316,Product # 316,Price # 316,Visa,Name # 316,Eagan,MN,United States,Account_Created # 316,Last_Login # 316,Latitude # 316,-93.16667,55123
+Transaction_date # 317,Product # 317,Price # 317,Mastercard,Name # 317,Lindenhurst,NY,United States,Account_Created # 317,Last_Login # 317,Latitude # 317,-73.37389,11757
+Transaction_date # 318,Product # 318,Price # 318,Visa,Name # 318,Bloomfield,MI,United States,Account_Created # 318,Last_Login # 318,Latitude # 318,-83.23306,48009
+Transaction_date # 319,Product # 319,Price # 319,Amex,Name # 319,Los Angeles,CA,United States,Account_Created # 319,Last_Login # 319,Latitude # 319,-118.24278,90012
+Transaction_date # 320,Product # 320,Price # 320,Mastercard,Name # 320,Fayetteville,NC,United States,Account_Created # 320,Last_Login # 320,Latitude # 320,-78.87861,28301
+Transaction_date # 321,Product # 321,Price # 321,Visa,Name # 321,Simpsonville,SC,United States,Account_Created # 321,Last_Login # 321,Latitude # 321,-82.25444,29681
+Transaction_date # 322,Product # 322,Price # 322,Visa,Name # 322,North Caldwell,NJ,United States,Account_Created # 322,Last_Login # 322,Latitude # 322,-74.27694,07006
+Transaction_date # 323,Product # 323,Price # 323,Visa,Name # 323,San Jose,CA,United States,Account_Created # 323,Last_Login # 323,Latitude # 323,-121.89389,95113
+Transaction_date # 324,Product # 324,Price # 324,Visa,Name # 324,Rancho Cordova,CA,United States,Account_Created # 324,Last_Login # 324,Latitude # 324,-121.30167,95670
+Transaction_date # 325,Product # 325,Price # 325,Visa,Name # 325,Minneapolis,MN,United States,Account_Created # 325,Last_Login # 325,Latitude # 325,-93.26361,55401
+Transaction_date # 326,Product # 326,Price # 326,Mastercard,Name # 326,Phoenix,MD,United States,Account_Created # 326,Last_Login # 326,Latitude # 326,-76.61639,21131
+Transaction_date # 327,Product # 327,Price # 327,Visa,Name # 327,Larchmont,NY,United States,Account_Created # 327,Last_Login # 327,Latitude # 327,-73.75222,10538
+Transaction_date # 328,Product # 328,Price # 328,Visa,Name # 328,Saint Charles,IL,United States,Account_Created # 328,Last_Login # 328,Latitude # 328,-88.30861,60174
+Transaction_date # 329,Product # 329,Price # 329,Visa,Name # 329,Brentwood,TN,United States,Account_Created # 329,Last_Login # 329,Latitude # 329,-86.78278,37027
+Transaction_date # 330,Product # 330,Price # 330,Diners,Name # 330,Pensacola,FL,United States,Account_Created # 330,Last_Login # 330,Latitude # 330,-87.21694,32501
+Transaction_date # 331,Product # 331,Price # 331,Amex,Name # 331,Saint Petersburg,FL,United States,Account_Created # 331,Last_Login # 331,Latitude # 331,-82.67944,33711
+Transaction_date # 332,Product # 332,Price # 332,Visa,Name # 332,Mc Lean,VA,United States,Account_Created # 332,Last_Login # 332,Latitude # 332,-77.1825,22101
+Transaction_date # 333,Product # 333,Price # 333,Mastercard,Name # 333,Hendersonville,TN,United States,Account_Created # 333,Last_Login # 333,Latitude # 333,-86.62,37075
+Transaction_date # 334,Product # 334,Price # 334,Visa,Name # 334,Rochester Hills,MI,United States,Account_Created # 334,Last_Login # 334,Latitude # 334,-83.13389,48307
+Transaction_date # 335,Product # 335,Price # 335,Amex,Name # 335,Malibu,CA,United States,Account_Created # 335,Last_Login # 335,Latitude # 335,-118.80917,90265
+Transaction_date # 336,Product # 336,Price # 336,Visa,Name # 336,Allen,TX,United States,Account_Created # 336,Last_Login # 336,Latitude # 336,-96.67028,75013
+Transaction_date # 337,Product # 337,Price # 337,Amex,Name # 337,Miami Beach,FL,United States,Account_Created # 337,Last_Login # 337,Latitude # 337,-80.13028,33139
+Transaction_date # 338,Product # 338,Price # 338,Mastercard,Name # 338,New York,NY,United States,Account_Created # 338,Last_Login # 338,Latitude # 338,-74.00639,10007
+Transaction_date # 339,Product # 339,Price # 339,Mastercard,Name # 339,Woodland Hills,CA,United States,Account_Created # 339,Last_Login # 339,Latitude # 339,-118.605,91364
+Transaction_date # 340,Product # 340,Price # 340,Visa,Name # 340,Anchorage,AK,United States,Account_Created # 340,Last_Login # 340,Latitude # 340,-149.90028,99501
+Transaction_date # 341,Product # 341,Price # 341,Visa,Name # 341,Yorba Linda,CA,United States,Account_Created # 341,Last_Login # 341,Latitude # 341,-117.81222,92886
+Transaction_date # 342,Product # 342,Price # 342,Amex,Name # 342,Jamaica Plain,MA,United States,Account_Created # 342,Last_Login # 342,Latitude # 342,-71.12083,02130
+Transaction_date # 343,Product # 343,Price # 343,Visa,Name # 343,Beverly Hills,CA,United States,Account_Created # 343,Last_Login # 343,Latitude # 343,-118.39944,90210
+Transaction_date # 344,Product # 344,Price # 344,Visa,Name # 344,Sebastopol,CA,United States,Account_Created # 344,Last_Login # 344,Latitude # 344,-122.82278,95472
+Transaction_date # 345,Product # 345,Price # 345,Visa,Name # 345,Glendora,CA,United States,Account_Created # 345,Last_Login # 345,Latitude # 345,-117.86444,91741
+Transaction_date # 346,Product # 346,Price # 346,Visa,Name # 346,Billings,MT,United States,Account_Created # 346,Last_Login # 346,Latitude # 346,-108.5,59101
+Transaction_date # 347,Product # 347,Price # 347,Visa,Name # 347,Libertyville,IL,United States,Account_Created # 347,Last_Login # 347,Latitude # 347,-87.95306,60048
+Transaction_date # 348,Product # 348,Price # 348,Amex,Name # 348,Temecula,CA,United States,Account_Created # 348,Last_Login # 348,Latitude # 348,-117.1475,92590
+Transaction_date # 349,Product # 349,Price # 349,Diners,Name # 349,Boise,ID,United States,Account_Created # 349,Last_Login # 349,Latitude # 349,-116.2025,83702
+Transaction_date # 350,Product # 350,Price # 350,Visa,Name # 350,Rock Hill,SC,United States,Account_Created # 350,Last_Login # 350,Latitude # 350,-81.02528,29730
+Transaction_date # 351,Product # 351,Price # 351,Mastercard,Name # 351,Mililani,HI,United States,Account_Created # 351,Last_Login # 351,Latitude # 351,-157.96083,96782
+Transaction_date # 352,Product # 352,Price # 352,Visa,Name # 352,Westminster,CO,United States,Account_Created # 352,Last_Login # 352,Latitude # 352,-105.03667,80030
+Transaction_date # 353,Product # 353,Price # 353,Visa,Name # 353,Issaquah,WA,United States,Account_Created # 353,Last_Login # 353,Latitude # 353,-122.03139,98027
+Transaction_date # 354,Product # 354,Price # 354,Mastercard,Name # 354,Cypress,CA,United States,Account_Created # 354,Last_Login # 354,Latitude # 354,-118.03639,90630
+Transaction_date # 355,Product # 355,Price # 355,Visa,Name # 355,Lititz,PA,United States,Account_Created # 355,Last_Login # 355,Latitude # 355,-76.30722,17543
+Transaction_date # 356,Product # 356,Price # 356,Visa,Name # 356,Chadds Ford,PA,United States,Account_Created # 356,Last_Login # 356,Latitude # 356,-75.59167,19317
+Transaction_date # 357,Product # 357,Price # 357,Visa,Name # 357,St Thomas,VI,United States,Account_Created # 357,Last_Login # 357,Latitude # 357,-64.92111,00802
+Transaction_date # 358,Product # 358,Price # 358,Mastercard,Name # 358,Coppell,TX,United States,Account_Created # 358,Last_Login # 358,Latitude # 358,-97.01472,75019
+Transaction_date # 359,Product # 359,Price # 359,Visa,Name # 359,Ladera Ranch,CA,United States,Account_Created # 359,Last_Login # 359,Latitude # 359,-117.63861,92694
+Transaction_date # 360,Product # 360,Price # 360,Amex,Name # 360,Boca Raton,FL,United States,Account_Created # 360,Last_Login # 360,Latitude # 360,-80.08333,33432
+Transaction_date # 361,Product # 361,Price # 361,Visa,Name # 361,Chaska,MN,United States,Account_Created # 361,Last_Login # 361,Latitude # 361,-93.60194,55318
+Transaction_date # 362,Product # 362,Price # 362,Visa,Name # 362,Hghlnds Ranch,CO,United States,Account_Created # 362,Last_Login # 362,Latitude # 362,-105.01611,80120
+Transaction_date # 363,Product # 363,Price # 363,Amex,Name # 363,Atlanta,GA,United States,Account_Created # 363,Last_Login # 363,Latitude # 363,-84.38806,30334
+Transaction_date # 364,Product # 364,Price # 364,Amex,Name # 364,Tenafly,NJ,United States,Account_Created # 364,Last_Login # 364,Latitude # 364,-73.96333,07670
+Transaction_date # 365,Product # 365,Price # 365,Visa,Name # 365,Nashville,TN,United States,Account_Created # 365,Last_Login # 365,Latitude # 365,-86.78444,37219
+Transaction_date # 366,Product # 366,Price # 366,Visa,Name # 366,Boyceville,WI,United States,Account_Created # 366,Last_Login # 366,Latitude # 366,-92.04083,54725
+Transaction_date # 367,Product # 367,Price # 367,Visa,Name # 367,Cos Cob,CT,United States,Account_Created # 367,Last_Login # 367,Latitude # 367,-73.6,06807
+Transaction_date # 368,Product # 368,Price # 368,Visa,Name # 368,Sterling,VA,United States,Account_Created # 368,Last_Login # 368,Latitude # 368,-77.42889,20164
+Transaction_date # 369,Product # 369,Price # 369,Mastercard,Name # 369,Ridgefield,CT,United States,Account_Created # 369,Last_Login # 369,Latitude # 369,-73.49861,06877
+Transaction_date # 370,Product # 370,Price # 370,Visa,Name # 370,Manhattan,NY,United States,Account_Created # 370,Last_Login # 370,Latitude # 370,-74.00639,10007
+Transaction_date # 371,Product # 371,Price # 371,Amex,Name # 371,Alpharetta,GA,United States,Account_Created # 371,Last_Login # 371,Latitude # 371,-84.29417,30009
+Transaction_date # 372,Product # 372,Price # 372,Mastercard,Name # 372,Germantown,TN,United States,Account_Created # 372,Last_Login # 372,Latitude # 372,-89.81,38138
+Transaction_date # 373,Product # 373,Price # 373,Diners,Name # 373,Hono,HI,United States,Account_Created # 373,Last_Login # 373,Latitude # 373,-157.85833,96813
+Transaction_date # 374,Product # 374,Price # 374,Mastercard,Name # 374,New Rochelle,NY,United States,Account_Created # 374,Last_Login # 374,Latitude # 374,-73.78278,10801
+Transaction_date # 375,Product # 375,Price # 375,Mastercard,Name # 375,South Waterford,ME,United States,Account_Created # 375,Last_Login # 375,Latitude # 375,-70.7164,04088
+Transaction_date # 376,Product # 376,Price # 376,Mastercard,Name # 376,Washington Township,OH,United States,Account_Created # 376,Last_Login # 376,Latitude # 376,-84.19167,45402
+Transaction_date # 377,Product # 377,Price # 377,Mastercard,Name # 377,Wilmington,NC,United States,Account_Created # 377,Last_Login # 377,Latitude # 377,-77.945,28401
+Transaction_date # 378,Product # 378,Price # 378,Visa,Name # 378,Seattle,WA,United States,Account_Created # 378,Last_Login # 378,Latitude # 378,-122.33083,98104
+Transaction_date # 379,Product # 379,Price # 379,Amex,Name # 379,Rowayton,CT,United States,Account_Created # 379,Last_Login # 379,Latitude # 379,-73.40833,06851
+Transaction_date # 380,Product # 380,Price # 380,Mastercard,Name # 380,Lebanon,PA,United States,Account_Created # 380,Last_Login # 380,Latitude # 380,-76.41167,17042
+Transaction_date # 381,Product # 381,Price # 381,Amex,Name # 381,Villanova,PA,United States,Account_Created # 381,Last_Login # 381,Latitude # 381,-75.34944,19085
+Transaction_date # 382,Product # 382,Price # 382,Amex,Name # 382,Las Vegas,NV,United States,Account_Created # 382,Last_Login # 382,Latitude # 382,-115.13639,89101
+Transaction_date # 383,Product # 383,Price # 383,Visa,Name # 383,Warwick,NY,United States,Account_Created # 383,Last_Login # 383,Latitude # 383,-74.36028,10990
+Transaction_date # 384,Product # 384,Price # 384,Visa,Name # 384,Silver Spring,MD,United States,Account_Created # 384,Last_Login # 384,Latitude # 384,-77.02639,20910
+Transaction_date # 385,Product # 385,Price # 385,Visa,Name # 385,Sacramento,CA,United States,Account_Created # 385,Last_Login # 385,Latitude # 385,-121.49333,95814
+Transaction_date # 386,Product # 386,Price # 386,Mastercard,Name # 386,Haymarket,VA,United States,Account_Created # 386,Last_Login # 386,Latitude # 386,-77.63667,20169
+Transaction_date # 387,Product # 387,Price # 387,Visa,Name # 387,Scottsdale,AZ,United States,Account_Created # 387,Last_Login # 387,Latitude # 387,-111.89833,85251
+Transaction_date # 388,Product # 388,Price # 388,Visa,Name # 388,Cambridge,MA,United States,Account_Created # 388,Last_Login # 388,Latitude # 388,-71.10611,02138
+Transaction_date # 389,Product # 389,Price # 389,Visa,Name # 389,Pembroke Pines,FL,United States,Account_Created # 389,Last_Login # 389,Latitude # 389,-80.14972,33020
+Transaction_date # 390,Product # 390,Price # 390,Visa,Name # 390,Chester,CT,United States,Account_Created # 390,Last_Login # 390,Latitude # 390,-72.45139,06412
+Transaction_date # 391,Product # 391,Price # 391,Mastercard,Name # 391,Reston,VA,United States,Account_Created # 391,Last_Login # 391,Latitude # 391,-77.34139,20190
+Transaction_date # 392,Product # 392,Price # 392,Diners,Name # 392,Alpharetta,GA,United States,Account_Created # 392,Last_Login # 392,Latitude # 392,-84.29417,30009
+Transaction_date # 393,Product # 393,Price # 393,Visa,Name # 393,Ringgold,GA,United States,Account_Created # 393,Last_Login # 393,Latitude # 393,-85.10917,30736
+Transaction_date # 394,Product # 394,Price # 394,Diners,Name # 394,Wall,NJ,United States,Account_Created # 394,Last_Login # 394,Latitude # 394,-74.2133,07731
+Transaction_date # 395,Product # 395,Price # 395,Mastercard,Name # 395,Huntington Beach,CA,United States,Account_Created # 395,Last_Login # 395,Latitude # 395,-117.99833,92648
+Transaction_date # 396,Product # 396,Price # 396,Amex,Name # 396,Los Gatos,CA,United States,Account_Created # 396,Last_Login # 396,Latitude # 396,-121.97361,95032
+Transaction_date # 397,Product # 397,Price # 397,Amex,Name # 397,Alexandria,VA,United States,Account_Created # 397,Last_Login # 397,Latitude # 397,-77.04722,22314
+Transaction_date # 398,Product # 398,Price # 398,Visa,Name # 398,Random Lake,WI,United States,Account_Created # 398,Last_Login # 398,Latitude # 398,-87.96167,53075
+Transaction_date # 399,Product # 399,Price # 399,Mastercard,Name # 399,San Francisco,CA,United States,Account_Created # 399,Last_Login # 399,Latitude # 399,-122.41833,94103
+Transaction_date # 400,Product # 400,Price # 400,Amex,Name # 400,Bedford Corners,NY,United States,Account_Created # 400,Last_Login # 400,Latitude # 400,-73.7275,10549
+Transaction_date # 401,Product # 401,Price # 401,Mastercard,Name # 401,Milford,ME,United States,Account_Created # 401,Last_Login # 401,Latitude # 401,-68.64444,04461
+Transaction_date # 402,Product # 402,Price # 402,Visa,Name # 402,Croton On Hudson,NY,United States,Account_Created # 402,Last_Login # 402,Latitude # 402,-73.887,10520
+Transaction_date # 403,Product # 403,Price # 403,Mastercard,Name # 403,Nashville,TN,United States,Account_Created # 403,Last_Login # 403,Latitude # 403,-86.78444,37219
+Transaction_date # 404,Product # 404,Price # 404,Mastercard,Name # 404,Naples,FL,United States,Account_Created # 404,Last_Login # 404,Latitude # 404,-81.795,34102
+Transaction_date # 405,Product # 405,Price # 405,Mastercard,Name # 405,Bridgewater,NJ,United States,Account_Created # 405,Last_Login # 405,Latitude # 405,-74.6244,08807
+Transaction_date # 406,Product # 406,Price # 406,Mastercard,Name # 406,Washington,DC,United States,Account_Created # 406,Last_Login # 406,Latitude # 406,-77.03667,20004
+Transaction_date # 407,Product # 407,Price # 407,Visa,Name # 407,Huntersville,NC,United States,Account_Created # 407,Last_Login # 407,Latitude # 407,-80.84306,28078
+Transaction_date # 408,Product # 408,Price # 408,Visa,Name # 408,Cartersburg,IN,United States,Account_Created # 408,Last_Login # 408,Latitude # 408,-86.46361,46168
+Transaction_date # 409,Product # 409,Price # 409,Visa,Name # 409,Flower Mound,TX,United States,Account_Created # 409,Last_Login # 409,Latitude # 409,-97.09667,75022
+Transaction_date # 410,Product # 410,Price # 410,Visa,Name # 410,Rochester,MI,United States,Account_Created # 410,Last_Login # 410,Latitude # 410,-83.13389,48307
+Transaction_date # 411,Product # 411,Price # 411,Visa,Name # 411,Columbus,OH,United States,Account_Created # 411,Last_Login # 411,Latitude # 411,-82.99889,43215
+Transaction_date # 412,Product # 412,Price # 412,Diners,Name # 412,Sag Harbor,NY,United States,Account_Created # 412,Last_Login # 412,Latitude # 412,-72.29306,11963
+Transaction_date # 413,Product # 413,Price # 413,Visa,Name # 413,San Diego,CA,United States,Account_Created # 413,Last_Login # 413,Latitude # 413,-117.15639,92101
+Transaction_date # 414,Product # 414,Price # 414,Mastercard,Name # 414,Wilmington,DE,United States,Account_Created # 414,Last_Login # 414,Latitude # 414,-75.54694,19801
+Transaction_date # 415,Product # 415,Price # 415,Amex,Name # 415,Issaquah,WA,United States,Account_Created # 415,Last_Login # 415,Latitude # 415,-122.19944,98004
+Transaction_date # 416,Product # 416,Price # 416,Visa,Name # 416,Mableton,GA,United States,Account_Created # 416,Last_Login # 416,Latitude # 416,-84.5825,30126
+Transaction_date # 417,Product # 417,Price # 417,Visa,Name # 417,San Diego,CA,United States,Account_Created # 417,Last_Login # 417,Latitude # 417,-117.15639,92101
+Transaction_date # 418,Product # 418,Price # 418,Mastercard,Name # 418,Minneapolis,MN,United States,Account_Created # 418,Last_Login # 418,Latitude # 418,-93.26361,55401
+Transaction_date # 419,Product # 419,Price # 419,Mastercard,Name # 419,Arlington,VA,United States,Account_Created # 419,Last_Login # 419,Latitude # 419,-77.08444,22201
+Transaction_date # 420,Product # 420,Price # 420,Mastercard,Name # 420,Chiefland,FL,United States,Account_Created # 420,Last_Login # 420,Latitude # 420,-82.86,32626
+Transaction_date # 421,Product # 421,Price # 421,Visa,Name # 421,Newton,MA,United States,Account_Created # 421,Last_Login # 421,Latitude # 421,-71.20972,02459
+Transaction_date # 422,Product # 422,Price # 422,Mastercard,Name # 422,Castle Rock,CO,United States,Account_Created # 422,Last_Login # 422,Latitude # 422,-104.85556,80104
+Transaction_date # 423,Product # 423,Price # 423,Amex,Name # 423,Rockville,MD,United States,Account_Created # 423,Last_Login # 423,Latitude # 423,-77.15306,20850
+Transaction_date # 424,Product # 424,Price # 424,Mastercard,Name # 424,Fresno,TX,United States,Account_Created # 424,Last_Login # 424,Latitude # 424,-95.44722,77545
+Transaction_date # 425,Product # 425,Price # 425,Mastercard,Name # 425,Fresno,TX,United States,Account_Created # 425,Last_Login # 425,Latitude # 425,-95.44722,77545
+Transaction_date # 426,Product # 426,Price # 426,Mastercard,Name # 426,Montgomery,TX,United States,Account_Created # 426,Last_Login # 426,Latitude # 426,-95.69611,77356
+Transaction_date # 427,Product # 427,Price # 427,Mastercard,Name # 427,Manteno,IL,United States,Account_Created # 427,Last_Login # 427,Latitude # 427,-87.83139,60950
+Transaction_date # 428,Product # 428,Price # 428,Diners,Name # 428,Winter Haven,FL,United States,Account_Created # 428,Last_Login # 428,Latitude # 428,-81.73306,33880
+Transaction_date # 429,Product # 429,Price # 429,Visa,Name # 429,Fort Lauderdale,FL,United States,Account_Created # 429,Last_Login # 429,Latitude # 429,-80.14361,33301
+Transaction_date # 430,Product # 430,Price # 430,Amex,Name # 430,Cranberry Twp,PA,United States,Account_Created # 430,Last_Login # 430,Latitude # 430,-80.13111,16066
+Transaction_date # 431,Product # 431,Price # 431,Visa,Name # 431,Arlington,VA,United States,Account_Created # 431,Last_Login # 431,Latitude # 431,-77.08444,22201
+Transaction_date # 432,Product # 432,Price # 432,Mastercard,Name # 432,Lake Ronkonkoma,NY,United States,Account_Created # 432,Last_Login # 432,Latitude # 432,-73.13167,11767
+Transaction_date # 433,Product # 433,Price # 433,Visa,Name # 433,Alexandria,VA,United States,Account_Created # 433,Last_Login # 433,Latitude # 433,-77.04722,22314
+Transaction_date # 434,Product # 434,Price # 434,Amex,Name # 434,Bluffton,SC,United States,Account_Created # 434,Last_Login # 434,Latitude # 434,-80.86056,29910
+Transaction_date # 435,Product # 435,Price # 435,Amex,Name # 435,Winter Spgs,FL,United States,Account_Created # 435,Last_Login # 435,Latitude # 435,-81.30833,32708
+Transaction_date # 436,Product # 436,Price # 436,Mastercard,Name # 436,Chelmsford,MA,United States,Account_Created # 436,Last_Login # 436,Latitude # 436,-71.36778,01824
+Transaction_date # 437,Product # 437,Price # 437,Visa,Name # 437,Cincinnati,OH,United States,Account_Created # 437,Last_Login # 437,Latitude # 437,-84.45694,45212
+Transaction_date # 438,Product # 438,Price # 438,Visa,Name # 438,Houston,TX,United States,Account_Created # 438,Last_Login # 438,Latitude # 438,-95.36306,77002
+Transaction_date # 439,Product # 439,Price # 439,Amex,Name # 439,Rodeo,CA,United States,Account_Created # 439,Last_Login # 439,Latitude # 439,-122.2875,94547
+Transaction_date # 440,Product # 440,Price # 440,Mastercard,Name # 440,Poughkeepsie,NY,United States,Account_Created # 440,Last_Login # 440,Latitude # 440,-73.92139,12601
+Transaction_date # 441,Product # 441,Price # 441,Mastercard,Name # 441,Cincinnati,OH,United States,Account_Created # 441,Last_Login # 441,Latitude # 441,-84.45694,45212
+Transaction_date # 442,Product # 442,Price # 442,Visa,Name # 442,North Eastham,MA,United States,Account_Created # 442,Last_Login # 442,Latitude # 442,-69.99167,02642
+Transaction_date # 443,Product # 443,Price # 443,Visa,Name # 443,Sitka,AK,United States,Account_Created # 443,Last_Login # 443,Latitude # 443,-135.33,99835
+Transaction_date # 444,Product # 444,Price # 444,Amex,Name # 444,Chicago,IL,United States,Account_Created # 444,Last_Login # 444,Latitude # 444,-87.65,60608
+Transaction_date # 445,Product # 445,Price # 445,Mastercard,Name # 445,Sammamish,WA,United States,Account_Created # 445,Last_Login # 445,Latitude # 445,-122.07917,98074
+Transaction_date # 446,Product # 446,Price # 446,Mastercard,Name # 446,Ewa Beach,HI,United States,Account_Created # 446,Last_Login # 446,Latitude # 446,-158.00722,96706
+Transaction_date # 447,Product # 447,Price # 447,Visa,Name # 447,Statesville,NC,United States,Account_Created # 447,Last_Login # 447,Latitude # 447,-80.8875,28677
+Transaction_date # 448,Product # 448,Price # 448,Visa,Name # 448,Kapaa,HI,United States,Account_Created # 448,Last_Login # 448,Latitude # 448,-159.32194,96746
+Transaction_date # 449,Product # 449,Price # 449,Diners,Name # 449,Burbank,CA,United States,Account_Created # 449,Last_Login # 449,Latitude # 449,-118.30806,91502
+Transaction_date # 450,Product # 450,Price # 450,Mastercard,Name # 450,Hilton Head,SC,United States,Account_Created # 450,Last_Login # 450,Latitude # 450,-80.75278,29926
+Transaction_date # 451,Product # 451,Price # 451,Visa,Name # 451,Valley Center,CA,United States,Account_Created # 451,Last_Login # 451,Latitude # 451,-117.03333,92082
+Transaction_date # 452,Product # 452,Price # 452,Mastercard,Name # 452,Swampscott,MA,United States,Account_Created # 452,Last_Login # 452,Latitude # 452,-70.91806,01907
+Transaction_date # 453,Product # 453,Price # 453,Diners,Name # 453,San Antonio,TX,United States,Account_Created # 453,Last_Login # 453,Latitude # 453,-98.49333,78205
+Transaction_date # 454,Product # 454,Price # 454,Visa,Name # 454,Bristol,RI,United States,Account_Created # 454,Last_Login # 454,Latitude # 454,-71.26667,02809
+Transaction_date # 455,Product # 455,Price # 455,Mastercard,Name # 455,Greenville,TX,United States,Account_Created # 455,Last_Login # 455,Latitude # 455,-96.11056,75401
+Transaction_date # 456,Product # 456,Price # 456,Visa,Name # 456,Pls Vrds Est,CA,United States,Account_Created # 456,Last_Login # 456,Latitude # 456,-118.38917,90274
+Transaction_date # 457,Product # 457,Price # 457,Diners,Name # 457,Morrison,CO,United States,Account_Created # 457,Last_Login # 457,Latitude # 457,-105.19056,80465
+Transaction_date # 458,Product # 458,Price # 458,Mastercard,Name # 458,Hollywood,CA,United States,Account_Created # 458,Last_Login # 458,Latitude # 458,-118.32583,90028
+Transaction_date # 459,Product # 459,Price # 459,Visa,Name # 459,Morrison,CO,United States,Account_Created # 459,Last_Login # 459,Latitude # 459,-105.19056,80465
+Transaction_date # 460,Product # 460,Price # 460,Mastercard,Name # 460,Augusta,GA,United States,Account_Created # 460,Last_Login # 460,Latitude # 460,-82.07583,30907
+Transaction_date # 461,Product # 461,Price # 461,Amex,Name # 461,Skaneateles,NY,United States,Account_Created # 461,Last_Login # 461,Latitude # 461,-76.42944,13152
+Transaction_date # 462,Product # 462,Price # 462,Visa,Name # 462,Madison,WI,United States,Account_Created # 462,Last_Login # 462,Latitude # 462,-89.40111,53715
+Transaction_date # 463,Product # 463,Price # 463,Mastercard,Name # 463,Basildon,England,United Kingdom,Account_Created # 463,Last_Login # 463,Latitude # 463,-1.1166667,
+Transaction_date # 464,Product # 464,Price # 464,Visa,Name # 464,London,England,United Kingdom,Account_Created # 464,Last_Login # 464,Latitude # 464,0.14559,
+Transaction_date # 465,Product # 465,Price # 465,Visa,Name # 465,Manchester,England,United Kingdom,Account_Created # 465,Last_Login # 465,Latitude # 465,-2.2166667,
+Transaction_date # 466,Product # 466,Price # 466,Visa,Name # 466,London,England,United Kingdom,Account_Created # 466,Last_Login # 466,Latitude # 466,0.14559,
+Transaction_date # 467,Product # 467,Price # 467,Mastercard,Name # 467,Newbury,England,United Kingdom,Account_Created # 467,Last_Login # 467,Latitude # 467,-1.3166667,
+Transaction_date # 468,Product # 468,Price # 468,Visa,Name # 468,Kemble,England,United Kingdom,Account_Created # 468,Last_Login # 468,Latitude # 468,-2.0180556,
+Transaction_date # 469,Product # 469,Price # 469,Mastercard,Name # 469,Headley,England,United Kingdom,Account_Created # 469,Last_Login # 469,Latitude # 469,-0.8166667,
+Transaction_date # 470,Product # 470,Price # 470,Mastercard,Name # 470,Southampton,England,United Kingdom,Account_Created # 470,Last_Login # 470,Latitude # 470,-1.4,
+Transaction_date # 471,Product # 471,Price # 471,Mastercard,Name # 471,Helens Bay,Northern Ireland,United Kingdom,Account_Created # 471,Last_Login # 471,Latitude # 471,-5.7333333,
+Transaction_date # 472,Product # 472,Price # 472,Mastercard,Name # 472,Cheltenham,England,United Kingdom,Account_Created # 472,Last_Login # 472,Latitude # 472,-2.0833333,
+Transaction_date # 473,Product # 473,Price # 473,Mastercard,Name # 473,Bournemouth,England,United Kingdom,Account_Created # 473,Last_Login # 473,Latitude # 473,-1.8833333,
+Transaction_date # 474,Product # 474,Price # 474,Visa,Name # 474,York,England,United Kingdom,Account_Created # 474,Last_Login # 474,Latitude # 474,-1.0833333,
+Transaction_date # 475,Product # 475,Price # 475,Diners,Name # 475,Basingstoke,England,United Kingdom,Account_Created # 475,Last_Login # 475,Latitude # 475,-1.0833333,
+Transaction_date # 476,Product # 476,Price # 476,Visa,Name # 476,New Malden,England,United Kingdom,Account_Created # 476,Last_Login # 476,Latitude # 476,-0.25,
+Transaction_date # 477,Product # 477,Price # 477,Visa,Name # 477,Bishop Auckland,England,United Kingdom,Account_Created # 477,Last_Login # 477,Latitude # 477,-1.6666667,
+Transaction_date # 478,Product # 478,Price # 478,Visa,Name # 478,Aberdeen,Scotland,United Kingdom,Account_Created # 478,Last_Login # 478,Latitude # 478,-2.1,
+Transaction_date # 479,Product # 479,Price # 479,Visa,Name # 479,Wigan,England,United Kingdom,Account_Created # 479,Last_Login # 479,Latitude # 479,-2.6166667,
+Transaction_date # 480,Product # 480,Price # 480,Visa,Name # 480,Abbey Town,England,United Kingdom,Account_Created # 480,Last_Login # 480,Latitude # 480,-3.2833333,
+Transaction_date # 481,Product # 481,Price # 481,Visa,Name # 481,Milton Keynes,England,United Kingdom,Account_Created # 481,Last_Login # 481,Latitude # 481,-0.7,
+Transaction_date # 482,Product # 482,Price # 482,Visa,Name # 482,London,England,United Kingdom,Account_Created # 482,Last_Login # 482,Latitude # 482,0.14559,
+Transaction_date # 483,Product # 483,Price # 483,Visa,Name # 483,Edinburgh,Scotland,United Kingdom,Account_Created # 483,Last_Login # 483,Latitude # 483,-3.2,
+Transaction_date # 484,Product # 484,Price # 484,Mastercard,Name # 484,Newburgh,Scotland,United Kingdom,Account_Created # 484,Last_Login # 484,Latitude # 484,-3.25,
+Transaction_date # 485,Product # 485,Price # 485,Visa,Name # 485,Kirriemuir,Scotland,United Kingdom,Account_Created # 485,Last_Login # 485,Latitude # 485,-3,
+Transaction_date # 486,Product # 486,Price # 486,Visa,Name # 486,Guildford,England,United Kingdom,Account_Created # 486,Last_Login # 486,Latitude # 486,-0.5666667,
+Transaction_date # 487,Product # 487,Price # 487,Visa,Name # 487,Bishops Stortford,England,United Kingdom,Account_Created # 487,Last_Login # 487,Latitude # 487,0.1666667,
+Transaction_date # 488,Product # 488,Price # 488,Diners,Name # 488,Blackpool,England,United Kingdom,Account_Created # 488,Last_Login # 488,Latitude # 488,-3.05,
+Transaction_date # 489,Product # 489,Price # 489,Mastercard,Name # 489,London,England,United Kingdom,Account_Created # 489,Last_Login # 489,Latitude # 489,-0.08895,
+Transaction_date # 490,Product # 490,Price # 490,Amex,Name # 490,London,England,United Kingdom,Account_Created # 490,Last_Login # 490,Latitude # 490,0.14559,
+Transaction_date # 491,Product # 491,Price # 491,Diners,Name # 491,London,England,United Kingdom,Account_Created # 491,Last_Login # 491,Latitude # 491,0.14559,
+Transaction_date # 492,Product # 492,Price # 492,Mastercard,Name # 492,London,England,United Kingdom,Account_Created # 492,Last_Login # 492,Latitude # 492,0.14559,
+Transaction_date # 493,Product # 493,Price # 493,Visa,Name # 493,Slough,England,United Kingdom,Account_Created # 493,Last_Login # 493,Latitude # 493,-0.5833333,
+Transaction_date # 494,Product # 494,Price # 494,Diners,Name # 494,Saffron Walden,England,United Kingdom,Account_Created # 494,Last_Login # 494,Latitude # 494,0.25,
+Transaction_date # 495,Product # 495,Price # 495,Visa,Name # 495,Berkeswell,England,United Kingdom,Account_Created # 495,Last_Login # 495,Latitude # 495,-1.6333333,
+Transaction_date # 496,Product # 496,Price # 496,Visa,Name # 496,Leighton Buzzard,England,United Kingdom,Account_Created # 496,Last_Login # 496,Latitude # 496,-0.65,
+Transaction_date # 497,Product # 497,Price # 497,Visa,Name # 497,Stockton-on-Tees,England,United Kingdom,Account_Created # 497,Last_Login # 497,Latitude # 497,-1.4166667,
+Transaction_date # 498,Product # 498,Price # 498,Mastercard,Name # 498,Warlingham,England,United Kingdom,Account_Created # 498,Last_Login # 498,Latitude # 498,-0.05,
+Transaction_date # 499,Product # 499,Price # 499,Visa,Name # 499,Gosport,England,United Kingdom,Account_Created # 499,Last_Login # 499,Latitude # 499,-1.1333333,
+Transaction_date # 500,Product # 500,Price # 500,Visa,Name # 500,Petworth,England,United Kingdom,Account_Created # 500,Last_Login # 500,Latitude # 500,-0.6,
+Transaction_date # 501,Product # 501,Price # 501,Visa,Name # 501,Reading,England,United Kingdom,Account_Created # 501,Last_Login # 501,Latitude # 501,-1,
+Transaction_date # 502,Product # 502,Price # 502,Visa,Name # 502,London,England,United Kingdom,Account_Created # 502,Last_Login # 502,Latitude # 502,-0.08895,
+Transaction_date # 503,Product # 503,Price # 503,Mastercard,Name # 503,London,England,United Kingdom,Account_Created # 503,Last_Login # 503,Latitude # 503,0.14559,
+Transaction_date # 504,Product # 504,Price # 504,Visa,Name # 504,London,England,United Kingdom,Account_Created # 504,Last_Login # 504,Latitude # 504,0.14559,
+Transaction_date # 505,Product # 505,Price # 505,Visa,Name # 505,Lurgan,Northern Ireland,United Kingdom,Account_Created # 505,Last_Login # 505,Latitude # 505,-6.3333333,
+Transaction_date # 506,Product # 506,Price # 506,Visa,Name # 506,Shenfield,England,United Kingdom,Account_Created # 506,Last_Login # 506,Latitude # 506,0.3166667,
+Transaction_date # 507,Product # 507,Price # 507,Visa,Name # 507,Bolton,England,United Kingdom,Account_Created # 507,Last_Login # 507,Latitude # 507,-2.4333333,
+Transaction_date # 508,Product # 508,Price # 508,Diners,Name # 508,High Wycombe,England,United Kingdom,Account_Created # 508,Last_Login # 508,Latitude # 508,-0.7666667,
+Transaction_date # 509,Product # 509,Price # 509,Visa,Name # 509,York,England,United Kingdom,Account_Created # 509,Last_Login # 509,Latitude # 509,-1.0833333,
+Transaction_date # 510,Product # 510,Price # 510,Visa,Name # 510,Bolton,England,United Kingdom,Account_Created # 510,Last_Login # 510,Latitude # 510,-2.4333333,
+Transaction_date # 511,Product # 511,Price # 511,Visa,Name # 511,London,England,United Kingdom,Account_Created # 511,Last_Login # 511,Latitude # 511,0.14559,
+Transaction_date # 512,Product # 512,Price # 512,Diners,Name # 512,London,England,United Kingdom,Account_Created # 512,Last_Login # 512,Latitude # 512,-0.1166667,
+Transaction_date # 513,Product # 513,Price # 513,Mastercard,Name # 513,Edinburgh,Scotland,United Kingdom,Account_Created # 513,Last_Login # 513,Latitude # 513,-3.2,
+Transaction_date # 514,Product # 514,Price # 514,Visa,Name # 514,Perth,Scotland,United Kingdom,Account_Created # 514,Last_Login # 514,Latitude # 514,-3.4333333,
+Transaction_date # 515,Product # 515,Price # 515,Amex,Name # 515,London,England,United Kingdom,Account_Created # 515,Last_Login # 515,Latitude # 515,-0.08895,
+Transaction_date # 516,Product # 516,Price # 516,Visa,Name # 516,Sutton Valence,England,United Kingdom,Account_Created # 516,Last_Login # 516,Latitude # 516,0.5833333,
+Transaction_date # 517,Product # 517,Price # 517,Mastercard,Name # 517,Dumbleton,England,United Kingdom,Account_Created # 517,Last_Login # 517,Latitude # 517,-1.9666667,
+Transaction_date # 518,Product # 518,Price # 518,Mastercard,Name # 518,Milton Keynes,England,United Kingdom,Account_Created # 518,Last_Login # 518,Latitude # 518,-0.7,
+Transaction_date # 519,Product # 519,Price # 519,Visa,Name # 519,Stockton,England,United Kingdom,Account_Created # 519,Last_Login # 519,Latitude # 519,-2.7,
+Transaction_date # 520,Product # 520,Price # 520,Visa,Name # 520,Kirriemuir,Scotland,United Kingdom,Account_Created # 520,Last_Login # 520,Latitude # 520,-3,
+Transaction_date # 521,Product # 521,Price # 521,Visa,Name # 521,Oxford,England,United Kingdom,Account_Created # 521,Last_Login # 521,Latitude # 521,-1.25,
+Transaction_date # 522,Product # 522,Price # 522,Visa,Name # 522,Exeter,England,United Kingdom,Account_Created # 522,Last_Login # 522,Latitude # 522,-3.5333333,
+Transaction_date # 523,Product # 523,Price # 523,Visa,Name # 523,London,England,United Kingdom,Account_Created # 523,Last_Login # 523,Latitude # 523,0.14559,
+Transaction_date # 524,Product # 524,Price # 524,Mastercard,Name # 524,London,England,United Kingdom,Account_Created # 524,Last_Login # 524,Latitude # 524,-0.08895,
+Transaction_date # 525,Product # 525,Price # 525,Visa,Name # 525,Liverpool,England,United Kingdom,Account_Created # 525,Last_Login # 525,Latitude # 525,-3,
+Transaction_date # 526,Product # 526,Price # 526,Visa,Name # 526,Calne,England,United Kingdom,Account_Created # 526,Last_Login # 526,Latitude # 526,-2,
+Transaction_date # 527,Product # 527,Price # 527,Diners,Name # 527,Reading,England,United Kingdom,Account_Created # 527,Last_Login # 527,Latitude # 527,-1,
+Transaction_date # 528,Product # 528,Price # 528,Mastercard,Name # 528,Coventry,England,United Kingdom,Account_Created # 528,Last_Login # 528,Latitude # 528,-1.55,
+Transaction_date # 529,Product # 529,Price # 529,Diners,Name # 529,Leamington Spa,England,United Kingdom,Account_Created # 529,Last_Login # 529,Latitude # 529,-1.5333333,
+Transaction_date # 530,Product # 530,Price # 530,Mastercard,Name # 530,Sidcup,England,United Kingdom,Account_Created # 530,Last_Login # 530,Latitude # 530,0.1166667,
+Transaction_date # 531,Product # 531,Price # 531,Mastercard,Name # 531,Watford,England,United Kingdom,Account_Created # 531,Last_Login # 531,Latitude # 531,-0.4,
+Transaction_date # 532,Product # 532,Price # 532,Visa,Name # 532,Redruth,England,United Kingdom,Account_Created # 532,Last_Login # 532,Latitude # 532,-5.2333333,
+Transaction_date # 533,Product # 533,Price # 533,Visa,Name # 533,London,England,United Kingdom,Account_Created # 533,Last_Login # 533,Latitude # 533,0.14559,
+Transaction_date # 534,Product # 534,Price # 534,Diners,Name # 534,Oxford,England,United Kingdom,Account_Created # 534,Last_Login # 534,Latitude # 534,-1.25,
+Transaction_date # 535,Product # 535,Price # 535,Visa,Name # 535,Banbury,England,United Kingdom,Account_Created # 535,Last_Login # 535,Latitude # 535,-1.3333333,
+Transaction_date # 536,Product # 536,Price # 536,Mastercard,Name # 536,Canterbury,England,United Kingdom,Account_Created # 536,Last_Login # 536,Latitude # 536,1.0833333,
+Transaction_date # 537,Product # 537,Price # 537,Visa,Name # 537,Penclawdd,Wales,United Kingdom,Account_Created # 537,Last_Login # 537,Latitude # 537,-4.1,
+Transaction_date # 538,Product # 538,Price # 538,Mastercard,Name # 538,Tunbridge Wells,England,United Kingdom,Account_Created # 538,Last_Login # 538,Latitude # 538,0.2833333,
+Transaction_date # 539,Product # 539,Price # 539,Visa,Name # 539,London,England,United Kingdom,Account_Created # 539,Last_Login # 539,Latitude # 539,0.14559,
+Transaction_date # 540,Product # 540,Price # 540,Visa,Name # 540,Aberdeen,Scotland,United Kingdom,Account_Created # 540,Last_Login # 540,Latitude # 540,-2.1,
+Transaction_date # 541,Product # 541,Price # 541,Diners,Name # 541,Worcester,England,United Kingdom,Account_Created # 541,Last_Login # 541,Latitude # 541,-2.2,
+Transaction_date # 542,Product # 542,Price # 542,Visa,Name # 542,Leicester,England,United Kingdom,Account_Created # 542,Last_Login # 542,Latitude # 542,-1.1333333,
+Transaction_date # 543,Product # 543,Price # 543,Visa,Name # 543,Chalfont Saint Peter,England,United Kingdom,Account_Created # 543,Last_Login # 543,Latitude # 543,-0.55,
+Transaction_date # 544,Product # 544,Price # 544,Diners,Name # 544,Birmingham,England,United Kingdom,Account_Created # 544,Last_Login # 544,Latitude # 544,-1.9166667,
+Transaction_date # 545,Product # 545,Price # 545,Mastercard,Name # 545,Oxford,England,United Kingdom,Account_Created # 545,Last_Login # 545,Latitude # 545,-1.25,
+Transaction_date # 546,Product # 546,Price # 546,Mastercard,Name # 546,Kidderminster,England,United Kingdom,Account_Created # 546,Last_Login # 546,Latitude # 546,-2.25,
+Transaction_date # 547,Product # 547,Price # 547,Amex,Name # 547,Claygate,England,United Kingdom,Account_Created # 547,Last_Login # 547,Latitude # 547,-0.35,
+Transaction_date # 548,Product # 548,Price # 548,Amex,Name # 548,London,England,United Kingdom,Account_Created # 548,Last_Login # 548,Latitude # 548,0.14559,
+Transaction_date # 549,Product # 549,Price # 549,Mastercard,Name # 549,Chichester,England,United Kingdom,Account_Created # 549,Last_Login # 549,Latitude # 549,-0.7833333,
+Transaction_date # 550,Product # 550,Price # 550,Visa,Name # 550,Cardiff,Wales,United Kingdom,Account_Created # 550,Last_Login # 550,Latitude # 550,-3.2,
+Transaction_date # 551,Product # 551,Price # 551,Amex,Name # 551,Ashford,England,United Kingdom,Account_Created # 551,Last_Login # 551,Latitude # 551,0.8833333,
+Transaction_date # 552,Product # 552,Price # 552,Visa,Name # 552,London,England,United Kingdom,Account_Created # 552,Last_Login # 552,Latitude # 552,0.14559,
+Transaction_date # 553,Product # 553,Price # 553,Visa,Name # 553,Ashford,England,United Kingdom,Account_Created # 553,Last_Login # 553,Latitude # 553,-4.1,
+Transaction_date # 554,Product # 554,Price # 554,Diners,Name # 554,Watford,England,United Kingdom,Account_Created # 554,Last_Login # 554,Latitude # 554,-0.4,
+Transaction_date # 555,Product # 555,Price # 555,Visa,Name # 555,Edinburgh,Scotland,United Kingdom,Account_Created # 555,Last_Login # 555,Latitude # 555,-3.2,
+Transaction_date # 556,Product # 556,Price # 556,Visa,Name # 556,Maidstone,England,United Kingdom,Account_Created # 556,Last_Login # 556,Latitude # 556,0.5166667,
+Transaction_date # 557,Product # 557,Price # 557,Visa,Name # 557,Saint Albans,England,United Kingdom,Account_Created # 557,Last_Login # 557,Latitude # 557,-0.3333333,
+Transaction_date # 558,Product # 558,Price # 558,Visa,Name # 558,Cobham,England,United Kingdom,Account_Created # 558,Last_Login # 558,Latitude # 558,0.4,
+Transaction_date # 559,Product # 559,Price # 559,Visa,Name # 559,Brighton,England,United Kingdom,Account_Created # 559,Last_Login # 559,Latitude # 559,-0.15,
+Transaction_date # 560,Product # 560,Price # 560,Diners,Name # 560,Huddersfield,England,United Kingdom,Account_Created # 560,Last_Login # 560,Latitude # 560,-1.7833333,
+Transaction_date # 561,Product # 561,Price # 561,Visa,Name # 561,Belfast,Northern Ireland,United Kingdom,Account_Created # 561,Last_Login # 561,Latitude # 561,-5.9333333,
+Transaction_date # 562,Product # 562,Price # 562,Diners,Name # 562,Haverhill,England,United Kingdom,Account_Created # 562,Last_Login # 562,Latitude # 562,0.4333333,
+Transaction_date # 563,Product # 563,Price # 563,Visa,Name # 563,Jumeira,Dubayy,United Arab Emirates,Account_Created # 563,Last_Login # 563,Latitude # 563,55.2477778,
+Transaction_date # 564,Product # 564,Price # 564,Diners,Name # 564,Abu Dhabi,Abu Zaby,United Arab Emirates,Account_Created # 564,Last_Login # 564,Latitude # 564,54.3666667,
+Transaction_date # 565,Product # 565,Price # 565,Visa,Name # 565,Jumeira,Dubayy,United Arab Emirates,Account_Created # 565,Last_Login # 565,Latitude # 565,55.2477778,
+Transaction_date # 566,Product # 566,Price # 566,Visa,Name # 566,Dubai,Dubayy,United Arab Emirates,Account_Created # 566,Last_Login # 566,Latitude # 566,55.28,
+Transaction_date # 567,Product # 567,Price # 567,Visa,Name # 567,Dubai,Dubayy,United Arab Emirates,Account_Created # 567,Last_Login # 567,Latitude # 567,55.28,
+Transaction_date # 568,Product # 568,Price # 568,Visa,Name # 568,Dubai,Dubayy,United Arab Emirates,Account_Created # 568,Last_Login # 568,Latitude # 568,55.28,
+Transaction_date # 569,Product # 569,Price # 569,Visa,Name # 569,Irpin',Kiev,Ukraine,Account_Created # 569,Last_Login # 569,Latitude # 569,30.25,
+Transaction_date # 570,Product # 570,Price # 570,Visa,Name # 570,Tesvikiye,Istanbul,Turkey,Account_Created # 570,Last_Login # 570,Latitude # 570,29.0666667,
+Transaction_date # 571,Product # 571,Price # 571,Visa,Name # 571,Zekeriyakoy,Istanbul,Turkey,Account_Created # 571,Last_Login # 571,Latitude # 571,29.0302778,
+Transaction_date # 572,Product # 572,Price # 572,Visa,Name # 572,Kemerburgaz,Istanbul,Turkey,Account_Created # 572,Last_Login # 572,Latitude # 572,28.9127778,
+Transaction_date # 573,Product # 573,Price # 573,Visa,Name # 573,Beykoz,Istanbul,Turkey,Account_Created # 573,Last_Login # 573,Latitude # 573,29.0905556,
+Transaction_date # 574,Product # 574,Price # 574,Visa,Name # 574,Istanbul,Istanbul,Turkey,Account_Created # 574,Last_Login # 574,Latitude # 574,28.9647222,
+Transaction_date # 575,Product # 575,Price # 575,Visa,Name # 575,Izmir,Izmir,Turkey,Account_Created # 575,Last_Login # 575,Latitude # 575,27.1502778,
+Transaction_date # 576,Product # 576,Price # 576,Visa,Name # 576,Killarney,New Providence,The Bahamas,Account_Created # 576,Last_Login # 576,Latitude # 576,-77.4166667,
+Transaction_date # 577,Product # 577,Price # 577,Visa,Name # 577,Freeport City,Freeport,The Bahamas,Account_Created # 577,Last_Login # 577,Latitude # 577,-78.7,
+Transaction_date # 578,Product # 578,Price # 578,Mastercard,Name # 578,Ban Khlong Sip,Krung Thep,Thailand,Account_Created # 578,Last_Login # 578,Latitude # 578,100.8166667,
+Transaction_date # 579,Product # 579,Price # 579,Visa,Name # 579,Phuket,Phuket,Thailand,Account_Created # 579,Last_Login # 579,Latitude # 579,98.4,
+Transaction_date # 580,Product # 580,Price # 580,Mastercard,Name # 580,Vesenaz,Geneve,Switzerland,Account_Created # 580,Last_Login # 580,Latitude # 580,6.2,
+Transaction_date # 581,Product # 581,Price # 581,Mastercard,Name # 581,Lausanne,Vaud,Switzerland,Account_Created # 581,Last_Login # 581,Latitude # 581,6.6666667,
+Transaction_date # 582,Product # 582,Price # 582,Mastercard,Name # 582,Morges,Vaud,Switzerland,Account_Created # 582,Last_Login # 582,Latitude # 582,6.5,
+Transaction_date # 583,Product # 583,Price # 583,Visa,Name # 583,Freienbach,Schwyz,Switzerland,Account_Created # 583,Last_Login # 583,Latitude # 583,8.75,
+Transaction_date # 584,Product # 584,Price # 584,Visa,Name # 584,Binningen,Basel-Country,Switzerland,Account_Created # 584,Last_Login # 584,Latitude # 584,7.5666667,
+Transaction_date # 585,Product # 585,Price # 585,Visa,Name # 585,Ruschlikon,Zurich,Switzerland,Account_Created # 585,Last_Login # 585,Latitude # 585,8.55,
+Transaction_date # 586,Product # 586,Price # 586,Mastercard,Name # 586,Zug,Zug,Switzerland,Account_Created # 586,Last_Login # 586,Latitude # 586,8.5166667,
+Transaction_date # 587,Product # 587,Price # 587,Amex,Name # 587,Bellinzona,Ticino,Switzerland,Account_Created # 587,Last_Login # 587,Latitude # 587,9.0166667,
+Transaction_date # 588,Product # 588,Price # 588,Visa,Name # 588,Ruti,Zurich,Switzerland,Account_Created # 588,Last_Login # 588,Latitude # 588,8.85,
+Transaction_date # 589,Product # 589,Price # 589,Mastercard,Name # 589,Zurich,Zurich,Switzerland,Account_Created # 589,Last_Login # 589,Latitude # 589,8.55,
+Transaction_date # 590,Product # 590,Price # 590,Amex,Name # 590,Versoix,Geneve,Switzerland,Account_Created # 590,Last_Login # 590,Latitude # 590,6.1666667,
+Transaction_date # 591,Product # 591,Price # 591,Visa,Name # 591,Trelex,Vaud,Switzerland,Account_Created # 591,Last_Login # 591,Latitude # 591,6.2,
+Transaction_date # 592,Product # 592,Price # 592,Mastercard,Name # 592,Kloten,Zurich,Switzerland,Account_Created # 592,Last_Login # 592,Latitude # 592,8.5833333,
+Transaction_date # 593,Product # 593,Price # 593,Visa,Name # 593,Regensdorf,Zurich,Switzerland,Account_Created # 593,Last_Login # 593,Latitude # 593,8.4666667,
+Transaction_date # 594,Product # 594,Price # 594,Mastercard,Name # 594,Geneve,Geneve,Switzerland,Account_Created # 594,Last_Login # 594,Latitude # 594,6.1666667,
+Transaction_date # 595,Product # 595,Price # 595,Mastercard,Name # 595,Aubonne,Vaud,Switzerland,Account_Created # 595,Last_Login # 595,Latitude # 595,6.4,
+Transaction_date # 596,Product # 596,Price # 596,Visa,Name # 596,Zurich,Zurich,Switzerland,Account_Created # 596,Last_Login # 596,Latitude # 596,8.55,
+Transaction_date # 597,Product # 597,Price # 597,Visa,Name # 597,Neuchatel,Neuchatel,Switzerland,Account_Created # 597,Last_Login # 597,Latitude # 597,6.9666667,
+Transaction_date # 598,Product # 598,Price # 598,Visa,Name # 598,Basel,Basel-Town,Switzerland,Account_Created # 598,Last_Login # 598,Latitude # 598,7.6,
+Transaction_date # 599,Product # 599,Price # 599,Visa,Name # 599,Plan-les-Ouattes,Geneve,Switzerland,Account_Created # 599,Last_Login # 599,Latitude # 599,6.1166667,
+Transaction_date # 600,Product # 600,Price # 600,Diners,Name # 600,Gingins,Vaud,Switzerland,Account_Created # 600,Last_Login # 600,Latitude # 600,6.1833333,
+Transaction_date # 601,Product # 601,Price # 601,Visa,Name # 601,Bern,Bern,Switzerland,Account_Created # 601,Last_Login # 601,Latitude # 601,7.4666667,
+Transaction_date # 602,Product # 602,Price # 602,Mastercard,Name # 602,Oberwil,Basel-Country,Switzerland,Account_Created # 602,Last_Login # 602,Latitude # 602,7.55,
+Transaction_date # 603,Product # 603,Price # 603,Visa,Name # 603,Zumikon,Zurich,Switzerland,Account_Created # 603,Last_Login # 603,Latitude # 603,8.6166667,
+Transaction_date # 604,Product # 604,Price # 604,Mastercard,Name # 604,Balgach,St Gallen,Switzerland,Account_Created # 604,Last_Login # 604,Latitude # 604,9.6,
+Transaction_date # 605,Product # 605,Price # 605,Visa,Name # 605,Carouge,Geneve,Switzerland,Account_Created # 605,Last_Login # 605,Latitude # 605,6.1333333,
+Transaction_date # 606,Product # 606,Price # 606,Visa,Name # 606,Lausanne,Vaud,Switzerland,Account_Created # 606,Last_Login # 606,Latitude # 606,6.6666667,
+Transaction_date # 607,Product # 607,Price # 607,Mastercard,Name # 607,Villars,Vaud,Switzerland,Account_Created # 607,Last_Login # 607,Latitude # 607,7.05,
+Transaction_date # 608,Product # 608,Price # 608,Visa,Name # 608,Langnau,Zurich,Switzerland,Account_Created # 608,Last_Login # 608,Latitude # 608,8.5333333,
+Transaction_date # 609,Product # 609,Price # 609,Visa,Name # 609,Geneve,Geneve,Switzerland,Account_Created # 609,Last_Login # 609,Latitude # 609,6.1666667,
+Transaction_date # 610,Product # 610,Price # 610,Visa,Name # 610,Massagno,Ticino,Switzerland,Account_Created # 610,Last_Login # 610,Latitude # 610,8.95,
+Transaction_date # 611,Product # 611,Price # 611,Mastercard,Name # 611,Begnins,Vaud,Switzerland,Account_Created # 611,Last_Login # 611,Latitude # 611,6.25,
+Transaction_date # 612,Product # 612,Price # 612,Visa,Name # 612,Berikon,Aargau,Switzerland,Account_Created # 612,Last_Login # 612,Latitude # 612,8.3833333,
+Transaction_date # 613,Product # 613,Price # 613,Amex,Name # 613,Zug,Zug,Switzerland,Account_Created # 613,Last_Login # 613,Latitude # 613,8.5166667,
+Transaction_date # 614,Product # 614,Price # 614,Visa,Name # 614,Anieres,Geneve,Switzerland,Account_Created # 614,Last_Login # 614,Latitude # 614,6.2166667,
+Transaction_date # 615,Product # 615,Price # 615,Mastercard,Name # 615,Baden,Aargau,Switzerland,Account_Created # 615,Last_Login # 615,Latitude # 615,8.3,
+Transaction_date # 616,Product # 616,Price # 616,Mastercard,Name # 616,Saltsjobaden,Stockholm,Sweden,Account_Created # 616,Last_Login # 616,Latitude # 616,18.3,
+Transaction_date # 617,Product # 617,Price # 617,Visa,Name # 617,Malmo,Skane,Sweden,Account_Created # 617,Last_Login # 617,Latitude # 617,13,
+Transaction_date # 618,Product # 618,Price # 618,Visa,Name # 618,Umea,Vasterbotten,Sweden,Account_Created # 618,Last_Login # 618,Latitude # 618,20.25,
+Transaction_date # 619,Product # 619,Price # 619,Mastercard,Name # 619,Stockholm,Stockholm,Sweden,Account_Created # 619,Last_Login # 619,Latitude # 619,18.05,
+Transaction_date # 620,Product # 620,Price # 620,Amex,Name # 620,Nacka,Stockholm,Sweden,Account_Created # 620,Last_Login # 620,Latitude # 620,18.1666667,
+Transaction_date # 621,Product # 621,Price # 621,Mastercard,Name # 621,Tierp,Uppsala,Sweden,Account_Created # 621,Last_Login # 621,Latitude # 621,17.5,
+Transaction_date # 622,Product # 622,Price # 622,Amex,Name # 622,Danderyd,Stockholm,Sweden,Account_Created # 622,Last_Login # 622,Latitude # 622,18.0166667,
+Transaction_date # 623,Product # 623,Price # 623,Visa,Name # 623,Nacka,Stockholm,Sweden,Account_Created # 623,Last_Login # 623,Latitude # 623,18.1666667,
+Transaction_date # 624,Product # 624,Price # 624,Visa,Name # 624,Stocksund,Stockholm,Sweden,Account_Created # 624,Last_Login # 624,Latitude # 624,18.0666667,
+Transaction_date # 625,Product # 625,Price # 625,Visa,Name # 625,Djurgarden,Stockholm,Sweden,Account_Created # 625,Last_Login # 625,Latitude # 625,18.1166667,
+Transaction_date # 626,Product # 626,Price # 626,Amex,Name # 626,Lidingo,Stockholm,Sweden,Account_Created # 626,Last_Login # 626,Latitude # 626,18.1333333,
+Transaction_date # 627,Product # 627,Price # 627,Visa,Name # 627,Norrkoping,Ostergotland,Sweden,Account_Created # 627,Last_Login # 627,Latitude # 627,16.1833333,
+Transaction_date # 628,Product # 628,Price # 628,Mastercard,Name # 628,Taby,Stockholm,Sweden,Account_Created # 628,Last_Login # 628,Latitude # 628,18.05,
+Transaction_date # 629,Product # 629,Price # 629,Amex,Name # 629,La Alberca,Murcia,Spain,Account_Created # 629,Last_Login # 629,Latitude # 629,-1.1333333,
+Transaction_date # 630,Product # 630,Price # 630,Amex,Name # 630,Barcelona,Catalonia,Spain,Account_Created # 630,Last_Login # 630,Latitude # 630,2.1833333,
+Transaction_date # 631,Product # 631,Price # 631,Visa,Name # 631,Barcelona,Catalonia,Spain,Account_Created # 631,Last_Login # 631,Latitude # 631,2.1833333,
+Transaction_date # 632,Product # 632,Price # 632,Visa,Name # 632,Madrid,Madrid,Spain,Account_Created # 632,Last_Login # 632,Latitude # 632,-3.6833333,
+Transaction_date # 633,Product # 633,Price # 633,Mastercard,Name # 633,Madrid,Madrid,Spain,Account_Created # 633,Last_Login # 633,Latitude # 633,-3.6833333,
+Transaction_date # 634,Product # 634,Price # 634,Mastercard,Name # 634,Sevilla,Andalucia,Spain,Account_Created # 634,Last_Login # 634,Latitude # 634,-5.9869444,
+Transaction_date # 635,Product # 635,Price # 635,Amex,Name # 635,Gava,Catalonia,Spain,Account_Created # 635,Last_Login # 635,Latitude # 635,2.0166667,
+Transaction_date # 636,Product # 636,Price # 636,Visa,Name # 636,Basauri,Pais Vasco,Spain,Account_Created # 636,Last_Login # 636,Latitude # 636,-2.4,
+Transaction_date # 637,Product # 637,Price # 637,Visa,Name # 637,Churra,Murcia,Spain,Account_Created # 637,Last_Login # 637,Latitude # 637,-1.1333333,
+Transaction_date # 638,Product # 638,Price # 638,Mastercard,Name # 638,Madrid,Madrid,Spain,Account_Created # 638,Last_Login # 638,Latitude # 638,-3.6833333,
+Transaction_date # 639,Product # 639,Price # 639,Visa,Name # 639,Alcobendas,Madrid,Spain,Account_Created # 639,Last_Login # 639,Latitude # 639,-3.6333333,
+Transaction_date # 640,Product # 640,Price # 640,Visa,Name # 640,El Escorial,Madrid,Spain,Account_Created # 640,Last_Login # 640,Latitude # 640,-4.1166667,
+Transaction_date # 641,Product # 641,Price # 641,Visa,Name # 641,Songnae-dong,Soul-t'ukpyolsi,South Korea,Account_Created # 641,Last_Login # 641,Latitude # 641,127.1166667,
+Transaction_date # 642,Product # 642,Price # 642,Mastercard,Name # 642,Roodepoort,Gauteng,South Africa,Account_Created # 642,Last_Login # 642,Latitude # 642,27.8666667,
+Transaction_date # 643,Product # 643,Price # 643,Visa,Name # 643,Centurion,Gauteng,South Africa,Account_Created # 643,Last_Login # 643,Latitude # 643,28.1705556,
+Transaction_date # 644,Product # 644,Price # 644,Mastercard,Name # 644,Durban,KwaZulu-Natal,South Africa,Account_Created # 644,Last_Login # 644,Latitude # 644,31.0166667,
+Transaction_date # 645,Product # 645,Price # 645,Visa,Name # 645,Pietermaritzburg,KwaZulu-Natal,South Africa,Account_Created # 645,Last_Login # 645,Latitude # 645,30.3833333,
+Transaction_date # 646,Product # 646,Price # 646,Mastercard,Name # 646,Benoni,Gauteng,South Africa,Account_Created # 646,Last_Login # 646,Latitude # 646,28.3166667,
+Transaction_date # 647,Product # 647,Price # 647,Amex,Name # 647,Tsaritsyno,Moscow City,Russia,Account_Created # 647,Last_Login # 647,Latitude # 647,37.6608333,
+Transaction_date # 648,Product # 648,Price # 648,Mastercard,Name # 648,Voluntari,Bucuresti,Romania,Account_Created # 648,Last_Login # 648,Latitude # 648,26.1333333,
+Transaction_date # 649,Product # 649,Price # 649,Visa,Name # 649,Gdansk,Pomorskie,Poland,Account_Created # 649,Last_Login # 649,Latitude # 649,18.6666667,
+Transaction_date # 650,Product # 650,Price # 650,Visa,Name # 650,Pruszkow,Mazowieckie,Poland,Account_Created # 650,Last_Login # 650,Latitude # 650,20.8333333,
+Transaction_date # 651,Product # 651,Price # 651,Visa,Name # 651,Borja,Bohol,Philippines,Account_Created # 651,Last_Login # 651,Latitude # 651,124.0927778,
+Transaction_date # 652,Product # 652,Price # 652,Mastercard,Name # 652,Baluan,General Santos,Philippines,Account_Created # 652,Last_Login # 652,Latitude # 652,125.2163889,
+Transaction_date # 653,Product # 653,Price # 653,Visa,Name # 653,Stavanger,Rogaland,Norway,Account_Created # 653,Last_Login # 653,Latitude # 653,5.75,
+Transaction_date # 654,Product # 654,Price # 654,Visa,Name # 654,Oslo,Oslo,Norway,Account_Created # 654,Last_Login # 654,Latitude # 654,10.75,
+Transaction_date # 655,Product # 655,Price # 655,Visa,Name # 655,Holmenkollen,Oslo,Norway,Account_Created # 655,Last_Login # 655,Latitude # 655,10.6666667,
+Transaction_date # 656,Product # 656,Price # 656,Visa,Name # 656,Oslo,Oslo,Norway,Account_Created # 656,Last_Login # 656,Latitude # 656,10.75,
+Transaction_date # 657,Product # 657,Price # 657,Mastercard,Name # 657,Stavanger,Rogaland,Norway,Account_Created # 657,Last_Login # 657,Latitude # 657,5.75,
+Transaction_date # 658,Product # 658,Price # 658,Visa,Name # 658,Horten,Vestfold,Norway,Account_Created # 658,Last_Login # 658,Latitude # 658,10.4669444,
+Transaction_date # 659,Product # 659,Price # 659,Mastercard,Name # 659,Sola,Rogaland,Norway,Account_Created # 659,Last_Login # 659,Latitude # 659,5.6,
+Transaction_date # 660,Product # 660,Price # 660,Visa,Name # 660,Aardal,Sogn og Fjordane,Norway,Account_Created # 660,Last_Login # 660,Latitude # 660,6.35,
+Transaction_date # 661,Product # 661,Price # 661,Diners,Name # 661,Nordstrand,Oslo,Norway,Account_Created # 661,Last_Login # 661,Latitude # 661,10.7905556,
+Transaction_date # 662,Product # 662,Price # 662,Visa,Name # 662,Bergen,Hordaland,Norway,Account_Created # 662,Last_Login # 662,Latitude # 662,5.3247222,
+Transaction_date # 663,Product # 663,Price # 663,Visa,Name # 663,Vossevangen,Hordaland,Norway,Account_Created # 663,Last_Login # 663,Latitude # 663,6.4333333,
+Transaction_date # 664,Product # 664,Price # 664,Diners,Name # 664,Oslo,Oslo,Norway,Account_Created # 664,Last_Login # 664,Latitude # 664,10.75,
+Transaction_date # 665,Product # 665,Price # 665,Visa,Name # 665,Oslo,Oslo,Norway,Account_Created # 665,Last_Login # 665,Latitude # 665,10.75,
+Transaction_date # 666,Product # 666,Price # 666,Mastercard,Name # 666,Stavenger,Rogaland,Norway,Account_Created # 666,Last_Login # 666,Latitude # 666,5.75,
+Transaction_date # 667,Product # 667,Price # 667,Visa,Name # 667,Aasgaardstrand,Vestfold,Norway,Account_Created # 667,Last_Login # 667,Latitude # 667,10.4675,
+Transaction_date # 668,Product # 668,Price # 668,Visa,Name # 668,Tranby,Buskerud,Norway,Account_Created # 668,Last_Login # 668,Latitude # 668,10.25,
+Transaction_date # 669,Product # 669,Price # 669,Visa,Name # 669,New Plymouth City,Taranaki,New Zealand,Account_Created # 669,Last_Login # 669,Latitude # 669,174.0833333,
+Transaction_date # 670,Product # 670,Price # 670,Visa,Name # 670,Torbay,Auckland,New Zealand,Account_Created # 670,Last_Login # 670,Latitude # 670,174.75,
+Transaction_date # 671,Product # 671,Price # 671,Visa,Name # 671,Auckland,Auckland,New Zealand,Account_Created # 671,Last_Login # 671,Latitude # 671,174.7666667,
+Transaction_date # 672,Product # 672,Price # 672,Visa,Name # 672,Waiwera,Auckland,New Zealand,Account_Created # 672,Last_Login # 672,Latitude # 672,174.7166667,
+Transaction_date # 673,Product # 673,Price # 673,Visa,Name # 673,Waiau Pa,Auckland,New Zealand,Account_Created # 673,Last_Login # 673,Latitude # 673,174.75,
+Transaction_date # 674,Product # 674,Price # 674,Visa,Name # 674,Hawera,Taranaki,New Zealand,Account_Created # 674,Last_Login # 674,Latitude # 674,174.2833333,
+Transaction_date # 675,Product # 675,Price # 675,Amex,Name # 675,Eindhoven,Noord-Brabant,Netherlands,Account_Created # 675,Last_Login # 675,Latitude # 675,5.4666667,
+Transaction_date # 676,Product # 676,Price # 676,Mastercard,Name # 676,Badhoevedorp,Noord-Holland,Netherlands,Account_Created # 676,Last_Login # 676,Latitude # 676,4.7833333,
+Transaction_date # 677,Product # 677,Price # 677,Mastercard,Name # 677,Glimmen,Groningen,Netherlands,Account_Created # 677,Last_Login # 677,Latitude # 677,6.6333333,
+Transaction_date # 678,Product # 678,Price # 678,Diners,Name # 678,Den Haag,Zuid-Holland,Netherlands,Account_Created # 678,Last_Login # 678,Latitude # 678,4.3,
+Transaction_date # 679,Product # 679,Price # 679,Mastercard,Name # 679,Amsterdam,Noord-Holland,Netherlands,Account_Created # 679,Last_Login # 679,Latitude # 679,4.9166667,
+Transaction_date # 680,Product # 680,Price # 680,Mastercard,Name # 680,Amsterdam,Noord-Holland,Netherlands,Account_Created # 680,Last_Login # 680,Latitude # 680,4.9166667,
+Transaction_date # 681,Product # 681,Price # 681,Visa,Name # 681,Castricum,Noord-Holland,Netherlands,Account_Created # 681,Last_Login # 681,Latitude # 681,4.6666667,
+Transaction_date # 682,Product # 682,Price # 682,Amex,Name # 682,Naarden,Noord-Holland,Netherlands,Account_Created # 682,Last_Login # 682,Latitude # 682,5.15,
+Transaction_date # 683,Product # 683,Price # 683,Mastercard,Name # 683,Den Haag,Zuid-Holland,Netherlands,Account_Created # 683,Last_Login # 683,Latitude # 683,4.3,
+Transaction_date # 684,Product # 684,Price # 684,Mastercard,Name # 684,Den Haag,Zuid-Holland,Netherlands,Account_Created # 684,Last_Login # 684,Latitude # 684,4.3,
+Transaction_date # 685,Product # 685,Price # 685,Visa,Name # 685,Amsterdam,Noord-Holland,Netherlands,Account_Created # 685,Last_Login # 685,Latitude # 685,4.9166667,
+Transaction_date # 686,Product # 686,Price # 686,Amex,Name # 686,Den Haag,Zuid-Holland,Netherlands,Account_Created # 686,Last_Login # 686,Latitude # 686,4.3,
+Transaction_date # 687,Product # 687,Price # 687,Mastercard,Name # 687,Den Haag,Zuid-Holland,Netherlands,Account_Created # 687,Last_Login # 687,Latitude # 687,4.3,
+Transaction_date # 688,Product # 688,Price # 688,Visa,Name # 688,Ede,Gelderland,Netherlands,Account_Created # 688,Last_Login # 688,Latitude # 688,5.6666667,
+Transaction_date # 689,Product # 689,Price # 689,Mastercard,Name # 689,Utrecht,Utrecht,Netherlands,Account_Created # 689,Last_Login # 689,Latitude # 689,5.1333333,
+Transaction_date # 690,Product # 690,Price # 690,Mastercard,Name # 690,Den Haag,Zuid-Holland,Netherlands,Account_Created # 690,Last_Login # 690,Latitude # 690,4.3,
+Transaction_date # 691,Product # 691,Price # 691,Mastercard,Name # 691,Den Haag,Zuid-Holland,Netherlands,Account_Created # 691,Last_Login # 691,Latitude # 691,4.3,
+Transaction_date # 692,Product # 692,Price # 692,Mastercard,Name # 692,Den Haag,Zuid-Holland,Netherlands,Account_Created # 692,Last_Login # 692,Latitude # 692,4.3,
+Transaction_date # 693,Product # 693,Price # 693,Visa,Name # 693,Hilversum,Noord-Holland,Netherlands,Account_Created # 693,Last_Login # 693,Latitude # 693,5.1833333,
+Transaction_date # 694,Product # 694,Price # 694,Mastercard,Name # 694,Groningen,Groningen,Netherlands,Account_Created # 694,Last_Login # 694,Latitude # 694,6.55,
+Transaction_date # 695,Product # 695,Price # 695,Mastercard,Name # 695,Den Haag,Zuid-Holland,Netherlands,Account_Created # 695,Last_Login # 695,Latitude # 695,4.3,
+Transaction_date # 696,Product # 696,Price # 696,Mastercard,Name # 696,Oegstgeest,Zuid-Holland,Netherlands,Account_Created # 696,Last_Login # 696,Latitude # 696,4.4666667,
+Transaction_date # 697,Product # 697,Price # 697,Visa,Name # 697,Monte-Carlo,,Monaco,Account_Created # 697,Last_Login # 697,Latitude # 697,7.4166667,
+Transaction_date # 698,Product # 698,Price # 698,Visa,Name # 698,Monaco,,Monaco,Account_Created # 698,Last_Login # 698,Latitude # 698,7.4166667,
+Transaction_date # 699,Product # 699,Price # 699,Visa,Name # 699,Bubuieci,Chisinau,Moldova,Account_Created # 699,Last_Login # 699,Latitude # 699,28.9425,
+Transaction_date # 700,Product # 700,Price # 700,Visa,Name # 700,Black River,Black River,Mauritius,Account_Created # 700,Last_Login # 700,Latitude # 700,57.3661111,
+Transaction_date # 701,Product # 701,Price # 701,Visa,Name # 701,San Pawl tat-Targa,,Malta,Account_Created # 701,Last_Login # 701,Latitude # 701,14.4425,
+Transaction_date # 702,Product # 702,Price # 702,Visa,Name # 702,Nadur,,Malta,Account_Created # 702,Last_Login # 702,Latitude # 702,14.2941667,
+Transaction_date # 703,Product # 703,Price # 703,Mastercard,Name # 703,Kuala Lumpur,Kuala Lumpur,Malaysia,Account_Created # 703,Last_Login # 703,Latitude # 703,101.7,
+Transaction_date # 704,Product # 704,Price # 704,Visa,Name # 704,Gasperich,Luxembourg,Luxembourg,Account_Created # 704,Last_Login # 704,Latitude # 704,6.1230556,
+Transaction_date # 705,Product # 705,Price # 705,Mastercard,Name # 705,Vecmilgravis,Riga,Latvia,Account_Created # 705,Last_Login # 705,Latitude # 705,24.1,
+Transaction_date # 706,Product # 706,Price # 706,Amex,Name # 706,Mushrif,,Kuwait,Account_Created # 706,Last_Login # 706,Latitude # 706,48.05,
+Transaction_date # 707,Product # 707,Price # 707,Diners,Name # 707,Gorey,,Jersey,Account_Created # 707,Last_Login # 707,Latitude # 707,-2.0333333,
+Transaction_date # 708,Product # 708,Price # 708,Visa,Name # 708,Setagaya,Tokyo,Japan,Account_Created # 708,Last_Login # 708,Latitude # 708,139.65,
+Transaction_date # 709,Product # 709,Price # 709,Amex,Name # 709,Tokyo,Tokyo,Japan,Account_Created # 709,Last_Login # 709,Latitude # 709,139.7513889,
+Transaction_date # 710,Product # 710,Price # 710,Visa,Name # 710,Milan,Lombardy,Italy,Account_Created # 710,Last_Login # 710,Latitude # 710,9.2,
+Transaction_date # 711,Product # 711,Price # 711,Mastercard,Name # 711,Vicenza,Veneto,Italy,Account_Created # 711,Last_Login # 711,Latitude # 711,11.55,
+Transaction_date # 712,Product # 712,Price # 712,Amex,Name # 712,Ponte San Nicolo,Veneto,Italy,Account_Created # 712,Last_Login # 712,Latitude # 712,11.6166667,
+Transaction_date # 713,Product # 713,Price # 713,Visa,Name # 713,Milano,Lombardy,Italy,Account_Created # 713,Last_Login # 713,Latitude # 713,9.2,
+Transaction_date # 714,Product # 714,Price # 714,Mastercard,Name # 714,Florence,Tuscany,Italy,Account_Created # 714,Last_Login # 714,Latitude # 714,11.25,
+Transaction_date # 715,Product # 715,Price # 715,Mastercard,Name # 715,Cagliari,Sardinia,Italy,Account_Created # 715,Last_Login # 715,Latitude # 715,9.1166667,
+Transaction_date # 716,Product # 716,Price # 716,Visa,Name # 716,Firenze,Tuscany,Italy,Account_Created # 716,Last_Login # 716,Latitude # 716,11.25,
+Transaction_date # 717,Product # 717,Price # 717,Visa,Name # 717,Grosseto,Tuscany,Italy,Account_Created # 717,Last_Login # 717,Latitude # 717,11.1333333,
+Transaction_date # 718,Product # 718,Price # 718,Visa,Name # 718,Milan,Lombardy,Italy,Account_Created # 718,Last_Login # 718,Latitude # 718,9.2,
+Transaction_date # 719,Product # 719,Price # 719,Visa,Name # 719,Rome,Lazio,Italy,Account_Created # 719,Last_Login # 719,Latitude # 719,12.4833333,
+Transaction_date # 720,Product # 720,Price # 720,Diners,Name # 720,Lucca,Tuscany,Italy,Account_Created # 720,Last_Login # 720,Latitude # 720,10.4833333,
+Transaction_date # 721,Product # 721,Price # 721,Visa,Name # 721,Milano,Lombardy,Italy,Account_Created # 721,Last_Login # 721,Latitude # 721,9.2,
+Transaction_date # 722,Product # 722,Price # 722,Diners,Name # 722,Lipari,Sicilia,Italy,Account_Created # 722,Last_Login # 722,Latitude # 722,14.95,
+Transaction_date # 723,Product # 723,Price # 723,Diners,Name # 723,Lipari,Sicilia,Italy,Account_Created # 723,Last_Login # 723,Latitude # 723,14.95,
+Transaction_date # 724,Product # 724,Price # 724,Diners,Name # 724,Lipari,Sicilia,Italy,Account_Created # 724,Last_Login # 724,Latitude # 724,14.95,
+Transaction_date # 725,Product # 725,Price # 725,Mastercard,Name # 725,Tel Aviv,Tel Aviv,Israel,Account_Created # 725,Last_Login # 725,Latitude # 725,34.7666667,
+Transaction_date # 726,Product # 726,Price # 726,Diners,Name # 726,Julianstown,Meath,Ireland,Account_Created # 726,Last_Login # 726,Latitude # 726,-6.3191667,
+Transaction_date # 727,Product # 727,Price # 727,Diners,Name # 727,Ballynora,Cork,Ireland,Account_Created # 727,Last_Login # 727,Latitude # 727,-8.58,
+Transaction_date # 728,Product # 728,Price # 728,Diners,Name # 728,Kinsaley,Dublin,Ireland,Account_Created # 728,Last_Login # 728,Latitude # 728,-6.1758333,
+Transaction_date # 729,Product # 729,Price # 729,Mastercard,Name # 729,Rathgar,Dublin,Ireland,Account_Created # 729,Last_Login # 729,Latitude # 729,-6.2683333,
+Transaction_date # 730,Product # 730,Price # 730,Diners,Name # 730,Urlingford,Kilkenny,Ireland,Account_Created # 730,Last_Login # 730,Latitude # 730,-7.5825,
+Transaction_date # 731,Product # 731,Price # 731,Mastercard,Name # 731,Navan,Meath,Ireland,Account_Created # 731,Last_Login # 731,Latitude # 731,-6.6813889,
+Transaction_date # 732,Product # 732,Price # 732,Diners,Name # 732,Cork,Cork,Ireland,Account_Created # 732,Last_Login # 732,Latitude # 732,-8.4958333,
+Transaction_date # 733,Product # 733,Price # 733,Visa,Name # 733,Malahide,Dublin,Ireland,Account_Created # 733,Last_Login # 733,Latitude # 733,-6.1544444,
+Transaction_date # 734,Product # 734,Price # 734,Visa,Name # 734,Castleknock,Dublin,Ireland,Account_Created # 734,Last_Login # 734,Latitude # 734,-6.3922222,
+Transaction_date # 735,Product # 735,Price # 735,Visa,Name # 735,Castleknock,Dublin,Ireland,Account_Created # 735,Last_Login # 735,Latitude # 735,-6.3922222,
+Transaction_date # 736,Product # 736,Price # 736,Mastercard,Name # 736,Killiney,Dublin,Ireland,Account_Created # 736,Last_Login # 736,Latitude # 736,-6.1125,
+Transaction_date # 737,Product # 737,Price # 737,Visa,Name # 737,Clontarf,Dublin,Ireland,Account_Created # 737,Last_Login # 737,Latitude # 737,-6.2161111,
+Transaction_date # 738,Product # 738,Price # 738,Visa,Name # 738,Cork,Cork,Ireland,Account_Created # 738,Last_Login # 738,Latitude # 738,-8.4958333,
+Transaction_date # 739,Product # 739,Price # 739,Diners,Name # 739,Sutton,Dublin,Ireland,Account_Created # 739,Last_Login # 739,Latitude # 739,-6.1216667,
+Transaction_date # 740,Product # 740,Price # 740,Visa,Name # 740,Santry,Dublin,Ireland,Account_Created # 740,Last_Login # 740,Latitude # 740,-6.2597222,
+Transaction_date # 741,Product # 741,Price # 741,Mastercard,Name # 741,Rathfarnham,Dublin,Ireland,Account_Created # 741,Last_Login # 741,Latitude # 741,-6.2827778,
+Transaction_date # 742,Product # 742,Price # 742,Mastercard,Name # 742,Sandymount,Dublin,Ireland,Account_Created # 742,Last_Login # 742,Latitude # 742,-6.2113889,
+Transaction_date # 743,Product # 743,Price # 743,Visa,Name # 743,Saggart,Dublin,Ireland,Account_Created # 743,Last_Login # 743,Latitude # 743,-6.4444444,
+Transaction_date # 744,Product # 744,Price # 744,Diners,Name # 744,Clontarf,Dublin,Ireland,Account_Created # 744,Last_Login # 744,Latitude # 744,-6.2161111,
+Transaction_date # 745,Product # 745,Price # 745,Visa,Name # 745,Clonmel,Tipperary,Ireland,Account_Created # 745,Last_Login # 745,Latitude # 745,-7.7038889,
+Transaction_date # 746,Product # 746,Price # 746,Visa,Name # 746,Drogheda,Louth,Ireland,Account_Created # 746,Last_Login # 746,Latitude # 746,-6.3477778,
+Transaction_date # 747,Product # 747,Price # 747,Visa,Name # 747,Newcastle,Wicklow,Ireland,Account_Created # 747,Last_Login # 747,Latitude # 747,-6.0658333,
+Transaction_date # 748,Product # 748,Price # 748,Visa,Name # 748,Dun Laoghaire,Dublin,Ireland,Account_Created # 748,Last_Login # 748,Latitude # 748,-6.1286111,
+Transaction_date # 749,Product # 749,Price # 749,Visa,Name # 749,Ballincollig,Cork,Ireland,Account_Created # 749,Last_Login # 749,Latitude # 749,-8.5833333,
+Transaction_date # 750,Product # 750,Price # 750,Visa,Name # 750,Ballincollig,Cork,Ireland,Account_Created # 750,Last_Login # 750,Latitude # 750,-8.5833333,
+Transaction_date # 751,Product # 751,Price # 751,Visa,Name # 751,Castlebar,Mayo,Ireland,Account_Created # 751,Last_Login # 751,Latitude # 751,-9.3,
+Transaction_date # 752,Product # 752,Price # 752,Visa,Name # 752,Tramore,Waterford,Ireland,Account_Created # 752,Last_Login # 752,Latitude # 752,-7.1463889,
+Transaction_date # 753,Product # 753,Price # 753,Visa,Name # 753,Arklow,Wicklow,Ireland,Account_Created # 753,Last_Login # 753,Latitude # 753,-6.1413889,
+Transaction_date # 754,Product # 754,Price # 754,Visa,Name # 754,Mornington,Meath,Ireland,Account_Created # 754,Last_Login # 754,Latitude # 754,-6.2825,
+Transaction_date # 755,Product # 755,Price # 755,Visa,Name # 755,Mullingar,Westmeath,Ireland,Account_Created # 755,Last_Login # 755,Latitude # 755,-7.35,
+Transaction_date # 756,Product # 756,Price # 756,Visa,Name # 756,Shankill,Dublin,Ireland,Account_Created # 756,Last_Login # 756,Latitude # 756,-6.1244444,
+Transaction_date # 757,Product # 757,Price # 757,Visa,Name # 757,Bandon,Cork,Ireland,Account_Created # 757,Last_Login # 757,Latitude # 757,-8.7425,
+Transaction_date # 758,Product # 758,Price # 758,Visa,Name # 758,Rathfarnham,Dublin,Ireland,Account_Created # 758,Last_Login # 758,Latitude # 758,-6.2827778,
+Transaction_date # 759,Product # 759,Price # 759,Mastercard,Name # 759,Baile Atha Bui,Meath,Ireland,Account_Created # 759,Last_Login # 759,Latitude # 759,-6.9205556,
+Transaction_date # 760,Product # 760,Price # 760,Visa,Name # 760,Thurles,Tipperary,Ireland,Account_Created # 760,Last_Login # 760,Latitude # 760,-7.8022222,
+Transaction_date # 761,Product # 761,Price # 761,Visa,Name # 761,Cork,Cork,Ireland,Account_Created # 761,Last_Login # 761,Latitude # 761,-8.4958333,
+Transaction_date # 762,Product # 762,Price # 762,Visa,Name # 762,Sneem,Kerry,Ireland,Account_Created # 762,Last_Login # 762,Latitude # 762,-9.9,
+Transaction_date # 763,Product # 763,Price # 763,Visa,Name # 763,Castleknock,Dublin,Ireland,Account_Created # 763,Last_Login # 763,Latitude # 763,-6.3922222,
+Transaction_date # 764,Product # 764,Price # 764,Visa,Name # 764,Kilcornan,Limerick,Ireland,Account_Created # 764,Last_Login # 764,Latitude # 764,-8.8833333,
+Transaction_date # 765,Product # 765,Price # 765,Visa,Name # 765,Blarney,Cork,Ireland,Account_Created # 765,Last_Login # 765,Latitude # 765,-8.5666667,
+Transaction_date # 766,Product # 766,Price # 766,Visa,Name # 766,Ballyneety,Limerick,Ireland,Account_Created # 766,Last_Login # 766,Latitude # 766,-8.5469444,
+Transaction_date # 767,Product # 767,Price # 767,Mastercard,Name # 767,Newmarket,Cork,Ireland,Account_Created # 767,Last_Login # 767,Latitude # 767,-9,
+Transaction_date # 768,Product # 768,Price # 768,Visa,Name # 768,Clondalkin,Dublin,Ireland,Account_Created # 768,Last_Login # 768,Latitude # 768,-6.3972222,
+Transaction_date # 769,Product # 769,Price # 769,Mastercard,Name # 769,Harold's Cross,Dublin,Ireland,Account_Created # 769,Last_Login # 769,Latitude # 769,-6.2947222,
+Transaction_date # 770,Product # 770,Price # 770,Visa,Name # 770,Waterford,Waterford,Ireland,Account_Created # 770,Last_Login # 770,Latitude # 770,-7.1119444,
+Transaction_date # 771,Product # 771,Price # 771,Diners,Name # 771,Cork,Cork,Ireland,Account_Created # 771,Last_Login # 771,Latitude # 771,-8.4958333,
+Transaction_date # 772,Product # 772,Price # 772,Mastercard,Name # 772,Cabinteely,Dublin,Ireland,Account_Created # 772,Last_Login # 772,Latitude # 772,-6.1447222,
+Transaction_date # 773,Product # 773,Price # 773,Visa,Name # 773,Blackrock,Dublin,Ireland,Account_Created # 773,Last_Login # 773,Latitude # 773,-6.1830556,
+Transaction_date # 774,Product # 774,Price # 774,Visa,Name # 774,Foxrock,Dublin,Ireland,Account_Created # 774,Last_Login # 774,Latitude # 774,-6.1741667,
+Transaction_date # 775,Product # 775,Price # 775,Diners,Name # 775,Hyderabad,Andhra Pradesh,India,Account_Created # 775,Last_Login # 775,Latitude # 775,78.4666667,
+Transaction_date # 776,Product # 776,Price # 776,Amex,Name # 776,Gurgaon,Haryana,India,Account_Created # 776,Last_Login # 776,Latitude # 776,77.0333333,
+Transaction_date # 777,Product # 777,Price # 777,Visa,Name # 777,Thorlakshofn,,Iceland,Account_Created # 777,Last_Login # 777,Latitude # 777,-21.3666667,
+Transaction_date # 778,Product # 778,Price # 778,Diners,Name # 778,Chepel,Budapest,Hungary,Account_Created # 778,Last_Login # 778,Latitude # 778,19.0833333,
+Transaction_date # 779,Product # 779,Price # 779,Mastercard,Name # 779,Kecskemet,Bacs-Kiskun,Hungary,Account_Created # 779,Last_Login # 779,Latitude # 779,19.7833333,
+Transaction_date # 780,Product # 780,Price # 780,Visa,Name # 780,Budaors,Pest,Hungary,Account_Created # 780,Last_Login # 780,Latitude # 780,18.9666667,
+Transaction_date # 781,Product # 781,Price # 781,Mastercard,Name # 781,Hong Kong,,Hong Kong,Account_Created # 781,Last_Login # 781,Latitude # 781,114.15,
+Transaction_date # 782,Product # 782,Price # 782,Visa,Name # 782,Atlantida,Guatemala,Guatemala,Account_Created # 782,Last_Login # 782,Latitude # 782,-90.4833333,
+Transaction_date # 783,Product # 783,Price # 783,Visa,Name # 783,Athina,Attiki,Greece,Account_Created # 783,Last_Login # 783,Latitude # 783,23.7333333,
+Transaction_date # 784,Product # 784,Price # 784,Mastercard,Name # 784,Telgte,Nordrhein-Westfalen,Germany,Account_Created # 784,Last_Login # 784,Latitude # 784,7.9,
+Transaction_date # 785,Product # 785,Price # 785,Diners,Name # 785,Bergen,Nordrhein-Westfalen,Germany,Account_Created # 785,Last_Login # 785,Latitude # 785,6.5,
+Transaction_date # 786,Product # 786,Price # 786,Mastercard,Name # 786,Hofheim am Taunus,Hessen,Germany,Account_Created # 786,Last_Login # 786,Latitude # 786,8.45,
+Transaction_date # 787,Product # 787,Price # 787,Visa,Name # 787,Braunschweig,Lower Saxony,Germany,Account_Created # 787,Last_Login # 787,Latitude # 787,10.5333333,
+Transaction_date # 788,Product # 788,Price # 788,Mastercard,Name # 788,Dresden,Saxony,Germany,Account_Created # 788,Last_Login # 788,Latitude # 788,13.75,
+Transaction_date # 789,Product # 789,Price # 789,Amex,Name # 789,Wiesbaden,Hessen,Germany,Account_Created # 789,Last_Login # 789,Latitude # 789,8.25,
+Transaction_date # 790,Product # 790,Price # 790,Visa,Name # 790,Oldenburg,Lower Saxony,Germany,Account_Created # 790,Last_Login # 790,Latitude # 790,8.2,
+Transaction_date # 791,Product # 791,Price # 791,Mastercard,Name # 791,Munich,Bayern,Germany,Account_Created # 791,Last_Login # 791,Latitude # 791,11.5833333,
+Transaction_date # 792,Product # 792,Price # 792,Mastercard,Name # 792,Glan-Munchweiler,Rhineland-Palatinate,Germany,Account_Created # 792,Last_Login # 792,Latitude # 792,7.4333333,
+Transaction_date # 793,Product # 793,Price # 793,Mastercard,Name # 793,Berlin,Berlin,Germany,Account_Created # 793,Last_Login # 793,Latitude # 793,13.4,
+Transaction_date # 794,Product # 794,Price # 794,Mastercard,Name # 794,Hamburg,Hamburg,Germany,Account_Created # 794,Last_Login # 794,Latitude # 794,10,
+Transaction_date # 795,Product # 795,Price # 795,Visa,Name # 795,Gries,Rhineland-Palatinate,Germany,Account_Created # 795,Last_Login # 795,Latitude # 795,7.4,
+Transaction_date # 796,Product # 796,Price # 796,Mastercard,Name # 796,Hannover,Lower Saxony,Germany,Account_Created # 796,Last_Login # 796,Latitude # 796,9.7166667,
+Transaction_date # 797,Product # 797,Price # 797,Visa,Name # 797,Munchengosserstadt,Thuringia,Germany,Account_Created # 797,Last_Login # 797,Latitude # 797,11.65,
+Transaction_date # 798,Product # 798,Price # 798,Visa,Name # 798,Ingelheim-Mitte,Rhineland-Palatinate,Germany,Account_Created # 798,Last_Login # 798,Latitude # 798,8.0666667,
+Transaction_date # 799,Product # 799,Price # 799,Visa,Name # 799,Donauworth,Bayern,Germany,Account_Created # 799,Last_Login # 799,Latitude # 799,10.8,
+Transaction_date # 800,Product # 800,Price # 800,Mastercard,Name # 800,Ehingen an der Donau,Baden-Wurttemberg,Germany,Account_Created # 800,Last_Login # 800,Latitude # 800,9.7333333,
+Transaction_date # 801,Product # 801,Price # 801,Visa,Name # 801,Ludwigsburg,Baden-Wurttemberg,Germany,Account_Created # 801,Last_Login # 801,Latitude # 801,9.1833333,
+Transaction_date # 802,Product # 802,Price # 802,Diners,Name # 802,Stuttgart,Baden-Wurttemberg,Germany,Account_Created # 802,Last_Login # 802,Latitude # 802,9.1833333,
+Transaction_date # 803,Product # 803,Price # 803,Amex,Name # 803,Munchen,Bayern,Germany,Account_Created # 803,Last_Login # 803,Latitude # 803,11.5833333,
+Transaction_date # 804,Product # 804,Price # 804,Visa,Name # 804,Munich,Bayern,Germany,Account_Created # 804,Last_Login # 804,Latitude # 804,11.5833333,
+Transaction_date # 805,Product # 805,Price # 805,Mastercard,Name # 805,Stuttgart,Baden-Wurttemberg,Germany,Account_Created # 805,Last_Login # 805,Latitude # 805,9.1833333,
+Transaction_date # 806,Product # 806,Price # 806,Mastercard,Name # 806,Mettlach,Saarland,Germany,Account_Created # 806,Last_Login # 806,Latitude # 806,6.6,
+Transaction_date # 807,Product # 807,Price # 807,Diners,Name # 807,Grossbodungen,Thuringia,Germany,Account_Created # 807,Last_Login # 807,Latitude # 807,10.5,
+Transaction_date # 808,Product # 808,Price # 808,Visa,Name # 808,Stuttgart,Baden-Wurttemberg,Germany,Account_Created # 808,Last_Login # 808,Latitude # 808,9.1833333,
+Transaction_date # 809,Product # 809,Price # 809,Visa,Name # 809,Chatou,Ile-de-France,France,Account_Created # 809,Last_Login # 809,Latitude # 809,2.15,
+Transaction_date # 810,Product # 810,Price # 810,Visa,Name # 810,Rouen,Upper Normandy,France,Account_Created # 810,Last_Login # 810,Latitude # 810,1.0833333,
+Transaction_date # 811,Product # 811,Price # 811,Visa,Name # 811,Paris,Ile-de-France,France,Account_Created # 811,Last_Login # 811,Latitude # 811,2.3333333,
+Transaction_date # 812,Product # 812,Price # 812,Visa,Name # 812,Rennes,Brittany,France,Account_Created # 812,Last_Login # 812,Latitude # 812,-1.6833333,
+Transaction_date # 813,Product # 813,Price # 813,Diners,Name # 813,Roquefort,Provence-Alpes-Cote d'Azur,France,Account_Created # 813,Last_Login # 813,Latitude # 813,5.6166667,
+Transaction_date # 814,Product # 814,Price # 814,Amex,Name # 814,Brulon,Pays de la Loire,France,Account_Created # 814,Last_Login # 814,Latitude # 814,-0.2333333,
+Transaction_date # 815,Product # 815,Price # 815,Mastercard,Name # 815,Biot,Provence-Alpes-Cote d'Azur,France,Account_Created # 815,Last_Login # 815,Latitude # 815,7.1,
+Transaction_date # 816,Product # 816,Price # 816,Amex,Name # 816,Guer,Brittany,France,Account_Created # 816,Last_Login # 816,Latitude # 816,-2.1166667,
+Transaction_date # 817,Product # 817,Price # 817,Visa,Name # 817,Rambouillet,Ile-de-France,France,Account_Created # 817,Last_Login # 817,Latitude # 817,1.8333333,
+Transaction_date # 818,Product # 818,Price # 818,Mastercard,Name # 818,Veigy-Foncenex,Rhone-Alpes,France,Account_Created # 818,Last_Login # 818,Latitude # 818,6.25,
+Transaction_date # 819,Product # 819,Price # 819,Mastercard,Name # 819,Saint-Cergues,Rhone-Alpes,France,Account_Created # 819,Last_Login # 819,Latitude # 819,6.3166667,
+Transaction_date # 820,Product # 820,Price # 820,Visa,Name # 820,Paris,Ile-de-France,France,Account_Created # 820,Last_Login # 820,Latitude # 820,2.3333333,
+Transaction_date # 821,Product # 821,Price # 821,Diners,Name # 821,Besancon,Franche-Comte,France,Account_Created # 821,Last_Login # 821,Latitude # 821,6.0333333,
+Transaction_date # 822,Product # 822,Price # 822,Visa,Name # 822,Paris,Ile-de-France,France,Account_Created # 822,Last_Login # 822,Latitude # 822,2.3333333,
+Transaction_date # 823,Product # 823,Price # 823,Visa,Name # 823,Ornex,Rhone-Alpes,France,Account_Created # 823,Last_Login # 823,Latitude # 823,6.1,
+Transaction_date # 824,Product # 824,Price # 824,Visa,Name # 824,Paris,Ile-de-France,France,Account_Created # 824,Last_Login # 824,Latitude # 824,2.3333333,
+Transaction_date # 825,Product # 825,Price # 825,Visa,Name # 825,Ferney-Voltaire,Rhone-Alpes,France,Account_Created # 825,Last_Login # 825,Latitude # 825,6.1166667,
+Transaction_date # 826,Product # 826,Price # 826,Diners,Name # 826,Paris,Ile-de-France,France,Account_Created # 826,Last_Login # 826,Latitude # 826,2.3333333,
+Transaction_date # 827,Product # 827,Price # 827,Mastercard,Name # 827,Evires,Rhone-Alpes,France,Account_Created # 827,Last_Login # 827,Latitude # 827,6.2333333,
+Transaction_date # 828,Product # 828,Price # 828,Visa,Name # 828,Paris,Ile-de-France,France,Account_Created # 828,Last_Login # 828,Latitude # 828,2.3333333,
+Transaction_date # 829,Product # 829,Price # 829,Visa,Name # 829,Chamonix-Mont-Blanc,Rhone-Alpes,France,Account_Created # 829,Last_Login # 829,Latitude # 829,6.8666667,
+Transaction_date # 830,Product # 830,Price # 830,Visa,Name # 830,Arc-et-Senans,Franche-Comte,France,Account_Created # 830,Last_Login # 830,Latitude # 830,5.7666667,
+Transaction_date # 831,Product # 831,Price # 831,Visa,Name # 831,Aix-en-Provence,Provence-Alpes-Cote d'Azur,France,Account_Created # 831,Last_Login # 831,Latitude # 831,5.4333333,
+Transaction_date # 832,Product # 832,Price # 832,Visa,Name # 832,Antibes,Provence-Alpes-Cote d'Azur,France,Account_Created # 832,Last_Login # 832,Latitude # 832,7.1166667,
+Transaction_date # 833,Product # 833,Price # 833,Visa,Name # 833,Strasbourg,Alsace,France,Account_Created # 833,Last_Login # 833,Latitude # 833,7.75,
+Transaction_date # 834,Product # 834,Price # 834,Diners,Name # 834,Hagen,Lorraine,France,Account_Created # 834,Last_Login # 834,Latitude # 834,6.1666667,
+Transaction_date # 835,Product # 835,Price # 835,Amex,Name # 835,Ferney-Voltaire,Rhone-Alpes,France,Account_Created # 835,Last_Login # 835,Latitude # 835,6.1166667,
+Transaction_date # 836,Product # 836,Price # 836,Mastercard,Name # 836,Kuopio,Ita-Suomen Laani,Finland,Account_Created # 836,Last_Login # 836,Latitude # 836,27.6833333,
+Transaction_date # 837,Product # 837,Price # 837,Mastercard,Name # 837,Lahti,Etela-Suomen Laani,Finland,Account_Created # 837,Last_Login # 837,Latitude # 837,25.6666667,
+Transaction_date # 838,Product # 838,Price # 838,Diners,Name # 838,Santo Domingo City,Distrito Nacional,Dominican Republic,Account_Created # 838,Last_Login # 838,Latitude # 838,-69.9,
+Transaction_date # 839,Product # 839,Price # 839,Visa,Name # 839,Helsingor,Frederiksborg,Denmark,Account_Created # 839,Last_Login # 839,Latitude # 839,12.6166667,
+Transaction_date # 840,Product # 840,Price # 840,Mastercard,Name # 840,Kobenhavn,Kobenhavn,Denmark,Account_Created # 840,Last_Login # 840,Latitude # 840,12.5833333,
+Transaction_date # 841,Product # 841,Price # 841,Visa,Name # 841,Nakskov,Storstrom,Denmark,Account_Created # 841,Last_Login # 841,Latitude # 841,11.15,
+Transaction_date # 842,Product # 842,Price # 842,Mastercard,Name # 842,Holte,Kobenhavn,Denmark,Account_Created # 842,Last_Login # 842,Latitude # 842,12.4666667,
+Transaction_date # 843,Product # 843,Price # 843,Mastercard,Name # 843,Hellerup,Kobenhavn,Denmark,Account_Created # 843,Last_Login # 843,Latitude # 843,12.5833333,
+Transaction_date # 844,Product # 844,Price # 844,Visa,Name # 844,Rungsted,Frederiksborg,Denmark,Account_Created # 844,Last_Login # 844,Latitude # 844,12.5419444,
+Transaction_date # 845,Product # 845,Price # 845,Visa,Name # 845,Soro,Vestsjalland,Denmark,Account_Created # 845,Last_Login # 845,Latitude # 845,11.5666667,
+Transaction_date # 846,Product # 846,Price # 846,Mastercard,Name # 846,Lyngby,Kobenhavn,Denmark,Account_Created # 846,Last_Login # 846,Latitude # 846,12.5166667,
+Transaction_date # 847,Product # 847,Price # 847,Visa,Name # 847,Nakskov,Storstrom,Denmark,Account_Created # 847,Last_Login # 847,Latitude # 847,11.15,
+Transaction_date # 848,Product # 848,Price # 848,Visa,Name # 848,Kjobenhavn,Staden Kobenhavn,Denmark,Account_Created # 848,Last_Login # 848,Latitude # 848,12.5833333,
+Transaction_date # 849,Product # 849,Price # 849,Visa,Name # 849,Rungsted,Frederiksborg,Denmark,Account_Created # 849,Last_Login # 849,Latitude # 849,12.5419444,
+Transaction_date # 850,Product # 850,Price # 850,Visa,Name # 850,Klampenborg,Kobenhavn,Denmark,Account_Created # 850,Last_Login # 850,Latitude # 850,12.6,
+Transaction_date # 851,Product # 851,Price # 851,Mastercard,Name # 851,Brondby Strand,Kobenhavn,Denmark,Account_Created # 851,Last_Login # 851,Latitude # 851,12.35,
+Transaction_date # 852,Product # 852,Price # 852,Visa,Name # 852,Charlottenlund,Kobenhavn,Denmark,Account_Created # 852,Last_Login # 852,Latitude # 852,12.5833333,
+Transaction_date # 853,Product # 853,Price # 853,Visa,Name # 853,Laasby,Arhus,Denmark,Account_Created # 853,Last_Login # 853,Latitude # 853,9.8166667,
+Transaction_date # 854,Product # 854,Price # 854,Visa,Name # 854,Suchdol,Prague,Czech Republic,Account_Created # 854,Last_Login # 854,Latitude # 854,14.3833333,
+Transaction_date # 855,Product # 855,Price # 855,Visa,Name # 855,Prague,Central Bohemia,Czech Republic,Account_Created # 855,Last_Login # 855,Latitude # 855,14.4666667,
+Transaction_date # 856,Product # 856,Price # 856,Visa,Name # 856,Hradec Kralove,East Bohemia,Czech Republic,Account_Created # 856,Last_Login # 856,Latitude # 856,15.8441667,
+Transaction_date # 857,Product # 857,Price # 857,Diners,Name # 857,Santa Barbaraa,Heredia,Costa Rica,Account_Created # 857,Last_Login # 857,Latitude # 857,-84.15,
+Transaction_date # 858,Product # 858,Price # 858,Visa,Name # 858,Taicheng,Guangdong,China,Account_Created # 858,Last_Login # 858,Latitude # 858,112.7833333,
+Transaction_date # 859,Product # 859,Price # 859,Mastercard,Name # 859,George Town,,Cayman Isls,Account_Created # 859,Last_Login # 859,Latitude # 859,-81.3833333,
+Transaction_date # 860,Product # 860,Price # 860,Visa,Name # 860,Ottawa,Ontario,Canada,Account_Created # 860,Last_Login # 860,Latitude # 860,-75.7,
+Transaction_date # 861,Product # 861,Price # 861,Visa,Name # 861,Maple Ridge District Municipality,British Columbia,Canada,Account_Created # 861,Last_Login # 861,Latitude # 861,-122.5,
+Transaction_date # 862,Product # 862,Price # 862,Diners,Name # 862,Prince Albert,Saskatchewan,Canada,Account_Created # 862,Last_Login # 862,Latitude # 862,-105.75,
+Transaction_date # 863,Product # 863,Price # 863,Visa,Name # 863,Red Deer,Alberta,Canada,Account_Created # 863,Last_Login # 863,Latitude # 863,-113.8,
+Transaction_date # 864,Product # 864,Price # 864,Visa,Name # 864,Calgary,Alberta,Canada,Account_Created # 864,Last_Login # 864,Latitude # 864,-114.0833333,
+Transaction_date # 865,Product # 865,Price # 865,Visa,Name # 865,Belleville,Ontario,Canada,Account_Created # 865,Last_Login # 865,Latitude # 865,-77.3833333,
+Transaction_date # 866,Product # 866,Price # 866,Visa,Name # 866,Comox,British Columbia,Canada,Account_Created # 866,Last_Login # 866,Latitude # 866,-124.9333333,
+Transaction_date # 867,Product # 867,Price # 867,Visa,Name # 867,Calgary,Alberta,Canada,Account_Created # 867,Last_Login # 867,Latitude # 867,-114.0833333,
+Transaction_date # 868,Product # 868,Price # 868,Mastercard,Name # 868,Vancouver,British Columbia,Canada,Account_Created # 868,Last_Login # 868,Latitude # 868,-123.1333333,
+Transaction_date # 869,Product # 869,Price # 869,Visa,Name # 869,Alliston,Ontario,Canada,Account_Created # 869,Last_Login # 869,Latitude # 869,-79.8666667,
+Transaction_date # 870,Product # 870,Price # 870,Visa,Name # 870,Vancouver,British Columbia,Canada,Account_Created # 870,Last_Login # 870,Latitude # 870,-123.1333333,
+Transaction_date # 871,Product # 871,Price # 871,Visa,Name # 871,Tsawwassen,British Columbia,Canada,Account_Created # 871,Last_Login # 871,Latitude # 871,-123.0833333,
+Transaction_date # 872,Product # 872,Price # 872,Visa,Name # 872,Okotoks,Alberta,Canada,Account_Created # 872,Last_Login # 872,Latitude # 872,-113.9666667,
+Transaction_date # 873,Product # 873,Price # 873,Visa,Name # 873,Calgary,Alberta,Canada,Account_Created # 873,Last_Login # 873,Latitude # 873,-114.0833333,
+Transaction_date # 874,Product # 874,Price # 874,Visa,Name # 874,Kanata,Ontario,Canada,Account_Created # 874,Last_Login # 874,Latitude # 874,-75.9,
+Transaction_date # 875,Product # 875,Price # 875,Mastercard,Name # 875,Ile-Perrot,Quebec,Canada,Account_Created # 875,Last_Login # 875,Latitude # 875,-73.9333333,
+Transaction_date # 876,Product # 876,Price # 876,Diners,Name # 876,Yellowknife,Northwest Territories,Canada,Account_Created # 876,Last_Login # 876,Latitude # 876,-114.35,
+Transaction_date # 877,Product # 877,Price # 877,Mastercard,Name # 877,Winnipeg,Manitoba,Canada,Account_Created # 877,Last_Login # 877,Latitude # 877,-97.1666667,
+Transaction_date # 878,Product # 878,Price # 878,Diners,Name # 878,Montreal,Quebec,Canada,Account_Created # 878,Last_Login # 878,Latitude # 878,-73.5833333,
+Transaction_date # 879,Product # 879,Price # 879,Visa,Name # 879,Montreal-Nord,Quebec,Canada,Account_Created # 879,Last_Login # 879,Latitude # 879,-73.6166667,
+Transaction_date # 880,Product # 880,Price # 880,Visa,Name # 880,Calgary,Alberta,Canada,Account_Created # 880,Last_Login # 880,Latitude # 880,-114.0833333,
+Transaction_date # 881,Product # 881,Price # 881,Visa,Name # 881,Kelowna,British Columbia,Canada,Account_Created # 881,Last_Login # 881,Latitude # 881,-119.4833333,
+Transaction_date # 882,Product # 882,Price # 882,Mastercard,Name # 882,Three Hills,Alberta,Canada,Account_Created # 882,Last_Login # 882,Latitude # 882,-113.2666667,
+Transaction_date # 883,Product # 883,Price # 883,Visa,Name # 883,Vancouver,British Columbia,Canada,Account_Created # 883,Last_Login # 883,Latitude # 883,-123.1333333,
+Transaction_date # 884,Product # 884,Price # 884,Mastercard,Name # 884,Calgary,Alberta,Canada,Account_Created # 884,Last_Login # 884,Latitude # 884,-114.0833333,
+Transaction_date # 885,Product # 885,Price # 885,Mastercard,Name # 885,Calgary,Alberta,Canada,Account_Created # 885,Last_Login # 885,Latitude # 885,-114.0833333,
+Transaction_date # 886,Product # 886,Price # 886,Diners,Name # 886,Toronto,Ontario,Canada,Account_Created # 886,Last_Login # 886,Latitude # 886,-79.4166667,
+Transaction_date # 887,Product # 887,Price # 887,Visa,Name # 887,Alcona,Ontario,Canada,Account_Created # 887,Last_Login # 887,Latitude # 887,-91.75,
+Transaction_date # 888,Product # 888,Price # 888,Visa,Name # 888,Anse Comeau,Quebec,Canada,Account_Created # 888,Last_Login # 888,Latitude # 888,-68.15,
+Transaction_date # 889,Product # 889,Price # 889,Visa,Name # 889,King City,Ontario,Canada,Account_Created # 889,Last_Login # 889,Latitude # 889,-79.5333333,
+Transaction_date # 890,Product # 890,Price # 890,Mastercard,Name # 890,Vancouver,British Columbia,Canada,Account_Created # 890,Last_Login # 890,Latitude # 890,-123.1333333,
+Transaction_date # 891,Product # 891,Price # 891,Visa,Name # 891,Saint Catharines,Ontario,Canada,Account_Created # 891,Last_Login # 891,Latitude # 891,-79.2333333,
+Transaction_date # 892,Product # 892,Price # 892,Amex,Name # 892,Ottawa,Ontario,Canada,Account_Created # 892,Last_Login # 892,Latitude # 892,-75.7,
+Transaction_date # 893,Product # 893,Price # 893,Mastercard,Name # 893,Calgary,Alberta,Canada,Account_Created # 893,Last_Login # 893,Latitude # 893,-114.0833333,
+Transaction_date # 894,Product # 894,Price # 894,Mastercard,Name # 894,Ajax,Ontario,Canada,Account_Created # 894,Last_Login # 894,Latitude # 894,-79.0166667,
+Transaction_date # 895,Product # 895,Price # 895,Visa,Name # 895,North Bay,Ontario,Canada,Account_Created # 895,Last_Login # 895,Latitude # 895,-79.45,
+Transaction_date # 896,Product # 896,Price # 896,Amex,Name # 896,Okotoks,Alberta,Canada,Account_Created # 896,Last_Login # 896,Latitude # 896,-113.9666667,
+Transaction_date # 897,Product # 897,Price # 897,Amex,Name # 897,Vancouver,British Columbia,Canada,Account_Created # 897,Last_Login # 897,Latitude # 897,-123.1333333,
+Transaction_date # 898,Product # 898,Price # 898,Visa,Name # 898,Toronto,Ontario,Canada,Account_Created # 898,Last_Login # 898,Latitude # 898,-79.4166667,
+Transaction_date # 899,Product # 899,Price # 899,Amex,Name # 899,Saskatoon,Saskatchewan,Canada,Account_Created # 899,Last_Login # 899,Latitude # 899,-106.6666667,
+Transaction_date # 900,Product # 900,Price # 900,Diners,Name # 900,Fort Saint James,British Columbia,Canada,Account_Created # 900,Last_Login # 900,Latitude # 900,-124.25,
+Transaction_date # 901,Product # 901,Price # 901,Visa,Name # 901,Hamilton,Ontario,Canada,Account_Created # 901,Last_Login # 901,Latitude # 901,-79.8333333,
+Transaction_date # 902,Product # 902,Price # 902,Visa,Name # 902,Toronto,Ontario,Canada,Account_Created # 902,Last_Login # 902,Latitude # 902,-79.4166667,
+Transaction_date # 903,Product # 903,Price # 903,Visa,Name # 903,North Bay,Ontario,Canada,Account_Created # 903,Last_Login # 903,Latitude # 903,-79.45,
+Transaction_date # 904,Product # 904,Price # 904,Visa,Name # 904,Calgary,Alberta,Canada,Account_Created # 904,Last_Login # 904,Latitude # 904,-114.0833333,
+Transaction_date # 905,Product # 905,Price # 905,Mastercard,Name # 905,Vancouver,British Columbia,Canada,Account_Created # 905,Last_Login # 905,Latitude # 905,-123.1333333,
+Transaction_date # 906,Product # 906,Price # 906,Mastercard,Name # 906,Orillia,Ontario,Canada,Account_Created # 906,Last_Login # 906,Latitude # 906,-79.4166667,
+Transaction_date # 907,Product # 907,Price # 907,Visa,Name # 907,Creemore,Ontario,Canada,Account_Created # 907,Last_Login # 907,Latitude # 907,-80.1,
+Transaction_date # 908,Product # 908,Price # 908,Amex,Name # 908,Edmonton,Alberta,Canada,Account_Created # 908,Last_Login # 908,Latitude # 908,-113.5,
+Transaction_date # 909,Product # 909,Price # 909,Diners,Name # 909,Kelowna,British Columbia,Canada,Account_Created # 909,Last_Login # 909,Latitude # 909,-119.4833333,
+Transaction_date # 910,Product # 910,Price # 910,Visa,Name # 910,Toronto,Ontario,Canada,Account_Created # 910,Last_Login # 910,Latitude # 910,-79.4166667,
+Transaction_date # 911,Product # 911,Price # 911,Diners,Name # 911,Montreal,Quebec,Canada,Account_Created # 911,Last_Login # 911,Latitude # 911,-73.5833333,
+Transaction_date # 912,Product # 912,Price # 912,Visa,Name # 912,North Vancouver,British Columbia,Canada,Account_Created # 912,Last_Login # 912,Latitude # 912,-123.0666667,
+Transaction_date # 913,Product # 913,Price # 913,Diners,Name # 913,Burnaby,British Columbia,Canada,Account_Created # 913,Last_Login # 913,Latitude # 913,-122.95,
+Transaction_date # 914,Product # 914,Price # 914,Visa,Name # 914,Cornwall,Ontario,Canada,Account_Created # 914,Last_Login # 914,Latitude # 914,-74.7333333,
+Transaction_date # 915,Product # 915,Price # 915,Visa,Name # 915,Mount Forest,Ontario,Canada,Account_Created # 915,Last_Login # 915,Latitude # 915,-80.7333333,
+Transaction_date # 916,Product # 916,Price # 916,Visa,Name # 916,Cartierville,Quebec,Canada,Account_Created # 916,Last_Login # 916,Latitude # 916,-73.7166667,
+Transaction_date # 917,Product # 917,Price # 917,Visa,Name # 917,Sainte-Therese-de-Blainville,Quebec,Canada,Account_Created # 917,Last_Login # 917,Latitude # 917,-73.85,
+Transaction_date # 918,Product # 918,Price # 918,Visa,Name # 918,Calgary,Alberta,Canada,Account_Created # 918,Last_Login # 918,Latitude # 918,-114.0833333,
+Transaction_date # 919,Product # 919,Price # 919,Visa,Name # 919,Guelph,Ontario,Canada,Account_Created # 919,Last_Login # 919,Latitude # 919,-80.25,
+Transaction_date # 920,Product # 920,Price # 920,Visa,Name # 920,Edmonton,Alberta,Canada,Account_Created # 920,Last_Login # 920,Latitude # 920,-113.5,
+Transaction_date # 921,Product # 921,Price # 921,Mastercard,Name # 921,Simcoe,Ontario,Canada,Account_Created # 921,Last_Login # 921,Latitude # 921,-80.3,
+Transaction_date # 922,Product # 922,Price # 922,Visa,Name # 922,Waterford,Ontario,Canada,Account_Created # 922,Last_Login # 922,Latitude # 922,-80.2833333,
+Transaction_date # 923,Product # 923,Price # 923,Diners,Name # 923,Vancouver,British Columbia,Canada,Account_Created # 923,Last_Login # 923,Latitude # 923,-123.1333333,
+Transaction_date # 924,Product # 924,Price # 924,Mastercard,Name # 924,Powell River,British Columbia,Canada,Account_Created # 924,Last_Login # 924,Latitude # 924,-124.55,
+Transaction_date # 925,Product # 925,Price # 925,Visa,Name # 925,Vancouver,British Columbia,Canada,Account_Created # 925,Last_Login # 925,Latitude # 925,-123.1333333,
+Transaction_date # 926,Product # 926,Price # 926,Mastercard,Name # 926,Ottawa,Ontario,Canada,Account_Created # 926,Last_Login # 926,Latitude # 926,-75.7,
+Transaction_date # 927,Product # 927,Price # 927,Mastercard,Name # 927,Mission,British Columbia,Canada,Account_Created # 927,Last_Login # 927,Latitude # 927,-122.3,
+Transaction_date # 928,Product # 928,Price # 928,Visa,Name # 928,Toronto,Ontario,Canada,Account_Created # 928,Last_Login # 928,Latitude # 928,-79.4166667,
+Transaction_date # 929,Product # 929,Price # 929,Mastercard,Name # 929,Edmonton,Alberta,Canada,Account_Created # 929,Last_Login # 929,Latitude # 929,-113.5,
+Transaction_date # 930,Product # 930,Price # 930,Diners,Name # 930,Calgary,Alberta,Canada,Account_Created # 930,Last_Login # 930,Latitude # 930,-114.0833333,
+Transaction_date # 931,Product # 931,Price # 931,Visa,Name # 931,Warwick,Quebec,Canada,Account_Created # 931,Last_Login # 931,Latitude # 931,-71.9833333,
+Transaction_date # 932,Product # 932,Price # 932,Visa,Name # 932,Ottawa,Ontario,Canada,Account_Created # 932,Last_Login # 932,Latitude # 932,-75.7,
+Transaction_date # 933,Product # 933,Price # 933,Mastercard,Name # 933,Toronto,Ontario,Canada,Account_Created # 933,Last_Login # 933,Latitude # 933,-79.4166667,
+Transaction_date # 934,Product # 934,Price # 934,Mastercard,Name # 934,Carcross,Yukon Territory,Canada,Account_Created # 934,Last_Login # 934,Latitude # 934,-134.7166667,
+Transaction_date # 935,Product # 935,Price # 935,Visa,Name # 935,Calgary,Alberta,Canada,Account_Created # 935,Last_Login # 935,Latitude # 935,-114.0833333,
+Transaction_date # 936,Product # 936,Price # 936,Mastercard,Name # 936,Zagore,Stara Zagora,Bulgaria,Account_Created # 936,Last_Login # 936,Latitude # 936,25.6666667,
+Transaction_date # 937,Product # 937,Price # 937,Mastercard,Name # 937,Fortaleza,Ceara,Brazil,Account_Created # 937,Last_Login # 937,Latitude # 937,-38.5,
+Transaction_date # 938,Product # 938,Price # 938,Mastercard,Name # 938,Campinas,Sao Paulo,Brazil,Account_Created # 938,Last_Login # 938,Latitude # 938,-47.0833333,
+Transaction_date # 939,Product # 939,Price # 939,Visa,Name # 939,Porto Alegre,Rio Grande do Sul,Brazil,Account_Created # 939,Last_Login # 939,Latitude # 939,-51.2,
+Transaction_date # 940,Product # 940,Price # 940,Mastercard,Name # 940,Vespasiano,Minas Gerais,Brazil,Account_Created # 940,Last_Login # 940,Latitude # 940,-43.9166667,
+Transaction_date # 941,Product # 941,Price # 941,Amex,Name # 941,Mafra,Santa Catarina,Brazil,Account_Created # 941,Last_Login # 941,Latitude # 941,-49.8016667,
+Transaction_date # 942,Product # 942,Price # 942,Visa,Name # 942,Hamilton,Hamilton,Bermuda,Account_Created # 942,Last_Login # 942,Latitude # 942,-64.7838889,
+Transaction_date # 943,Product # 943,Price # 943,Visa,Name # 943,Brussels,Brussels (Bruxelles),Belgium,Account_Created # 943,Last_Login # 943,Latitude # 943,4.3333333,
+Transaction_date # 944,Product # 944,Price # 944,Amex,Name # 944,Bruxelles,Brussels (Bruxelles),Belgium,Account_Created # 944,Last_Login # 944,Latitude # 944,4.3333333,
+Transaction_date # 945,Product # 945,Price # 945,Visa,Name # 945,Antwerpen,Antwerpen,Belgium,Account_Created # 945,Last_Login # 945,Latitude # 945,4.4166667,
+Transaction_date # 946,Product # 946,Price # 946,Visa,Name # 946,Brussels,Brussels (Bruxelles),Belgium,Account_Created # 946,Last_Login # 946,Latitude # 946,4.3333333,
+Transaction_date # 947,Product # 947,Price # 947,Visa,Name # 947,Bruxelles,Brussels (Bruxelles),Belgium,Account_Created # 947,Last_Login # 947,Latitude # 947,4.3333333,
+Transaction_date # 948,Product # 948,Price # 948,Amex,Name # 948,Bruxelles,Brussels (Bruxelles),Belgium,Account_Created # 948,Last_Login # 948,Latitude # 948,4.3333333,
+Transaction_date # 949,Product # 949,Price # 949,Mastercard,Name # 949,Brussels,Brussels (Bruxelles),Belgium,Account_Created # 949,Last_Login # 949,Latitude # 949,4.3333333,
+Transaction_date # 950,Product # 950,Price # 950,Visa,Name # 950,La Louviere,Hainaut,Belgium,Account_Created # 950,Last_Login # 950,Latitude # 950,4.1833333,
+Transaction_date # 951,Product # 951,Price # 951,Visa,Name # 951,Al 'Adliyah,Al Manamah,Bahrain,Account_Created # 951,Last_Login # 951,Latitude # 951,50.5405556,
+Transaction_date # 952,Product # 952,Price # 952,Visa,Name # 952,Vienna,Vienna,Austria,Account_Created # 952,Last_Login # 952,Latitude # 952,16.3666667,
+Transaction_date # 953,Product # 953,Price # 953,Mastercard,Name # 953,Neustift am Walde,Vienna,Austria,Account_Created # 953,Last_Login # 953,Latitude # 953,16.3,
+Transaction_date # 954,Product # 954,Price # 954,Mastercard,Name # 954,Neustift am Walde,Vienna,Austria,Account_Created # 954,Last_Login # 954,Latitude # 954,16.3,
+Transaction_date # 955,Product # 955,Price # 955,Visa,Name # 955,Altlengbach,Lower Austria,Austria,Account_Created # 955,Last_Login # 955,Latitude # 955,15.9166667,
+Transaction_date # 956,Product # 956,Price # 956,Mastercard,Name # 956,Klosterneuburg,Lower Austria,Austria,Account_Created # 956,Last_Login # 956,Latitude # 956,16.3166667,
+Transaction_date # 957,Product # 957,Price # 957,Mastercard,Name # 957,WalcProduct3ee,Tyrol,Austria,Account_Created # 957,Last_Login # 957,Latitude # 957,12.3166667,
+Transaction_date # 958,Product # 958,Price # 958,Visa,Name # 958,Inner City,Vienna,Austria,Account_Created # 958,Last_Login # 958,Latitude # 958,16.3666667,
+Transaction_date # 959,Product # 959,Price # 959,Visa,Name # 959,Echuca,Victoria,Australia,Account_Created # 959,Last_Login # 959,Latitude # 959,144.75,
+Transaction_date # 960,Product # 960,Price # 960,Visa,Name # 960,Burpengary,Queensland,Australia,Account_Created # 960,Last_Login # 960,Latitude # 960,152.95,
+Transaction_date # 961,Product # 961,Price # 961,Mastercard,Name # 961,Melbourne,Victoria,Australia,Account_Created # 961,Last_Login # 961,Latitude # 961,144.9666667,
+Transaction_date # 962,Product # 962,Price # 962,Visa,Name # 962,Gold Coast,Queensland,Australia,Account_Created # 962,Last_Login # 962,Latitude # 962,153.4333333,
+Transaction_date # 963,Product # 963,Price # 963,Visa,Name # 963,Brisbane,Queensland,Australia,Account_Created # 963,Last_Login # 963,Latitude # 963,153.0166667,
+Transaction_date # 964,Product # 964,Price # 964,Amex,Name # 964,Charlestown,New South Wales,Australia,Account_Created # 964,Last_Login # 964,Latitude # 964,151.6666667,
+Transaction_date # 965,Product # 965,Price # 965,Visa,Name # 965,The Grange,Queensland,Australia,Account_Created # 965,Last_Login # 965,Latitude # 965,152.4166667,
+Transaction_date # 966,Product # 966,Price # 966,Visa,Name # 966,Sydney,New South Wales,Australia,Account_Created # 966,Last_Login # 966,Latitude # 966,151.2166667,
+Transaction_date # 967,Product # 967,Price # 967,Visa,Name # 967,Wollongong,New South Wales,Australia,Account_Created # 967,Last_Login # 967,Latitude # 967,150.8833333,
+Transaction_date # 968,Product # 968,Price # 968,Mastercard,Name # 968,Coomera,Queensland,Australia,Account_Created # 968,Last_Login # 968,Latitude # 968,153.3,
+Transaction_date # 969,Product # 969,Price # 969,Visa,Name # 969,Mona Vale,New South Wales,Australia,Account_Created # 969,Last_Login # 969,Latitude # 969,151.3,
+Transaction_date # 970,Product # 970,Price # 970,Mastercard,Name # 970,Sydney,New South Wales,Australia,Account_Created # 970,Last_Login # 970,Latitude # 970,151.2166667,
+Transaction_date # 971,Product # 971,Price # 971,Visa,Name # 971,Nerang,Queensland,Australia,Account_Created # 971,Last_Login # 971,Latitude # 971,153.3333333,
+Transaction_date # 972,Product # 972,Price # 972,Mastercard,Name # 972,South Melbourne,Victoria,Australia,Account_Created # 972,Last_Login # 972,Latitude # 972,144.9666667,
+Transaction_date # 973,Product # 973,Price # 973,Visa,Name # 973,Warwick,Queensland,Australia,Account_Created # 973,Last_Login # 973,Latitude # 973,152.0166667,
+Transaction_date # 974,Product # 974,Price # 974,Visa,Name # 974,Parramatta,New South Wales,Australia,Account_Created # 974,Last_Login # 974,Latitude # 974,151,
+Transaction_date # 975,Product # 975,Price # 975,Visa,Name # 975,Gisborne,Victoria,Australia,Account_Created # 975,Last_Login # 975,Latitude # 975,144.5833333,
+Transaction_date # 976,Product # 976,Price # 976,Mastercard,Name # 976,Griffith,New South Wales,Australia,Account_Created # 976,Last_Login # 976,Latitude # 976,146.0333333,
+Transaction_date # 977,Product # 977,Price # 977,Visa,Name # 977,Lindfield,New South Wales,Australia,Account_Created # 977,Last_Login # 977,Latitude # 977,151.1666667,
+Transaction_date # 978,Product # 978,Price # 978,Visa,Name # 978,Melbourne,Victoria,Australia,Account_Created # 978,Last_Login # 978,Latitude # 978,144.9666667,
+Transaction_date # 979,Product # 979,Price # 979,Visa,Name # 979,Melbourne,Victoria,Australia,Account_Created # 979,Last_Login # 979,Latitude # 979,144.9666667,
+Transaction_date # 980,Product # 980,Price # 980,Diners,Name # 980,Vaucluse,New South Wales,Australia,Account_Created # 980,Last_Login # 980,Latitude # 980,151.2833333,
+Transaction_date # 981,Product # 981,Price # 981,Visa,Name # 981,Lyndoch,South Australia,Australia,Account_Created # 981,Last_Login # 981,Latitude # 981,138.8833333,
+Transaction_date # 982,Product # 982,Price # 982,Visa,Name # 982,Perth,Western Australia,Australia,Account_Created # 982,Last_Login # 982,Latitude # 982,115.8333333,
+Transaction_date # 983,Product # 983,Price # 983,Mastercard,Name # 983,Anglesea,Victoria,Australia,Account_Created # 983,Last_Login # 983,Latitude # 983,144.1666667,
+Transaction_date # 984,Product # 984,Price # 984,Visa,Name # 984,Perth City,Western Australia,Australia,Account_Created # 984,Last_Login # 984,Latitude # 984,115.8333333,
+Transaction_date # 985,Product # 985,Price # 985,Visa,Name # 985,Melbourne,Victoria,Australia,Account_Created # 985,Last_Login # 985,Latitude # 985,144.9666667,
+Transaction_date # 986,Product # 986,Price # 986,Visa,Name # 986,Scamander,Tasmania,Australia,Account_Created # 986,Last_Login # 986,Latitude # 986,148.2572222,
+Transaction_date # 987,Product # 987,Price # 987,Mastercard,Name # 987,Rockingham,Western Australia,Australia,Account_Created # 987,Last_Login # 987,Latitude # 987,115.7166667,
+Transaction_date # 988,Product # 988,Price # 988,Amex,Name # 988,Melbourne,Victoria,Australia,Account_Created # 988,Last_Login # 988,Latitude # 988,144.9666667,
+Transaction_date # 989,Product # 989,Price # 989,Mastercard,Name # 989,Bunbury,Western Australia,Australia,Account_Created # 989,Last_Login # 989,Latitude # 989,115.6333333,
+Transaction_date # 990,Product # 990,Price # 990,Mastercard,Name # 990,Birkdale,Queensland,Australia,Account_Created # 990,Last_Login # 990,Latitude # 990,153.2166667,
+Transaction_date # 991,Product # 991,Price # 991,Visa,Name # 991,Brisbane,Queensland,Australia,Account_Created # 991,Last_Login # 991,Latitude # 991,153.0166667,
+Transaction_date # 992,Product # 992,Price # 992,Visa,Name # 992,Perth,Western Australia,Australia,Account_Created # 992,Last_Login # 992,Latitude # 992,115.8333333,
+Transaction_date # 993,Product # 993,Price # 993,Diners,Name # 993,Perth,Western Australia,Australia,Account_Created # 993,Last_Login # 993,Latitude # 993,115.8333333,
+Transaction_date # 994,Product # 994,Price # 994,Mastercard,Name # 994,Worongary,Queensland,Australia,Account_Created # 994,Last_Login # 994,Latitude # 994,153.35,
+Transaction_date # 995,Product # 995,Price # 995,Mastercard,Name # 995,Avalon,New South Wales,Australia,Account_Created # 995,Last_Login # 995,Latitude # 995,151.3333333,
+Transaction_date # 996,Product # 996,Price # 996,Mastercard,Name # 996,Sydney,New South Wales,Australia,Account_Created # 996,Last_Login # 996,Latitude # 996,151.2166667,
+Transaction_date # 997,Product # 997,Price # 997,Amex,Name # 997,Ayacucho,Buenos Aires,Argentina,Account_Created # 997,Last_Login # 997,Latitude # 997,-58.4833333,
