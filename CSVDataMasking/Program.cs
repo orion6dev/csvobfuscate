@@ -1,107 +1,108 @@
-﻿using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
+﻿//
+//  COPYRIGHT (C) 2021 Orion6 Software Engineering,
+//                     all rights reserved.
+//
+//
+
+#region
+
 using System;
 using System.Collections.Generic;
-using System.Data;
 using System.IO;
 using System.Linq;
 using System.Text;
+using Newtonsoft.Json;
 
-namespace CSVDataMasking
+#endregion
+
+var separator = ',';
+
+var historyFileName = "history.txt";
+if (!File.Exists(args[0]))
 {
-    class Program
-    {
-        public static IConfigurationRoot Configuration;
-        static void Main(string[] args)
-        {
-            var builder = new ConfigurationBuilder().SetBasePath(Path.Combine(AppContext.BaseDirectory))
-                                                    .AddJsonFile("appsettings.json", optional: true);
-            Configuration = builder.Build();
-            var inputFilePath = Configuration["Settings:InputFilePath"].ToString();
-            var outputFilePath = Configuration["Settings:OutputFilePath"].ToString();
-            var maskingColumnNames = Configuration["Settings:MaskingColumnNames"].ToString().Split(',');
-            var outputfileName = Configuration["Settings:outputFileName"].ToString();
-
-            // read a CSV
-            // convert data to DataTable for easy Parsing
-            var dt = ConvertCSVtoDataTable(inputFilePath);
-
-            if (dt != null)
-            {
-                // Loop through all the columns of DataTable and Apply masking using the array
-                foreach (DataColumn col in dt.Columns)
-                {
-                    if (Array.IndexOf(maskingColumnNames, col.ColumnName) > -1)
-                    {
-                        for (int i = 0; i < dt.Rows.Count; i++)
-                        {
-                            var row = dt.Rows[i];
-                            row.SetField(col, $"{col.ColumnName} # {i}");
-                        }
-                    }
-                }
-
-                // save the resultant DataTable in a CSV
-                ExportDatatableToCSV(dt, outputFilePath, outputfileName);
-            }
-        }
-
-
-        public static DataTable ConvertCSVtoDataTable(string strFilePath)
-        {
-            try
-            {
-                DataTable dt = new DataTable();
-                using (StreamReader sr = new StreamReader(strFilePath))
-                {
-                    string[] headers = sr.ReadLine().Split(',');
-                    foreach (string header in headers)
-                    {
-                        dt.Columns.Add(header);
-                    }
-                    while (!sr.EndOfStream)
-                    {
-                        string[] rows = sr.ReadLine().Split(',');
-                        DataRow dr = dt.NewRow();
-                        for (int i = 0; i < headers.Length; i++)
-                        {
-                            dr[i] = rows[i];
-                        }
-                        dt.Rows.Add(dr);
-                    }
-
-                }
-                return dt;
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine($"Error in trying to convert CSV to DataTable | Error: {ex.Message}");
-                return new DataTable();
-            }
-        }
-
-        public static void ExportDatatableToCSV(DataTable dt, string outputFilePath, string outputfileName)
-        {
-            try
-            {
-                StringBuilder sb = new StringBuilder();
-
-                IEnumerable<string> columnNames = dt.Columns.Cast<DataColumn>().
-                                                  Select(column => column.ColumnName);
-                sb.AppendLine(string.Join(",", columnNames));
-
-                foreach (DataRow row in dt.Rows)
-                {
-                    IEnumerable<string> fields = row.ItemArray.Select(field => field.ToString());
-                    sb.AppendLine(string.Join(",", fields));
-                }
-
-                File.WriteAllText($"{outputFilePath}\\{outputfileName}", sb.ToString());
-            }
-            catch(Exception ex)
-            {
-                Console.WriteLine($"Error in trying to Export DataTable to CSV | Error: {ex.Message}");
-            }
-        }
-    }
+    throw new Exception("Input file not found");
 }
+
+if (File.Exists(args[1]))
+{
+    throw new Exception("Output file exits");
+}
+
+// Get an enumeration of all strings in the file.
+var payload = File.ReadLines(
+    args[0]
+  , Encoding.Latin1);
+
+// Determine the headers.
+var Headers =
+    payload
+        .First()
+        .Split(separator);
+
+// Read the headers of the columns to be masked.
+var MaskHeaders =
+    File
+        .ReadLines("mask-header.txt");
+
+// Determine the column number of the headers
+var columnNumbers = Headers
+    .Select((_, index) => index)
+    .Where(index => MaskHeaders.Contains(Headers[index]));
+
+// Create a dictionary where we store the original value and the masked value
+// combination.
+var maskedValues = new Dictionary<string, string>();
+
+// Read historical values so we keep a consistent view of the
+// test data.
+
+if (File.Exists(historyFileName))
+{
+    maskedValues = JsonConvert.DeserializeObject<Dictionary<string, string>>(
+        File.ReadAllText(historyFileName));
+}
+
+foreach (var columnNumber in columnNumbers)
+{
+    // Determine all distinct values in the column
+
+    var ColumnValues =
+        payload
+            .Skip(1) // skip header record
+            .Select(item => item.Split(separator)) // split record in columns
+            .Select(columnValue => columnValue[columnNumber]) // select the column value
+            .Distinct(); // remove duplicates
+
+    var counter = maskedValues.Count;
+
+    // For all found distinct column values, we generate a masked value
+    foreach (var columnValue in ColumnValues)
+        if (!maskedValues.ContainsKey(columnValue))
+        {
+            maskedValues.Add(
+                columnValue // The original column value
+              , $"{Headers[columnNumber]} {counter++:0000}"); // the masked value
+        }
+}
+
+// As of here, the maskedValues dictionary contains the original column content (key)
+// and the masked value (value).
+
+// Now replace all original content with the masked value and write out to file.
+File.WriteAllText(
+    args[1]
+  , maskedValues.Aggregate(
+        File.ReadAllText(
+            args[0]
+          , Encoding.Latin1)
+      , (current, kv) => current.Replace(
+            kv.Key
+          , kv.Value)));
+
+// Write out the obfuscated values for future reference.
+
+File.WriteAllText(
+    historyFileName
+  , JsonConvert.SerializeObject(
+        maskedValues
+      , (Formatting) System.Xml.Formatting.Indented));
