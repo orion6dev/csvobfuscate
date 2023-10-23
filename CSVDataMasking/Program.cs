@@ -1,93 +1,65 @@
-﻿//
-//  COPYRIGHT (C) 2021 Orion6 Software Engineering,
-//                     all rights reserved.
-//
-//
-
-using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
+using System.Globalization;
 using System.IO;
-using System.Linq;
 using System.Text;
-using System.Text.Json;
+using CsvHelper;
+using CsvHelper.Configuration;
 
-const char separator = ';';
+namespace CSVDataMasking;
 
-var historyFileName = @"c:\temp\history.txt";
-if (!File.Exists(args[0])) throw new Exception("Input file not found");
-
-if (File.Exists(args[1])) throw new Exception("Output file exits");
-
-// Get an enumeration of all strings in the file.
-var payload = File.ReadLines(args[0], Encoding.Latin1);
-
-if (payload == null)
-    throw new Exception("Input file is empty");
-
-// Determine the headers.
-var headers =
-    payload
-        .First()
-        .Split(separator);
-
-// Read the headers of the columns to be masked.
-var maskHeaders =
-    File
-        .ReadLines(@"c:\temp\mask-header.txt");
-
-// Determine the column number of the headers
-var columnNumbers = headers
-    .Select((_, index) => index)
-    .Where(index => maskHeaders.Contains(headers[index]));
-
-// Create a dictionary where we store the original value and the masked value
-// combination.
-var maskedValues = new Dictionary<string, string>();
-
-// Read historical values so we keep a consistent view of the
-// test data.
-
-if (File.Exists(historyFileName))
-    maskedValues = JsonSerializer.Deserialize<Dictionary<string, string>>(
-        File.ReadAllText(historyFileName));
-
-foreach (var columnNumber in columnNumbers)
+internal static class Program
 {
-    // Determine all distinct values in the column
+    private static void Main(string[] args)
+    {
+        var inputFilePath = @"c:\temp\dump.csv";
+        var outputFilePath = @"c:\temp\masked.csv";
 
-    var columnValues =
-        payload
-            .Skip(1) // skip header record
-            .Select(item => item.Split(separator)) // split record in columns
-            .Select(columnValue => columnValue[columnNumber]) // select the column value
-            .Distinct(); // remove duplicates
+        var i = File.OpenRead(inputFilePath);
 
-    var counter = maskedValues.Count;
+        using var sr = new StreamReader(i, Encoding.UTF8, true);
 
-    // For all found distinct column values, we generate a masked value
-    foreach (var columnValue in columnValues)
-        if (!maskedValues.ContainsKey(columnValue))
-            maskedValues.Add(
-                columnValue // The original column value
-                , $"{headers[columnNumber]} {counter++:0000}"); // the masked value
+        var csvConfiguration = new CsvConfiguration(CultureInfo.GetCultureInfo("de-de"))
+        {
+            Delimiter = "|",
+            TrimOptions = TrimOptions.Trim,
+            HasHeaderRecord = true,
+            MissingFieldFound = null,
+            HeaderValidated = null,
+            ShouldQuote = args => true
+        };
+
+        using var csvReader = new CsvReader(sr, csvConfiguration);
+        csvReader.Read();
+        csvReader.ReadHeader();
+
+        using var sw = new StreamWriter(outputFilePath, false, new UTF8Encoding(true));
+
+        var csvWriter = new CsvWriter(sw, csvConfiguration);
+
+        // Write headers to the new CSV file.
+        foreach (var header in csvReader.HeaderRecord)
+        {
+            csvWriter.WriteField(header);
+        }
+
+        csvWriter.NextRecord();
+
+        // Read and modify records.
+        while (csvReader.Read())
+        {
+            var record = csvReader.GetRecord<dynamic>() as IDictionary<string, object>;
+
+            // Modify a specific column's value. Replace "ColumnName" with your actual column name.
+                var oldValue = record["LongText"];
+                record["LongText"] = oldValue + "..."; // Modify however you like.
+
+            // Write the record.
+            foreach (var value in record.Values)
+            {
+                csvWriter.WriteField(value);
+            }
+
+            csvWriter.NextRecord();
+        }
+    }
 }
-
-// As of here, the maskedValues dictionary contains the original column content (key)
-// and the masked value (value).
-
-// Now replace all original content with the masked value and write out to file.
-File.WriteAllText(
-    args[1]
-    , maskedValues.Aggregate(
-        File.ReadAllText(
-            args[0]
-            , Encoding.Latin1)
-        , (current, kv) => current.Replace(
-            kv.Key
-            , kv.Value)));
-
-// Write out the obfuscated values for future reference.
-
-File.WriteAllText(
-    historyFileName
-    , JsonSerializer.Serialize(maskedValues));
