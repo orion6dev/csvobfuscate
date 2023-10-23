@@ -53,6 +53,8 @@ internal static class Program
             return oldValue;
         });
 
+        valueReplacer.LoadCacheFromFile();
+
         while (csvReader.Read())
         {
             var record = csvReader.GetRecord<dynamic>() as IDictionary<string, object>;
@@ -70,5 +72,8 @@ internal static class Program
             }
 
             csvWriter.NextRecord();
-        }    }
+        }    
+        
+        valueReplacer.SaveCacheToFile();
+    }
 }
