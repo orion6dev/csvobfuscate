@@ -44,14 +44,24 @@ internal static class Program
 
         csvWriter.NextRecord();
 
-        // Read and modify records.
+        int counter = 0;
+        var valueReplacer = new ValueReplacer((columnName, oldValue) =>
+        {
+            if (columnName == "Description1")
+                return $"product {counter++}";
+            
+            return oldValue;
+        });
+
         while (csvReader.Read())
         {
             var record = csvReader.GetRecord<dynamic>() as IDictionary<string, object>;
 
             // Modify a specific column's value. Replace "ColumnName" with your actual column name.
-                var oldValue = record["LongText"];
-                record["LongText"] = oldValue + "..."; // Modify however you like.
+            var columnName = "Description1";
+            var oldValue = record[columnName];
+            var newValue = valueReplacer.GetNewValue(columnName, oldValue);
+            record[columnName] = newValue;
 
             // Write the record.
             foreach (var value in record.Values)
@@ -60,6 +70,5 @@ internal static class Program
             }
 
             csvWriter.NextRecord();
-        }
-    }
+        }    }
 }
