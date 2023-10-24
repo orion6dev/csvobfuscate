@@ -24,4 +24,8 @@
         <PackageReference Include="CsvHelper" Version="30.0.1"/>
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Cache2Db\Cache2Db.csproj" />
+    </ItemGroup>
+
 </Project>

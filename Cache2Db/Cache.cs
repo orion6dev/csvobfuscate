@@ -5,6 +5,12 @@ namespace Cache2Db;
 
 public class Cache
 {
+    private readonly IDictionary<string, string> _hitList = new Dictionary<string, string>();
+
+    private int _counter;
+
+    private readonly IDictionary<string, string> _wordList = new Dictionary<string, string>();
+
     /// <summary>
     ///     Computes the MD5 hash of the given string payload.
     /// </summary>
@@ -32,20 +38,20 @@ public class Cache
         return hashBytes;
     }
 
-    private IDictionary<string, string> _wordList = new Dictionary<string, string>();
-
-    internal void LoadWordList()
+    private void LoadWordList()
     {
-        var lines = File.ReadLines("wordlist.10000.txt");
-        foreach (var line in lines)
-        {
-            _wordList.Add(Convert.ToBase64String(MD5HashFromString(line)), line);
-        }
-    }
-    
-    private readonly IDictionary<string, string> _hitList = new Dictionary<string, string>();
+        var lines = File.ReadLines("wordlist.10000.txt").ToList();
+        var random = new Random();
 
-    private int _counter = 0;
+        // Fisher-Yates shuffle
+        for (var i = lines.Count - 1; i > 0; i--)
+        {
+            var j = random.Next(i + 1);
+            (lines[i], lines[j]) = (lines[j], lines[i]);
+        }
+
+        foreach (var line in lines) _wordList.Add(Convert.ToBase64String(MD5HashFromString(line)), line);
+    }
 
     private string Lookup(string hashString)
     {
@@ -61,6 +67,9 @@ public class Cache
 
     public string GetReplacement(string original)
     {
+        if (string.IsNullOrEmpty(original))
+            return original;
+        
         if (_wordList.Count == 0)
             LoadWordList();
 

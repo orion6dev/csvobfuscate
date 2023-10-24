@@ -1,7 +1,9 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
 using System.Text;
+using Cache2Db;
 using CsvHelper;
 using CsvHelper.Configuration;
 
@@ -11,6 +13,7 @@ internal static class Program
 {
     private static void Main(string[] args)
     {
+        var ColumnsToReplace = new[] {"Description1", "Description2", "MatchCode", "LongText"}; 
         var inputFilePath = @"c:\temp\dump.csv";
         var outputFilePath = @"c:\temp\masked.csv";
 
@@ -32,8 +35,9 @@ internal static class Program
         csvReader.Read();
         csvReader.ReadHeader();
 
+        var cache = new Cache();
+        
         using var sw = new StreamWriter(outputFilePath, false, new UTF8Encoding(true));
-
         var csvWriter = new CsvWriter(sw, csvConfiguration);
 
         // Write headers to the new CSV file.
@@ -41,33 +45,21 @@ internal static class Program
 
         csvWriter.NextRecord();
 
-        var counter = 0;
-        var valueReplacer = new ValueReplacer((columnName, oldValue) =>
-        {
-            if (columnName == "Description1")
-                return $"product {counter++}";
-
-            return oldValue;
-        });
-
-        valueReplacer.LoadCacheFromFile();
-
         while (csvReader.Read())
         {
             var record = csvReader.GetRecord<dynamic>() as IDictionary<string, object>;
 
             // Modify a specific column's value. Replace "ColumnName" with your actual column name.
-            var columnName = "Description1";
-            var oldValue = record[columnName];
-            var newValue = valueReplacer.GetNewValue(columnName, oldValue);
-            record[columnName] = newValue;
+            foreach (var columnName in ColumnsToReplace)
+            {
+                var oldValue = record[columnName];
+                record[columnName] = cache.GetReplacement(oldValue as string ?? throw new InvalidOperationException());
+            }
 
             // Write the record.
             foreach (var value in record.Values) csvWriter.WriteField(value);
 
             csvWriter.NextRecord();
         }
-
-        valueReplacer.SaveCacheToFile();
     }
 }
