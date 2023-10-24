@@ -61,5 +61,7 @@ internal static class Program
 
             csvWriter.NextRecord();
         }
+        
+        cache.SaveDictionaryToFile(@"c:\temp\dictionary.json");
     }
 }

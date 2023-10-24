@@ -1,5 +1,6 @@
 ﻿using System.Security.Cryptography;
 using System.Text;
+using System.Text.Json;
 
 namespace Cache2Db;
 
@@ -7,9 +8,9 @@ public class Cache
 {
     private readonly IDictionary<string, string> _hitList = new Dictionary<string, string>();
 
-    private int _counter;
-
     private readonly IDictionary<string, string> _wordList = new Dictionary<string, string>();
+
+    private int _counter;
 
     /// <summary>
     ///     Computes the MD5 hash of the given string payload.
@@ -51,6 +52,8 @@ public class Cache
         }
 
         foreach (var line in lines) _wordList.Add(Convert.ToBase64String(MD5HashFromString(line)), line);
+        
+        ReadDictionaryFromFile(@"c:\temp\dictionary.json");
     }
 
     private string Lookup(string hashString)
@@ -69,10 +72,27 @@ public class Cache
     {
         if (string.IsNullOrEmpty(original))
             return original;
-        
+
         if (_wordList.Count == 0)
             LoadWordList();
 
         return Lookup(Convert.ToBase64String(MD5HashFromString(original)));
+    }
+
+    public void SaveDictionaryToFile(string filePath)
+    {
+        var json = JsonSerializer.Serialize(_hitList);
+        File.WriteAllText(filePath, json);
+    }
+
+    public void ReadDictionaryFromFile(string filePath)
+    {
+        if (File.Exists(filePath))
+        {
+            var json = File.ReadAllText(filePath);
+            _hitList.Clear();
+            var data = JsonSerializer.Deserialize<Dictionary<string, string>>(json);
+            foreach (var item in data) _hitList.Add(item.Key, item.Value);
+        }
     }
 }
