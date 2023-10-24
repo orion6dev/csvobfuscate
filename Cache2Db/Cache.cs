@@ -39,9 +39,12 @@ public class Cache
         return hashBytes;
     }
 
-    private void LoadWordList()
+    public void LoadWordList(string wordList, string hitList)
     {
-        var lines = File.ReadLines("wordlist.10000.txt").ToList();
+        if (!File.Exists(wordList))
+            throw new FileNotFoundException("Wordlist not found", wordList);
+        
+        var lines = File.ReadLines(wordList).ToList();
         var random = new Random();
 
         // Fisher-Yates shuffle
@@ -53,7 +56,10 @@ public class Cache
 
         foreach (var line in lines) _wordList.Add(Convert.ToBase64String(MD5HashFromString(line)), line);
         
-        ReadDictionaryFromFile(@"c:\temp\dictionary.json");
+        if (!File.Exists(hitList))
+            return;
+        
+        ReadDictionaryFromFile(hitList);
     }
 
     private string Lookup(string hashString)
@@ -74,7 +80,7 @@ public class Cache
             return original;
 
         if (_wordList.Count == 0)
-            LoadWordList();
+            throw new ApplicationException("Wordlist not initialized");
 
         return Lookup(Convert.ToBase64String(MD5HashFromString(original)));
     }
