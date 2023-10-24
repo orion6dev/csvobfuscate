@@ -37,19 +37,16 @@ internal static class Program
         var csvWriter = new CsvWriter(sw, csvConfiguration);
 
         // Write headers to the new CSV file.
-        foreach (var header in csvReader.HeaderRecord)
-        {
-            csvWriter.WriteField(header);
-        }
+        foreach (var header in csvReader.HeaderRecord) csvWriter.WriteField(header);
 
         csvWriter.NextRecord();
 
-        int counter = 0;
+        var counter = 0;
         var valueReplacer = new ValueReplacer((columnName, oldValue) =>
         {
             if (columnName == "Description1")
                 return $"product {counter++}";
-            
+
             return oldValue;
         });
 
@@ -66,14 +63,11 @@ internal static class Program
             record[columnName] = newValue;
 
             // Write the record.
-            foreach (var value in record.Values)
-            {
-                csvWriter.WriteField(value);
-            }
+            foreach (var value in record.Values) csvWriter.WriteField(value);
 
             csvWriter.NextRecord();
-        }    
-        
+        }
+
         valueReplacer.SaveCacheToFile();
     }
 }

@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVDataMasking", "CSVDataMasking\CSVDataMasking.csproj", "{4D1687D2-BB5D-4091-B361-3051B9588F8C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cache2Db", "Cache2Db\Cache2Db.csproj", "{FD127C06-18CD-4D71-8A54-49B244A927AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVDataMaskingUt", "CSVDataMaskingUt\CSVDataMaskingUt.csproj", "{A727D0BB-E452-4586-A3C0-4D0673BF5814}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{4D1687D2-BB5D-4091-B361-3051B9588F8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D1687D2-BB5D-4091-B361-3051B9588F8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D1687D2-BB5D-4091-B361-3051B9588F8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD127C06-18CD-4D71-8A54-49B244A927AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD127C06-18CD-4D71-8A54-49B244A927AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD127C06-18CD-4D71-8A54-49B244A927AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD127C06-18CD-4D71-8A54-49B244A927AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A727D0BB-E452-4586-A3C0-4D0673BF5814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A727D0BB-E452-4586-A3C0-4D0673BF5814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A727D0BB-E452-4586-A3C0-4D0673BF5814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A727D0BB-E452-4586-A3C0-4D0673BF5814}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
